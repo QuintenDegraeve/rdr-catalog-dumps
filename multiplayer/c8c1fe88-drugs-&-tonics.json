@@ -1,0 +1,2048 @@
+{
+    "total": 17,
+    "items": [
+        {
+            "brand": "027f84e2",
+            "categories": [
+                "c8c1fe88/fac15557"
+            ],
+            "clothingVariations": [],
+            "costDefault": {
+                "currencyHash": 2084597891,
+                "nameHash": -915411861,
+                "isFromPrice": false,
+                "price": 700,
+                "quantity": 1,
+                "unlockEnums": [],
+                "unlockIds": []
+            },
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 700,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ],
+            "costOther": [],
+            "description": "Doc Crockett’s all purpose miracle tonic is uniquely curative and restorative. No other product gives you the benefit of health, stamina and focus.",
+            "englishName": "Potent Miracle Tonic",
+            "effects": [
+                {
+                    "duration": 2,
+                    "hash": 1869697234,
+                    "value": 0
+                },
+                {
+                    "duration": 2,
+                    "hash": -1240225157,
+                    "value": 0
+                },
+                {
+                    "duration": 2,
+                    "hash": 1342237631,
+                    "value": 0
+                }
+            ],
+            "enumHash": 730856618,
+            "expiryStatus": "notExpired",
+            "name": "Potent Miracle Tonic",
+            "gameMode": "mp",
+            "group": "CONSUMABLE",
+            "horseVariations": [],
+            "images": [
+                {
+                    "type": 0,
+                    "url": "/global/catalog/rdr2/4a38ed8f/2d9dd1d861d5dd49c4fa11f967a3d0525c04850d.png",
+                    "altText": ""
+                },
+                {
+                    "type": 1,
+                    "url": "/global/catalog/rdr2/4a38ed8f/64fb71210de5a3167d3d372eac801b61b50e46f9.png",
+                    "altText": ""
+                },
+                {
+                    "type": 2,
+                    "url": "/global/catalog/rdr2/4a38ed8f/5df0b4f4e2b69ee45612859ffd6d3ae1bdcab266.jpg",
+                    "altText": ""
+                }
+            ],
+            "priorityAccessCosts": [],
+            "priorityAccessHash": 0,
+            "requirements": [],
+            "slots": [
+                {
+                    "hash": -1909200748,
+                    "quantity": 10
+                },
+                {
+                    "hash": 1084182731,
+                    "quantity": 20
+                },
+                {
+                    "hash": -673000374,
+                    "quantity": 0
+                },
+                {
+                    "hash": 316207340,
+                    "quantity": 10
+                },
+                {
+                    "hash": 1583044470,
+                    "quantity": 99
+                },
+                {
+                    "hash": 1045621973,
+                    "quantity": -1
+                }
+            ],
+            "tags": [
+                1009210113,
+                266762988,
+                1147021565,
+                -764700608,
+                -305066475,
+                -537818634,
+                795426633,
+                -458578204,
+                1939071949,
+                -127108988,
+                -1948723158,
+                887366763,
+                -906398725,
+                836323602,
+                18203328,
+                1177617310
+            ],
+            "trade": "intro",
+            "unlockRank": 1,
+            "webDescription1": "Doc Crockett’s all purpose miracle tonic is uniquely curative and restorative. No other product gives you the benefit of health, stamina and focus.",
+            "webDescription2": "",
+            "webHeadline1": "",
+            "webHeadline2": "",
+            "id": "5bdd2c7a",
+            "variations": []
+        },
+        {
+            "brand": "9e810871",
+            "categories": [
+                "c8c1fe88/8df7ebf8",
+                "36dd3c68/dd9ca5bc"
+            ],
+            "clothingVariations": [],
+            "costDefault": {
+                "currencyHash": 2084597891,
+                "nameHash": -915411861,
+                "isFromPrice": false,
+                "price": 600,
+                "quantity": 4,
+                "unlockEnums": [],
+                "unlockIds": []
+            },
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 600,
+                    "quantity": 4,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ],
+            "costOther": [],
+            "description": "Jolly Jack’s Chewing Tobacco – Cut plug. Taste it! Chew it! Spit! A gentlemanly pleasure that lasts till the cows come home. One pack contains four plugs of tobacco.",
+            "englishName": "Chewing Tobacco",
+            "effects": [
+                {
+                    "hash": 1857353317,
+                    "value": -1
+                },
+                {
+                    "duration": 1,
+                    "hash": 1342237631,
+                    "value": 0
+                }
+            ],
+            "enumHash": -324053813,
+            "expiryStatus": "notExpired",
+            "name": "Chewing Tobacco",
+            "gameMode": "mp",
+            "group": "CONSUMABLE",
+            "horseVariations": [],
+            "images": [
+                {
+                    "type": 0,
+                    "url": "/global/catalog/rdr2/cf288782/c102a9d4d12aca55ea71c5f02a40529d1e23c11d.png",
+                    "altText": ""
+                },
+                {
+                    "type": 1,
+                    "url": "/global/catalog/rdr2/cf288782/b83651694f6ca9fae4fae16ad6c10a69910189ed.png",
+                    "altText": ""
+                },
+                {
+                    "type": 2,
+                    "url": "/global/catalog/rdr2/cf288782/821703437d7ee1077240ceaf9c1cbc5044ad7d87.jpg",
+                    "altText": ""
+                }
+            ],
+            "priorityAccessCosts": [],
+            "priorityAccessHash": 0,
+            "requirements": [],
+            "slots": [
+                {
+                    "hash": -1909200748,
+                    "quantity": 10
+                },
+                {
+                    "hash": 1084182731,
+                    "quantity": 20
+                },
+                {
+                    "hash": -673000374,
+                    "quantity": 0
+                },
+                {
+                    "hash": 316207340,
+                    "quantity": 10
+                },
+                {
+                    "hash": 1583044470,
+                    "quantity": 99
+                },
+                {
+                    "hash": 1045621973,
+                    "quantity": -1
+                }
+            ],
+            "tags": [
+                1009210113,
+                1147021565,
+                -764700608,
+                -305066475,
+                58855631,
+                -765483034,
+                -458578204,
+                1765172170,
+                887366763,
+                -906398725,
+                89124942
+            ],
+            "trade": "intro",
+            "unlockRank": 1,
+            "webDescription1": "Jolly Jack’s Chewing Tobacco – Cut plug. Taste it! Chew it! Spit! A gentlemanly pleasure that lasts till the cows come home. One pack contains four plugs of tobacco.",
+            "webDescription2": "",
+            "webHeadline1": "",
+            "webHeadline2": "",
+            "id": "68655804",
+            "variations": []
+        },
+        {
+            "brand": "b99b6be6",
+            "categories": [
+                "c8c1fe88/fac15557"
+            ],
+            "clothingVariations": [],
+            "costDefault": {
+                "currencyHash": 2084597891,
+                "nameHash": -915411861,
+                "isFromPrice": false,
+                "price": 550,
+                "quantity": 1,
+                "unlockEnums": [],
+                "unlockIds": []
+            },
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 550,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ],
+            "costOther": [],
+            "description": "V. Laurent Clark Snake Oil Liniment is prepared from pure rattlesnake oil. Grant yourself the cold dead eye and dangerous speed of a serpent. ",
+            "englishName": "Potent Snake Oil",
+            "effects": [
+                {
+                    "duration": 2,
+                    "hash": 1342237631,
+                    "value": 0
+                }
+            ],
+            "enumHash": -486559882,
+            "expiryStatus": "notExpired",
+            "name": "Potent Snake Oil",
+            "gameMode": "mp",
+            "group": "CONSUMABLE",
+            "horseVariations": [],
+            "images": [
+                {
+                    "type": 0,
+                    "url": "/global/catalog/rdr2/9d0072a4/51b0da93a94b30d793be884066003bbdde169324.png",
+                    "altText": ""
+                },
+                {
+                    "type": 1,
+                    "url": "/global/catalog/rdr2/9d0072a4/02be3fdc7b91162a5dc2b9925de6d2ecbd9e020d.png",
+                    "altText": ""
+                },
+                {
+                    "type": 2,
+                    "url": "/global/catalog/rdr2/9d0072a4/9d336a49a7d29c65b6d5e96575902f9cad58b9de.jpg",
+                    "altText": ""
+                }
+            ],
+            "priorityAccessCosts": [],
+            "priorityAccessHash": 0,
+            "requirements": [],
+            "slots": [
+                {
+                    "hash": -1909200748,
+                    "quantity": 10
+                },
+                {
+                    "hash": 1084182731,
+                    "quantity": 20
+                },
+                {
+                    "hash": -673000374,
+                    "quantity": 0
+                },
+                {
+                    "hash": 316207340,
+                    "quantity": 10
+                },
+                {
+                    "hash": 1583044470,
+                    "quantity": 99
+                },
+                {
+                    "hash": 1045621973,
+                    "quantity": -1
+                }
+            ],
+            "tags": [
+                1009210113,
+                266762988,
+                1147021565,
+                -764700608,
+                -305066475,
+                795426633,
+                -458578204,
+                245446192,
+                -2071952391,
+                887366763,
+                -906398725,
+                1177617310
+            ],
+            "trade": "intro",
+            "unlockRank": 1,
+            "webDescription1": "V. Laurent Clark Snake Oil Liniment is prepared from pure rattlesnake oil. Grant yourself the cold dead eye and dangerous speed of a serpent. ",
+            "webDescription2": "",
+            "webHeadline1": "",
+            "webHeadline2": "",
+            "id": "6a4c12aa",
+            "variations": []
+        },
+        {
+            "brand": "18ba7137",
+            "categories": [
+                "c8c1fe88/fac15557"
+            ],
+            "clothingVariations": [],
+            "costDefault": {
+                "currencyHash": 2084597891,
+                "nameHash": -915411861,
+                "isFromPrice": false,
+                "price": 500,
+                "quantity": 1,
+                "unlockEnums": [],
+                "unlockIds": []
+            },
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 500,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ],
+            "costOther": [],
+            "description": "Our best selling restorative from Dr. Claussen instantly cures fatigue and invigorates stamina. Guaranteed. Every man needs it.",
+            "englishName": "Potent Bitters",
+            "effects": [
+                {
+                    "duration": 2,
+                    "hash": -1240225157,
+                    "value": 0
+                }
+            ],
+            "enumHash": -1067476102,
+            "expiryStatus": "notExpired",
+            "name": "Potent Bitters",
+            "gameMode": "mp",
+            "group": "CONSUMABLE",
+            "horseVariations": [],
+            "images": [
+                {
+                    "type": 0,
+                    "url": "/global/catalog/rdr2/c4381dea/ffc64bf21372e2c73a6aa801ebf9f714fc2ea55d.png",
+                    "altText": ""
+                },
+                {
+                    "type": 1,
+                    "url": "/global/catalog/rdr2/c4381dea/c0acef986957b4cee283a6532d63544c8ba83d9d.png",
+                    "altText": ""
+                },
+                {
+                    "type": 2,
+                    "url": "/global/catalog/rdr2/c4381dea/b24887ee6ab6366cd85c5388de64cfa0192dff93.jpg",
+                    "altText": ""
+                }
+            ],
+            "priorityAccessCosts": [],
+            "priorityAccessHash": 0,
+            "requirements": [],
+            "slots": [
+                {
+                    "hash": -1909200748,
+                    "quantity": 10
+                },
+                {
+                    "hash": 1084182731,
+                    "quantity": 20
+                },
+                {
+                    "hash": -673000374,
+                    "quantity": 0
+                },
+                {
+                    "hash": 316207340,
+                    "quantity": 10
+                },
+                {
+                    "hash": 1583044470,
+                    "quantity": 99
+                },
+                {
+                    "hash": 1045621973,
+                    "quantity": -1
+                }
+            ],
+            "tags": [
+                1009210113,
+                266762988,
+                1147021565,
+                -764700608,
+                795426633,
+                -458578204,
+                1861793059,
+                37130087,
+                -262371497,
+                887366763,
+                18203328
+            ],
+            "trade": "intro",
+            "unlockRank": 1,
+            "webDescription1": "Our best selling restorative from Dr. Claussen instantly cures fatigue and invigorates stamina. Guaranteed. Every man needs it.",
+            "webDescription2": "",
+            "webHeadline1": "",
+            "webHeadline2": "",
+            "id": "0a2e1e52",
+            "variations": []
+        },
+        {
+            "brand": "240ffbba",
+            "categories": [
+                "c8c1fe88/8df7ebf8"
+            ],
+            "clothingVariations": [],
+            "costDefault": {
+                "currencyHash": 2084597891,
+                "nameHash": -915411861,
+                "isFromPrice": false,
+                "price": 500,
+                "quantity": 4,
+                "unlockEnums": [],
+                "unlockIds": []
+            },
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 500,
+                    "quantity": 4,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ],
+            "costOther": [],
+            "description": "Mariana Madrani Cocaine Chewing Gum stimulates and invigorates. Cures indigestion, apathy and monotony. Delicious taste. Children love it! Each pack contains 4 pieces.",
+            "englishName": "Cocaine Gum",
+            "effects": [
+                {
+                    "hash": 1681823811,
+                    "value": -1
+                },
+                {
+                    "duration": 1,
+                    "hash": -1240225157,
+                    "value": 0
+                }
+            ],
+            "enumHash": 206762213,
+            "expiryStatus": "notExpired",
+            "name": "Cocaine Gum",
+            "gameMode": "mp",
+            "group": "CONSUMABLE",
+            "horseVariations": [],
+            "images": [
+                {
+                    "type": 0,
+                    "url": "/global/catalog/rdr2/979cd358/7ecff47aa521e59fbf573b3fb446fb176fba9811.png",
+                    "altText": ""
+                },
+                {
+                    "type": 1,
+                    "url": "/global/catalog/rdr2/979cd358/e5fe00c31e06f7b6b122835ca441c9e440f924b1.png",
+                    "altText": ""
+                },
+                {
+                    "type": 2,
+                    "url": "/global/catalog/rdr2/979cd358/55bab44b6d9399b6010047b66af6c4da1f4c90dd.jpg",
+                    "altText": ""
+                }
+            ],
+            "priorityAccessCosts": [],
+            "priorityAccessHash": 0,
+            "requirements": [],
+            "slots": [
+                {
+                    "hash": -1909200748,
+                    "quantity": 10
+                },
+                {
+                    "hash": 1084182731,
+                    "quantity": 20
+                },
+                {
+                    "hash": -673000374,
+                    "quantity": 0
+                },
+                {
+                    "hash": 316207340,
+                    "quantity": 10
+                },
+                {
+                    "hash": 1583044470,
+                    "quantity": 99
+                },
+                {
+                    "hash": 1045621973,
+                    "quantity": -1
+                }
+            ],
+            "tags": [
+                1009210113,
+                1147021565,
+                -764700608,
+                58855631,
+                795426633,
+                -765483034,
+                -458578204,
+                887366763,
+                18203328,
+                89124942
+            ],
+            "trade": "intro",
+            "unlockRank": 1,
+            "webDescription1": "Mariana Madrani Cocaine Chewing Gum stimulates and invigorates. Cures indigestion, apathy and monotony. Delicious taste. Children love it! Each pack contains 4 pieces.",
+            "webDescription2": "",
+            "webHeadline1": "",
+            "webHeadline2": "",
+            "id": "2dbb21e4",
+            "variations": []
+        },
+        {
+            "brand": "75ba2fad",
+            "categories": [
+                "c8c1fe88/fac15557"
+            ],
+            "clothingVariations": [],
+            "costDefault": {
+                "currencyHash": 2084597891,
+                "nameHash": -915411861,
+                "isFromPrice": false,
+                "price": 450,
+                "quantity": 1,
+                "unlockEnums": [],
+                "unlockIds": []
+            },
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 450,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ],
+            "costOther": [],
+            "description": "A true medical wonder that cures pain when it will not subdue, Earl Bodine’s Potent Health Cure restores Health to 100% or your money refunded! ",
+            "englishName": "Potent Health Cure",
+            "effects": [
+                {
+                    "duration": 2,
+                    "hash": 1869697234,
+                    "value": 0
+                }
+            ],
+            "enumHash": -755485480,
+            "expiryStatus": "notExpired",
+            "name": "Potent Health Cure",
+            "gameMode": "mp",
+            "group": "CONSUMABLE",
+            "horseVariations": [],
+            "images": [
+                {
+                    "type": 0,
+                    "url": "/global/catalog/rdr2/ae95f6c4/8acfafe4c35612e433146265c4040700e11b09ef.png",
+                    "altText": ""
+                },
+                {
+                    "type": 1,
+                    "url": "/global/catalog/rdr2/ae95f6c4/cf0b6d1c765913d1118e37e81c54a070746f0dfb.png",
+                    "altText": ""
+                },
+                {
+                    "type": 2,
+                    "url": "/global/catalog/rdr2/ae95f6c4/28b7a4350a3f45560f061576d14be5c593cce102.jpg",
+                    "altText": ""
+                }
+            ],
+            "priorityAccessCosts": [],
+            "priorityAccessHash": 0,
+            "requirements": [],
+            "slots": [
+                {
+                    "hash": -1909200748,
+                    "quantity": 10
+                },
+                {
+                    "hash": 1084182731,
+                    "quantity": 20
+                },
+                {
+                    "hash": -673000374,
+                    "quantity": 0
+                },
+                {
+                    "hash": 316207340,
+                    "quantity": 10
+                },
+                {
+                    "hash": 1583044470,
+                    "quantity": 99
+                },
+                {
+                    "hash": 1045621973,
+                    "quantity": -1
+                }
+            ],
+            "tags": [
+                1009210113,
+                266762988,
+                1147021565,
+                -764700608,
+                -537818634,
+                795426633,
+                -458578204,
+                1923740143,
+                887366763,
+                836323602,
+                1177617310
+            ],
+            "trade": "intro",
+            "unlockRank": 1,
+            "webDescription1": "A true medical wonder that cures pain when it will not subdue, Earl Bodine’s Potent Health Cure restores Health to 100% or your money refunded! ",
+            "webDescription2": "",
+            "webHeadline1": "",
+            "webHeadline2": "",
+            "id": "3fc5e1f3",
+            "variations": []
+        },
+        {
+            "brand": "3c22e1ea",
+            "categories": [
+                "c8c1fe88/0ec06e88",
+                "47874c4d/5978a4b2"
+            ],
+            "clothingVariations": [],
+            "costDefault": {
+                "currencyHash": 2084597891,
+                "nameHash": -915411861,
+                "isFromPrice": false,
+                "price": 400,
+                "quantity": 1,
+                "unlockEnums": [],
+                "unlockIds": []
+            },
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 400,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                },
+                {
+                    "currencyHash": 0,
+                    "nameHash": 205718222,
+                    "rewardEnumHash": 1854943887,
+                    "isFromPrice": false,
+                    "price": 0,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ],
+            "costOther": [
+                {
+                    "currencyHash": 0,
+                    "nameHash": 205718222,
+                    "rewardEnumHash": 1854943887,
+                    "isFromPrice": false,
+                    "price": 0,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ],
+            "description": "Gene A. Frost presents the all new Potent Horse Stimulant. Guaranteed to fire up your horse like never before, this powerful stimulant will put the spark back in your ride.",
+            "englishName": "Potent Horse Stimulant",
+            "effects": [
+                {
+                    "hash": 1194731729,
+                    "value": 1
+                },
+                {
+                    "duration": 2,
+                    "hash": 1497139093,
+                    "value": 0
+                }
+            ],
+            "enumHash": -801397594,
+            "expiryStatus": "notExpired",
+            "name": "Potent Horse Stimulant",
+            "gameMode": "mp",
+            "group": "CONSUMABLE",
+            "horseVariations": [],
+            "images": [
+                {
+                    "type": 0,
+                    "url": "/global/catalog/rdr2/4fbf4e76/6ce37610fe725f357aa6cd0599bb37c5afe8c6e1.png",
+                    "altText": ""
+                },
+                {
+                    "type": 1,
+                    "url": "/global/catalog/rdr2/4fbf4e76/ebdbffceb167b0db82ce37f9d14a51a3c9170952.png",
+                    "altText": ""
+                },
+                {
+                    "type": 2,
+                    "url": "/global/catalog/rdr2/4fbf4e76/7645175844e73f9158faccc3b107f5f70efc4f4e.jpg",
+                    "altText": ""
+                }
+            ],
+            "priorityAccessCosts": [],
+            "priorityAccessHash": 0,
+            "requirements": [],
+            "slots": [
+                {
+                    "hash": -1909200748,
+                    "quantity": 10
+                },
+                {
+                    "hash": 1084182731,
+                    "quantity": 20
+                },
+                {
+                    "hash": -673000374,
+                    "quantity": 0
+                },
+                {
+                    "hash": 316207340,
+                    "quantity": 10
+                },
+                {
+                    "hash": 1583044470,
+                    "quantity": 99
+                },
+                {
+                    "hash": 1045621973,
+                    "quantity": -1
+                }
+            ],
+            "tags": [
+                1009210113,
+                266762988,
+                1147021565,
+                -1242251796,
+                795426633,
+                -458578204,
+                1594397073,
+                -1948723158
+            ],
+            "trade": "intro",
+            "unlockRank": 1,
+            "webDescription1": "Gene A. Frost presents the all new Potent Horse Stimulant. Guaranteed to fire up your horse like never before, this powerful stimulant will put the spark back in your ride.",
+            "webDescription2": "",
+            "webHeadline1": "",
+            "webHeadline2": "",
+            "id": "0e9beec0",
+            "variations": []
+        },
+        {
+            "brand": "027f84e2",
+            "categories": [
+                "c8c1fe88/fac15557"
+            ],
+            "clothingVariations": [],
+            "costDefault": {
+                "currencyHash": 2084597891,
+                "nameHash": -915411861,
+                "isFromPrice": false,
+                "price": 400,
+                "quantity": 1,
+                "unlockEnums": [],
+                "unlockIds": []
+            },
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 400,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ],
+            "costOther": [],
+            "description": "Only Doc Crockett’s reinstates health, stamina and focus. It is a delightful elixir medicated with the latest scientific remedies endorsed by science. Unequalled anywhere.",
+            "englishName": "Miracle Tonic",
+            "effects": [
+                {
+                    "duration": 1,
+                    "hash": 1342237631,
+                    "value": 0
+                },
+                {
+                    "duration": 1,
+                    "hash": 1869697234,
+                    "value": 0
+                },
+                {
+                    "duration": 1,
+                    "hash": -1240225157,
+                    "value": 0
+                }
+            ],
+            "enumHash": -953313786,
+            "expiryStatus": "notExpired",
+            "name": "Miracle Tonic",
+            "gameMode": "mp",
+            "group": "CONSUMABLE",
+            "horseVariations": [],
+            "images": [
+                {
+                    "type": 0,
+                    "url": "/global/catalog/rdr2/c7fdd83d/aa75e4a9cb48b12a6a2342285dde17ce87dfd258.png",
+                    "altText": ""
+                },
+                {
+                    "type": 1,
+                    "url": "/global/catalog/rdr2/c7fdd83d/fad3a49b97ae9b7e7ddd674fd7a36bc452b2556f.png",
+                    "altText": ""
+                },
+                {
+                    "type": 2,
+                    "url": "/global/catalog/rdr2/c7fdd83d/f1a345efdb6a54e9dc0089f202a3f179f2aca0f3.jpg",
+                    "altText": ""
+                }
+            ],
+            "priorityAccessCosts": [],
+            "priorityAccessHash": 0,
+            "requirements": [],
+            "slots": [
+                {
+                    "hash": -1909200748,
+                    "quantity": 10
+                },
+                {
+                    "hash": 1084182731,
+                    "quantity": 20
+                },
+                {
+                    "hash": -673000374,
+                    "quantity": 0
+                },
+                {
+                    "hash": 316207340,
+                    "quantity": 10
+                },
+                {
+                    "hash": 1583044470,
+                    "quantity": 99
+                },
+                {
+                    "hash": 1045621973,
+                    "quantity": -1
+                }
+            ],
+            "tags": [
+                1009210113,
+                1147021565,
+                -764700608,
+                -305066475,
+                -537818634,
+                -458578204,
+                1939071949,
+                -1948723158,
+                887366763,
+                -906398725,
+                836323602,
+                18203328,
+                238865292
+            ],
+            "trade": "intro",
+            "unlockRank": 1,
+            "webDescription1": "Only Doc Crockett’s reinstates health, stamina and focus. It is a delightful elixir medicated with the latest scientific remedies endorsed by science. Unequalled anywhere.",
+            "webDescription2": "",
+            "webHeadline1": "",
+            "webHeadline2": "",
+            "id": "45fde5be",
+            "variations": []
+        },
+        {
+            "brand": "b99b6be6",
+            "categories": [
+                "c8c1fe88/fac15557"
+            ],
+            "clothingVariations": [],
+            "costDefault": {
+                "currencyHash": 2084597891,
+                "nameHash": -915411861,
+                "isFromPrice": false,
+                "price": 350,
+                "quantity": 1,
+                "unlockEnums": [],
+                "unlockIds": []
+            },
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 350,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ],
+            "costOther": [],
+            "description": "V. Laurent Clark Snake Oil Liniment is prepared using pure rattlesnake oil. This is the genuine article. Do not accept cheap imitations made from lizards or lesser reptiles or amphibians.",
+            "englishName": "Snake Oil",
+            "effects": [
+                {
+                    "duration": 1,
+                    "hash": 1342237631,
+                    "value": 0
+                }
+            ],
+            "enumHash": -653299524,
+            "expiryStatus": "notExpired",
+            "name": "Snake Oil",
+            "gameMode": "mp",
+            "group": "CONSUMABLE",
+            "horseVariations": [],
+            "images": [
+                {
+                    "type": 0,
+                    "url": "/global/catalog/rdr2/adfcabbd/20ec0c9cf8a63994f4c2428bc46e2ca1da537e3a.png",
+                    "altText": ""
+                },
+                {
+                    "type": 1,
+                    "url": "/global/catalog/rdr2/adfcabbd/22192c78109e03fda17818222e74b322359e3869.png",
+                    "altText": ""
+                },
+                {
+                    "type": 2,
+                    "url": "/global/catalog/rdr2/adfcabbd/b52421a3401aa7922ec3ec65d75c976bf9693ca4.jpg",
+                    "altText": ""
+                }
+            ],
+            "priorityAccessCosts": [],
+            "priorityAccessHash": 0,
+            "requirements": [],
+            "slots": [
+                {
+                    "hash": -1909200748,
+                    "quantity": 10
+                },
+                {
+                    "hash": 1084182731,
+                    "quantity": 20
+                },
+                {
+                    "hash": -673000374,
+                    "quantity": 0
+                },
+                {
+                    "hash": 316207340,
+                    "quantity": 10
+                },
+                {
+                    "hash": 1583044470,
+                    "quantity": 99
+                },
+                {
+                    "hash": 1045621973,
+                    "quantity": -1
+                }
+            ],
+            "tags": [
+                1009210113,
+                1147021565,
+                -764700608,
+                -305066475,
+                -458578204,
+                245446192,
+                887366763,
+                -906398725,
+                238865292
+            ],
+            "trade": "intro",
+            "unlockRank": 1,
+            "webDescription1": "V. Laurent Clark Snake Oil Liniment is prepared using pure rattlesnake oil. This is the genuine article. Do not accept cheap imitations made from lizards or lesser reptiles or amphibians.",
+            "webDescription2": "",
+            "webHeadline1": "",
+            "webHeadline2": "",
+            "id": "17f8e56f",
+            "variations": []
+        },
+        {
+            "brand": "3ee501cd",
+            "categories": [
+                "c8c1fe88/8df7ebf8",
+                "36dd3c68/ce7e2dec"
+            ],
+            "clothingVariations": [],
+            "costDefault": {
+                "currencyHash": 2084597891,
+                "nameHash": -915411861,
+                "isFromPrice": false,
+                "price": 300,
+                "quantity": 4,
+                "unlockEnums": [],
+                "unlockIds": []
+            },
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 300,
+                    "quantity": 4,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ],
+            "costOther": [],
+            "description": "Snowberger Old Fashioned Candies. A delight for young and old, anytime of the day. Use as a reward to discourage sloth. One bag contains four candies.",
+            "englishName": "Snowberger Candies",
+            "effects": [
+                {
+                    "hash": -816334026,
+                    "value": 1
+                },
+                {
+                    "hash": 1857353317,
+                    "value": 1
+                },
+                {
+                    "hash": 1681823811,
+                    "value": 2
+                }
+            ],
+            "enumHash": -1442667564,
+            "expiryStatus": "notExpired",
+            "name": "Snowberger Candies",
+            "gameMode": "mp",
+            "group": "CONSUMABLE",
+            "horseVariations": [],
+            "images": [
+                {
+                    "type": 0,
+                    "url": "/global/catalog/rdr2/ed1d1354/873960e06f7e349bf1a785fc445b32410a71ae73.png",
+                    "altText": ""
+                },
+                {
+                    "type": 1,
+                    "url": "/global/catalog/rdr2/ed1d1354/e699b5a274b2a74c45eb384aeb98bbfe6b720909.png",
+                    "altText": ""
+                },
+                {
+                    "type": 2,
+                    "url": "/global/catalog/rdr2/ed1d1354/185b0c27382202f1d087e4afb23a00ce0fab9674.jpg",
+                    "altText": ""
+                }
+            ],
+            "priorityAccessCosts": [],
+            "priorityAccessHash": 0,
+            "requirements": [],
+            "slots": [
+                {
+                    "hash": 1084182731,
+                    "quantity": 20
+                },
+                {
+                    "hash": -673000374,
+                    "quantity": 0
+                },
+                {
+                    "hash": -1098528034,
+                    "quantity": 10
+                },
+                {
+                    "hash": 1583044470,
+                    "quantity": 99
+                },
+                {
+                    "hash": 1045621973,
+                    "quantity": -1
+                },
+                {
+                    "hash": -629387103,
+                    "quantity": 10
+                }
+            ],
+            "tags": [
+                -193035453,
+                554195525,
+                1147021565,
+                200705431,
+                58855631,
+                795426633,
+                -1457797660,
+                -524514947,
+                89124942
+            ],
+            "trade": "intro",
+            "unlockRank": 1,
+            "webDescription1": "Snowberger Old Fashioned Candies. A delight for young and old, anytime of the day. Use as a reward to discourage sloth. One bag contains four candies.",
+            "webDescription2": "",
+            "webHeadline1": "",
+            "webHeadline2": "",
+            "id": "54fe9682",
+            "variations": []
+        },
+        {
+            "brand": "edfaae7a",
+            "categories": [
+                "c8c1fe88/0ec06e88",
+                "47874c4d/5978a4b2"
+            ],
+            "clothingVariations": [],
+            "costDefault": {
+                "currencyHash": 2084597891,
+                "nameHash": -915411861,
+                "isFromPrice": false,
+                "price": 300,
+                "quantity": 1,
+                "unlockEnums": [],
+                "unlockIds": []
+            },
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 300,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                },
+                {
+                    "currencyHash": 0,
+                    "nameHash": 205718222,
+                    "rewardEnumHash": 1854943887,
+                    "isFromPrice": false,
+                    "price": 0,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ],
+            "costOther": [
+                {
+                    "currencyHash": 0,
+                    "nameHash": 205718222,
+                    "rewardEnumHash": 1854943887,
+                    "isFromPrice": false,
+                    "price": 0,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ],
+            "description": "Betty Sue & Bobby's Potent Horse Medicine is the strongest and most potent compound for all horse troubles and maladies. Complete rejuvenation guaranteed.",
+            "englishName": "Potent Horse Medicine",
+            "effects": [
+                {
+                    "duration": 2,
+                    "hash": -778289619,
+                    "value": 0
+                },
+                {
+                    "hash": 1194731729,
+                    "value": 1
+                }
+            ],
+            "enumHash": -623409049,
+            "expiryStatus": "notExpired",
+            "name": "Potent Horse Medicine",
+            "gameMode": "mp",
+            "group": "CONSUMABLE",
+            "horseVariations": [],
+            "images": [
+                {
+                    "type": 0,
+                    "url": "/global/catalog/rdr2/606b9968/21f478b00a52b1a00401b45d339d63e06fa40363.png",
+                    "altText": ""
+                },
+                {
+                    "type": 1,
+                    "url": "/global/catalog/rdr2/606b9968/37846310b81e73c99beefcbebf0f4abd70b325c1.png",
+                    "altText": ""
+                },
+                {
+                    "type": 2,
+                    "url": "/global/catalog/rdr2/606b9968/7505ca7a604e31aa7988b88305d11d3eb37bff60.jpg",
+                    "altText": ""
+                }
+            ],
+            "priorityAccessCosts": [],
+            "priorityAccessHash": 0,
+            "requirements": [],
+            "slots": [
+                {
+                    "hash": -1909200748,
+                    "quantity": 10
+                },
+                {
+                    "hash": 1084182731,
+                    "quantity": 20
+                },
+                {
+                    "hash": -673000374,
+                    "quantity": 0
+                },
+                {
+                    "hash": 316207340,
+                    "quantity": 10
+                },
+                {
+                    "hash": 1583044470,
+                    "quantity": 99
+                },
+                {
+                    "hash": 1045621973,
+                    "quantity": -1
+                }
+            ],
+            "tags": [
+                1009210113,
+                266762988,
+                1147021565,
+                1479835297,
+                -1242251796,
+                795426633,
+                -458578204,
+                950840461,
+                -1948723158
+            ],
+            "trade": "intro",
+            "unlockRank": 1,
+            "webDescription1": "Betty Sue & Bobby's Potent Horse Medicine is the strongest and most potent compound for all horse troubles and maladies. Complete rejuvenation guaranteed.",
+            "webDescription2": "",
+            "webHeadline1": "",
+            "webHeadline2": "",
+            "id": "6e776123",
+            "variations": []
+        },
+        {
+            "brand": "18ba7137",
+            "categories": [
+                "c8c1fe88/fac15557"
+            ],
+            "clothingVariations": [],
+            "costDefault": {
+                "currencyHash": 2084597891,
+                "nameHash": -915411861,
+                "isFromPrice": false,
+                "price": 300,
+                "quantity": 1,
+                "unlockEnums": [],
+                "unlockIds": []
+            },
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 300,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ],
+            "costOther": [],
+            "description": "Dr. Claussen’s Cumberland Mountain Bitters treats malaise, cures fatigue and quickly renews vigor. Thousands are being benefited where medical skill and science have failed.",
+            "englishName": "Dr. Claussen’s bitters",
+            "effects": [
+                {
+                    "duration": 1,
+                    "hash": -1240225157,
+                    "value": 0
+                }
+            ],
+            "enumHash": 1973952589,
+            "expiryStatus": "notExpired",
+            "name": "Dr. Claussen’s bitters",
+            "gameMode": "mp",
+            "group": "CONSUMABLE",
+            "horseVariations": [],
+            "images": [
+                {
+                    "type": 0,
+                    "url": "/global/catalog/rdr2/422c5023/ade98cbeec56a4159b6e670f3aba6615363b4da3.png",
+                    "altText": ""
+                },
+                {
+                    "type": 1,
+                    "url": "/global/catalog/rdr2/422c5023/8fe312d3d969bedbdb222bb7128e88025c2149db.png",
+                    "altText": ""
+                },
+                {
+                    "type": 2,
+                    "url": "/global/catalog/rdr2/422c5023/57c8815becff5d2d3eb6883c0b6e297f1e5a82a7.jpg",
+                    "altText": ""
+                }
+            ],
+            "priorityAccessCosts": [],
+            "priorityAccessHash": 0,
+            "requirements": [],
+            "slots": [
+                {
+                    "hash": -1909200748,
+                    "quantity": 10
+                },
+                {
+                    "hash": 1084182731,
+                    "quantity": 20
+                },
+                {
+                    "hash": -673000374,
+                    "quantity": 0
+                },
+                {
+                    "hash": 316207340,
+                    "quantity": 10
+                },
+                {
+                    "hash": 1583044470,
+                    "quantity": 99
+                },
+                {
+                    "hash": 1045621973,
+                    "quantity": -1
+                }
+            ],
+            "tags": [
+                1009210113,
+                1147021565,
+                -764700608,
+                -458578204,
+                1861793059,
+                -262371497,
+                887366763,
+                18203328
+            ],
+            "trade": "intro",
+            "unlockRank": 1,
+            "webDescription1": "Dr. Claussen’s Cumberland Mountain Bitters treats malaise, cures fatigue and quickly renews vigor. Thousands are being benefited where medical skill and science have failed.",
+            "webDescription2": "",
+            "webHeadline1": "",
+            "webHeadline2": "",
+            "id": "8b2377ce",
+            "variations": []
+        },
+        {
+            "brand": "3c22e1ea",
+            "categories": [
+                "c8c1fe88/0ec06e88",
+                "47874c4d/5978a4b2"
+            ],
+            "clothingVariations": [],
+            "costDefault": {
+                "currencyHash": 2084597891,
+                "nameHash": -915411861,
+                "isFromPrice": false,
+                "price": 250,
+                "quantity": 1,
+                "unlockEnums": [],
+                "unlockIds": []
+            },
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 250,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                },
+                {
+                    "currencyHash": 0,
+                    "nameHash": 205718222,
+                    "rewardEnumHash": 1854943887,
+                    "isFromPrice": false,
+                    "price": 0,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ],
+            "costOther": [
+                {
+                    "currencyHash": 0,
+                    "nameHash": 205718222,
+                    "rewardEnumHash": 1854943887,
+                    "isFromPrice": false,
+                    "price": 0,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ],
+            "description": "Gene A. Frost Horse Stimulant is a mainstay of any veterinary office or home stable. Restores stamina in a way no home remedy can.",
+            "englishName": "Horse Stimulant",
+            "effects": [
+                {
+                    "hash": 1194731729,
+                    "value": 1
+                },
+                {
+                    "duration": 1,
+                    "hash": 1497139093,
+                    "value": 0
+                }
+            ],
+            "enumHash": -2076104686,
+            "expiryStatus": "notExpired",
+            "name": "Horse Stimulant",
+            "gameMode": "mp",
+            "group": "CONSUMABLE",
+            "horseVariations": [],
+            "images": [
+                {
+                    "type": 0,
+                    "url": "/global/catalog/rdr2/48692ea9/9d9ffc4662933f8560946ce8e569dad45aa6b38d.png",
+                    "altText": ""
+                },
+                {
+                    "type": 1,
+                    "url": "/global/catalog/rdr2/48692ea9/a3963ec3ea93708bc6d5dbc6fe6e420a95d7d34f.png",
+                    "altText": ""
+                },
+                {
+                    "type": 2,
+                    "url": "/global/catalog/rdr2/48692ea9/3f5d67eaedcec50898ba8086fca4284c6637d8f7.jpg",
+                    "altText": ""
+                }
+            ],
+            "priorityAccessCosts": [],
+            "priorityAccessHash": 0,
+            "requirements": [],
+            "slots": [
+                {
+                    "hash": -1909200748,
+                    "quantity": 10
+                },
+                {
+                    "hash": 1084182731,
+                    "quantity": 20
+                },
+                {
+                    "hash": -673000374,
+                    "quantity": 0
+                },
+                {
+                    "hash": 316207340,
+                    "quantity": 10
+                },
+                {
+                    "hash": 1583044470,
+                    "quantity": 99
+                },
+                {
+                    "hash": 1045621973,
+                    "quantity": -1
+                }
+            ],
+            "tags": [
+                1009210113,
+                1147021565,
+                -1242251796,
+                -458578204,
+                -1202768860
+            ],
+            "trade": "intro",
+            "unlockRank": 1,
+            "webDescription1": "Gene A. Frost Horse Stimulant is a mainstay of any veterinary office or home stable. Restores stamina in a way no home remedy can.",
+            "webDescription2": "",
+            "webHeadline1": "",
+            "webHeadline2": "",
+            "id": "f8870a0b",
+            "variations": []
+        },
+        {
+            "brand": "edfaae7a",
+            "categories": [
+                "c8c1fe88/0ec06e88",
+                "47874c4d/5978a4b2"
+            ],
+            "clothingVariations": [],
+            "costDefault": {
+                "currencyHash": 2084597891,
+                "nameHash": -915411861,
+                "isFromPrice": false,
+                "price": 250,
+                "quantity": 1,
+                "unlockEnums": [],
+                "unlockIds": []
+            },
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 250,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                },
+                {
+                    "currencyHash": 0,
+                    "nameHash": 205718222,
+                    "rewardEnumHash": 1854943887,
+                    "isFromPrice": false,
+                    "price": 0,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ],
+            "costOther": [
+                {
+                    "currencyHash": 0,
+                    "nameHash": 205718222,
+                    "rewardEnumHash": 1854943887,
+                    "isFromPrice": false,
+                    "price": 0,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ],
+            "description": "Betty Sue & Bobby's Horse Reviver is an extraordinary curative compound for seriously incapacitated or injured horses. Complete satisfaction guaranteed.",
+            "englishName": "Horse Reviver",
+            "effects": [
+                {
+                    "hash": 1194731729,
+                    "value": 1
+                },
+                {
+                    "hash": 978049229,
+                    "value": 5
+                }
+            ],
+            "enumHash": 1627068364,
+            "expiryStatus": "notExpired",
+            "name": "Horse Reviver",
+            "gameMode": "mp",
+            "group": "CONSUMABLE",
+            "horseVariations": [],
+            "images": [
+                {
+                    "type": 0,
+                    "url": "/global/catalog/rdr2/10561c7e/be8e5fdc546ffd255dc750dd91163db051d779d1.png",
+                    "altText": ""
+                },
+                {
+                    "type": 1,
+                    "url": "/global/catalog/rdr2/10561c7e/d972f0747dc78bb71e56f3da53b87bcd569c276a.png",
+                    "altText": ""
+                },
+                {
+                    "type": 2,
+                    "url": "/global/catalog/rdr2/10561c7e/49f8a5ca7a9c24b8dfbe7d98d0c6483713245d9d.jpg",
+                    "altText": ""
+                }
+            ],
+            "priorityAccessCosts": [],
+            "priorityAccessHash": 0,
+            "requirements": [],
+            "slots": [
+                {
+                    "hash": -1909200748,
+                    "quantity": 10
+                },
+                {
+                    "hash": 1084182731,
+                    "quantity": 20
+                },
+                {
+                    "hash": -673000374,
+                    "quantity": 0
+                },
+                {
+                    "hash": 316207340,
+                    "quantity": 10
+                },
+                {
+                    "hash": 1583044470,
+                    "quantity": 99
+                },
+                {
+                    "hash": 1045621973,
+                    "quantity": -1
+                }
+            ],
+            "tags": [
+                1009210113,
+                1147021565,
+                1479835297,
+                -1242251796,
+                2060589226,
+                -458578204,
+                -1948723158,
+                -1202768860
+            ],
+            "trade": "intro",
+            "unlockRank": 1,
+            "webDescription1": "Betty Sue & Bobby's Horse Reviver is an extraordinary curative compound for seriously incapacitated or injured horses. Complete satisfaction guaranteed.",
+            "webDescription2": "",
+            "webHeadline1": "",
+            "webHeadline2": "",
+            "id": "4b7c2c78",
+            "variations": []
+        },
+        {
+            "brand": "75ba2fad",
+            "categories": [
+                "c8c1fe88/fac15557"
+            ],
+            "clothingVariations": [],
+            "costDefault": {
+                "currencyHash": 2084597891,
+                "nameHash": -915411861,
+                "isFromPrice": false,
+                "price": 250,
+                "quantity": 1,
+                "unlockEnums": [],
+                "unlockIds": []
+            },
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 250,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ],
+            "costOther": [],
+            "description": "Uncle Earl Bodine’s is the Great Formula that restores Health and increases appetite. Accept no imitations or home remedies. Proven on infants and the infirmed alike.",
+            "englishName": "Health Cure",
+            "effects": [
+                {
+                    "duration": 1,
+                    "hash": 1869697234,
+                    "value": 0
+                }
+            ],
+            "enumHash": 230530039,
+            "expiryStatus": "notExpired",
+            "name": "Health Cure",
+            "gameMode": "mp",
+            "group": "CONSUMABLE",
+            "horseVariations": [],
+            "images": [
+                {
+                    "type": 0,
+                    "url": "/global/catalog/rdr2/74d6e01d/eecfdca0b8178bc8f9546b67502415c7210952d6.png",
+                    "altText": ""
+                },
+                {
+                    "type": 1,
+                    "url": "/global/catalog/rdr2/74d6e01d/cf0b6d1c765913d1118e37e81c54a070746f0dfb.png",
+                    "altText": ""
+                },
+                {
+                    "type": 2,
+                    "url": "/global/catalog/rdr2/74d6e01d/07b8accabaa09aec91289dcc4b77656c4790fbab.jpg",
+                    "altText": ""
+                }
+            ],
+            "priorityAccessCosts": [],
+            "priorityAccessHash": 0,
+            "requirements": [],
+            "slots": [
+                {
+                    "hash": -1909200748,
+                    "quantity": 10
+                },
+                {
+                    "hash": 1084182731,
+                    "quantity": 20
+                },
+                {
+                    "hash": -673000374,
+                    "quantity": 0
+                },
+                {
+                    "hash": 316207340,
+                    "quantity": 10
+                },
+                {
+                    "hash": 1583044470,
+                    "quantity": 99
+                },
+                {
+                    "hash": 1045621973,
+                    "quantity": -1
+                }
+            ],
+            "tags": [
+                1009210113,
+                1147021565,
+                -764700608,
+                -537818634,
+                -458578204,
+                887366763,
+                836323602,
+                238865292
+            ],
+            "trade": "intro",
+            "unlockRank": 1,
+            "webDescription1": "Uncle Earl Bodine’s is the Great Formula that restores Health and increases appetite. Accept no imitations or home remedies. Proven on infants and the infirmed alike.",
+            "webDescription2": "",
+            "webHeadline1": "",
+            "webHeadline2": "",
+            "id": "118e2b7d",
+            "variations": []
+        },
+        {
+            "brand": "3ee501cd",
+            "categories": [
+                "c8c1fe88/8df7ebf8",
+                "36dd3c68/ce7e2dec"
+            ],
+            "clothingVariations": [],
+            "costDefault": {
+                "currencyHash": 2084597891,
+                "nameHash": -915411861,
+                "isFromPrice": false,
+                "price": 200,
+                "quantity": 1,
+                "unlockEnums": [],
+                "unlockIds": []
+            },
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 200,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ],
+            "costOther": [],
+            "description": "Snowberger Fancy Milk Chocolate. From the finest cacao plantations. A post luncheon treat that satisfies.",
+            "englishName": "Chocolate Bar",
+            "effects": [
+                {
+                    "hash": -816334026,
+                    "value": 5
+                },
+                {
+                    "hash": 1681823811,
+                    "value": 4
+                },
+                {
+                    "hash": 1857353317,
+                    "value": 2
+                }
+            ],
+            "enumHash": -951828978,
+            "expiryStatus": "notExpired",
+            "name": "Chocolate Bar",
+            "gameMode": "mp",
+            "group": "CONSUMABLE",
+            "horseVariations": [],
+            "images": [
+                {
+                    "type": 0,
+                    "url": "/global/catalog/rdr2/7848ec14/a2299bd9d48335991fd6c38a320b54c070d1040d.png",
+                    "altText": ""
+                },
+                {
+                    "type": 1,
+                    "url": "/global/catalog/rdr2/7848ec14/6291561fe9f5a0ac5bd3971cf4b6cabb17b0aa68.png",
+                    "altText": ""
+                },
+                {
+                    "type": 2,
+                    "url": "/global/catalog/rdr2/7848ec14/09757511477bbf12d9dea7d909ffe5c2b19af13b.jpg",
+                    "altText": ""
+                }
+            ],
+            "priorityAccessCosts": [],
+            "priorityAccessHash": 0,
+            "requirements": [],
+            "slots": [
+                {
+                    "hash": 1084182731,
+                    "quantity": 20
+                },
+                {
+                    "hash": -673000374,
+                    "quantity": 0
+                },
+                {
+                    "hash": -1098528034,
+                    "quantity": 10
+                },
+                {
+                    "hash": 1583044470,
+                    "quantity": 99
+                },
+                {
+                    "hash": 1045621973,
+                    "quantity": -1
+                },
+                {
+                    "hash": -629387103,
+                    "quantity": 10
+                }
+            ],
+            "tags": [
+                -193035453,
+                554195525,
+                1147021565,
+                200705431,
+                -1457797660,
+                -524514947,
+                89124942
+            ],
+            "trade": "intro",
+            "unlockRank": 1,
+            "webDescription1": "Snowberger Fancy Milk Chocolate. From the finest cacao plantations. A post luncheon treat that satisfies.",
+            "webDescription2": "",
+            "webHeadline1": "",
+            "webHeadline2": "",
+            "id": "d03aca3d",
+            "variations": []
+        },
+        {
+            "brand": "edfaae7a",
+            "categories": [
+                "c8c1fe88/0ec06e88",
+                "47874c4d/5978a4b2"
+            ],
+            "clothingVariations": [],
+            "costDefault": {
+                "currencyHash": 2084597891,
+                "nameHash": -915411861,
+                "isFromPrice": false,
+                "price": 150,
+                "quantity": 1,
+                "unlockEnums": [],
+                "unlockIds": []
+            },
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 150,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                },
+                {
+                    "currencyHash": 0,
+                    "nameHash": 205718222,
+                    "rewardEnumHash": 1854943887,
+                    "isFromPrice": false,
+                    "price": 0,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ],
+            "costOther": [
+                {
+                    "currencyHash": 0,
+                    "nameHash": 205718222,
+                    "rewardEnumHash": 1854943887,
+                    "isFromPrice": false,
+                    "price": 0,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ],
+            "description": "Betty Sue & Bobby's Horse Medicine is an equine medicinal compound for alleviating horse troubles and maladies. Complete satisfaction guaranteed.",
+            "englishName": "Horse Medicine",
+            "effects": [
+                {
+                    "duration": 1,
+                    "hash": -778289619,
+                    "value": 0
+                },
+                {
+                    "hash": 1194731729,
+                    "value": 1
+                }
+            ],
+            "enumHash": -2042563684,
+            "expiryStatus": "notExpired",
+            "name": "Horse Medicine",
+            "gameMode": "mp",
+            "group": "CONSUMABLE",
+            "horseVariations": [],
+            "images": [
+                {
+                    "type": 0,
+                    "url": "/global/catalog/rdr2/9862d93d/c61a2978593100fb5a410c75075109af9243253b.png",
+                    "altText": ""
+                },
+                {
+                    "type": 1,
+                    "url": "/global/catalog/rdr2/9862d93d/574d794245951ed1979e1e9f36ff9b934baac87d.png",
+                    "altText": ""
+                },
+                {
+                    "type": 2,
+                    "url": "/global/catalog/rdr2/9862d93d/ac943169d47894dcabf08945122b6d778757f43f.jpg",
+                    "altText": ""
+                }
+            ],
+            "priorityAccessCosts": [],
+            "priorityAccessHash": 0,
+            "requirements": [],
+            "slots": [
+                {
+                    "hash": -1909200748,
+                    "quantity": 10
+                },
+                {
+                    "hash": 1084182731,
+                    "quantity": 20
+                },
+                {
+                    "hash": -673000374,
+                    "quantity": 0
+                },
+                {
+                    "hash": 316207340,
+                    "quantity": 10
+                },
+                {
+                    "hash": 1583044470,
+                    "quantity": 99
+                },
+                {
+                    "hash": 1045621973,
+                    "quantity": -1
+                }
+            ],
+            "tags": [
+                1009210113,
+                1147021565,
+                1479835297,
+                -1242251796,
+                -458578204,
+                -1202768860
+            ],
+            "trade": "intro",
+            "unlockRank": 1,
+            "webDescription1": "Betty Sue & Bobby's Horse Medicine is an equine medicinal compound for alleviating horse troubles and maladies. Complete satisfaction guaranteed.",
+            "webDescription2": "",
+            "webHeadline1": "",
+            "webHeadline2": "",
+            "id": "eb04d01c",
+            "variations": []
+        }
+    ],
+    "aggs": {
+        "maxPrice": 0,
+        "minPrice": 0,
+        "maxGoldPrice": 0,
+        "minGoldPrice": 0,
+        "maxTokenPrice": 0,
+        "minTokenPrice": 0,
+        "minUnlockRanks": {},
+        "catCounts": [
+            {
+                "name": "c8c1fe88",
+                "count": 17
+            },
+            {
+                "name": "47874c4d",
+                "count": 5
+            },
+            {
+                "name": "36dd3c68",
+                "count": 3
+            }
+        ],
+        "brandCounts": []
+    },
+    "status": true
+}
