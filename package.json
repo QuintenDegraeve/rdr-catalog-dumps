@@ -1,4 +1,8 @@
 {
+  "dependencies": {
+    "await-to-js": "^3.0.0",
+    "glob": "^7.1.7"
+  },
   "name": "rdr-catalog-dumps",
   "description": "scrape date: 27/07/2020",
   "version": "1.0.0",
