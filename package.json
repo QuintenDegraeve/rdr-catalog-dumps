@@ -6,14 +6,16 @@
   "name": "rdr-catalog-dumps",
   "description": "scrape date: 27/07/2020",
   "version": "1.0.0",
-  "main": "dist/main.js",
+  "main": "dist/scraper.js",
   "devDependencies": {
     "@types/node": "^14.0.4",
     "tslint": "^5.12.1",
     "typescript": "^3.3.3"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "tsc && node dist/scraper.js",
+    "parse": "tsc && node dist/scraper.js > ./scraping/categories-enum-hash-to-2s-hex.json"
   },
   "repository": {
     "type": "git",
