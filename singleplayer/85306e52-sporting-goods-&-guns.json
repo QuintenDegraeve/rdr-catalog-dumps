@@ -1,0 +1,4913 @@
+{
+    "total": 47,
+    "items": [
+        {
+            "brand": "1895b7dc",
+            "categories": [
+                "85306e52/1d08ab03"
+            ],
+            "clothingVariations": [],
+            "costDefault": {
+                "currencyHash": 2084597891,
+                "nameHash": -915411861,
+                "isFromPrice": false,
+                "price": 25000,
+                "quantity": 1,
+                "unlockEnums": [],
+                "unlockIds": []
+            },
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 25000,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ],
+            "costOther": [],
+            "description": "THE FINEST SELF LOADING “AUTOMATIC” PISTOL. It has the dandiest of designs, having originated from a couple of passionate brothers in Europe who have spent their life’s work fashioning ingenious ways to propel lead at high rates of speed.",
+            "englishName": "Mauser Pistol",
+            "effects": [
+                {
+                    "hash": -266488916,
+                    "value": 36
+                },
+                {
+                    "hash": 1648497600,
+                    "value": 50
+                },
+                {
+                    "hash": -1856731002,
+                    "value": 80
+                },
+                {
+                    "hash": 983649838,
+                    "value": 62
+                },
+                {
+                    "hash": 2038990430,
+                    "value": 75
+                },
+                {
+                    "hash": -358579849,
+                    "value": 29
+                },
+                {
+                    "hash": 1712309459,
+                    "value": 50
+                },
+                {
+                    "hash": 1003069489,
+                    "value": 64
+                },
+                {
+                    "hash": 1362510163,
+                    "value": 62
+                },
+                {
+                    "hash": 2117273085,
+                    "value": 60
+                },
+                {
+                    "hash": 1465168878,
+                    "value": 5
+                },
+                {
+                    "hash": -800430237,
+                    "value": 10
+                },
+                {
+                    "hash": -1103443887,
+                    "value": 10
+                }
+            ],
+            "enumHash": -2055158210,
+            "expiryStatus": "notExpired",
+            "name": "Mauser Pistol",
+            "gameMode": "sp",
+            "group": "WEAPON",
+            "horseVariations": [],
+            "images": [
+                {
+                    "type": 0,
+                    "url": "/global/catalog/rdr2/c2eb48a4/03ac905c6383f2161224099747e8dc9fac98f291.png",
+                    "altText": ""
+                },
+                {
+                    "type": 1,
+                    "url": "/global/catalog/rdr2/c2eb48a4/c59c52e37710b7ef4d08eab9332029a257c9ea9d.png",
+                    "altText": ""
+                },
+                {
+                    "type": 7,
+                    "url": "/global/catalog/rdr2/c2eb48a4/8c7068041f013188ec7a7a498209c6811507534f.jpg",
+                    "altText": ""
+                },
+                {
+                    "type": 8,
+                    "url": "/global/catalog/rdr2/c2eb48a4/4701af8728b31f0ab2fce46167ce1ec1755a72b8.jpg",
+                    "altText": ""
+                }
+            ],
+            "priorityAccessCosts": [],
+            "priorityAccessHash": 0,
+            "requirements": [],
+            "slots": [
+                {
+                    "hash": -673000374,
+                    "quantity": 1
+                }
+            ],
+            "tags": [
+                255663540
+            ],
+            "webDescription1": "THE FINEST SELF LOADING “AUTOMATIC” PISTOL. It has the dandiest of designs, having originated from a couple of passionate brothers in Europe who have spent their life’s work fashioning ingenious ways to propel lead at high rates of speed.",
+            "webDescription2": "",
+            "webHeadline1": "",
+            "webHeadline2": "",
+            "id": "ba512378",
+            "variations": []
+        },
+        {
+            "brand": "2324299d",
+            "categories": [
+                "85306e52/090e7ac7"
+            ],
+            "clothingVariations": [],
+            "costDefault": {
+                "currencyHash": 2084597891,
+                "nameHash": -915411861,
+                "isFromPrice": false,
+                "price": 22500,
+                "quantity": 1,
+                "unlockEnums": [],
+                "unlockIds": []
+            },
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 22500,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ],
+            "costOther": [],
+            "description": "UNSURPASSED PENETRATION AGAIN AND AGAIN. The Brun et Fabre Semi-Automatic Shotgun is the highest grade, the most perfect and best priced semi-auto shotgun made in the world. One of the most attractive fancy firearms on the market. ",
+            "englishName": "Semi-Auto Shotgun",
+            "effects": [
+                {
+                    "hash": -266488916,
+                    "value": 57
+                },
+                {
+                    "hash": 1648497600,
+                    "value": 35
+                },
+                {
+                    "hash": -1856731002,
+                    "value": 55
+                },
+                {
+                    "hash": 983649838,
+                    "value": 40
+                },
+                {
+                    "hash": 2038990430,
+                    "value": 56
+                },
+                {
+                    "hash": -358579849,
+                    "value": 46
+                },
+                {
+                    "hash": 1712309459,
+                    "value": 35
+                },
+                {
+                    "hash": 1003069489,
+                    "value": 44
+                },
+                {
+                    "hash": 1362510163,
+                    "value": 40
+                },
+                {
+                    "hash": 2117273085,
+                    "value": 45
+                },
+                {
+                    "hash": 1465168878,
+                    "value": 5
+                },
+                {
+                    "hash": -800430237,
+                    "value": 10
+                },
+                {
+                    "hash": -1103443887,
+                    "value": 10
+                }
+            ],
+            "enumHash": 1838922096,
+            "expiryStatus": "notExpired",
+            "name": "Semi-Auto Shotgun",
+            "gameMode": "sp",
+            "group": "WEAPON",
+            "horseVariations": [],
+            "images": [
+                {
+                    "type": 0,
+                    "url": "/global/catalog/rdr2/0574dfa1/dde3b28407b80c28e8b03d00d429ac2bfa3ad752.png",
+                    "altText": ""
+                },
+                {
+                    "type": 1,
+                    "url": "/global/catalog/rdr2/0574dfa1/a1cbab9834dd6ab73babed1bd85ccd76ff51fed1.png",
+                    "altText": ""
+                },
+                {
+                    "type": 7,
+                    "url": "/global/catalog/rdr2/0574dfa1/e49b875c6cd41c6ec931fac84232dcb514413e55.jpg",
+                    "altText": ""
+                },
+                {
+                    "type": 8,
+                    "url": "/global/catalog/rdr2/0574dfa1/9a5d3d3240a80c8944e76c26e695c43b3b3d473f.jpg",
+                    "altText": ""
+                }
+            ],
+            "priorityAccessCosts": [],
+            "priorityAccessHash": 0,
+            "requirements": [],
+            "slots": [
+                {
+                    "hash": -673000374,
+                    "quantity": 1
+                }
+            ],
+            "tags": [
+                -223393057
+            ],
+            "webDescription1": "UNSURPASSED PENETRATION AGAIN AND AGAIN. The Brun et Fabre Semi-Automatic Shotgun is the highest grade, the most perfect and best priced semi-auto shotgun made in the world. One of the most attractive fancy firearms on the market. ",
+            "webDescription2": "",
+            "webHeadline1": "",
+            "webHeadline2": "",
+            "id": "d7e15055",
+            "variations": []
+        },
+        {
+            "brand": "150669a2",
+            "categories": [
+                "85306e52/1d08ab03"
+            ],
+            "clothingVariations": [],
+            "costDefault": {
+                "currencyHash": 2084597891,
+                "nameHash": -915411861,
+                "isFromPrice": false,
+                "price": 21000,
+                "quantity": 1,
+                "unlockEnums": [],
+                "unlockIds": []
+            },
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 21000,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ],
+            "costOther": [],
+            "description": "This is strictly a high grade gun meant for solving situations in a rapid fire manner. Too much cannot be said for the shooting qualities of this wonderful pistol. Fire one round and you will see – the recoil of this fine weapon is a testament to its power. ",
+            "englishName": "Semi-Automatic Pistol",
+            "effects": [
+                {
+                    "hash": -266488916,
+                    "value": 33
+                },
+                {
+                    "hash": 1648497600,
+                    "value": 50
+                },
+                {
+                    "hash": -1856731002,
+                    "value": 85
+                },
+                {
+                    "hash": 983649838,
+                    "value": 65
+                },
+                {
+                    "hash": 2038990430,
+                    "value": 80
+                },
+                {
+                    "hash": -358579849,
+                    "value": 26
+                },
+                {
+                    "hash": 1712309459,
+                    "value": 50
+                },
+                {
+                    "hash": 1003069489,
+                    "value": 68
+                },
+                {
+                    "hash": 1362510163,
+                    "value": 65
+                },
+                {
+                    "hash": 2117273085,
+                    "value": 64
+                },
+                {
+                    "hash": 1465168878,
+                    "value": 5
+                },
+                {
+                    "hash": -800430237,
+                    "value": 10
+                },
+                {
+                    "hash": -1103443887,
+                    "value": 10
+                }
+            ],
+            "enumHash": 1701864918,
+            "expiryStatus": "notExpired",
+            "name": "Semi-Automatic Pistol",
+            "gameMode": "sp",
+            "group": "WEAPON",
+            "horseVariations": [],
+            "images": [
+                {
+                    "type": 0,
+                    "url": "/global/catalog/rdr2/76f82941/4454ddacdfcb64330e9a97b65b9ea8df5d1fbf68.png",
+                    "altText": ""
+                },
+                {
+                    "type": 1,
+                    "url": "/global/catalog/rdr2/76f82941/3d5e6c8dd0b68c71201be5421287086c663d3ce0.png",
+                    "altText": ""
+                },
+                {
+                    "type": 7,
+                    "url": "/global/catalog/rdr2/76f82941/035c21d6e2b956f82bd2ceb6c8751d7f5720e3b2.jpg",
+                    "altText": ""
+                },
+                {
+                    "type": 8,
+                    "url": "/global/catalog/rdr2/76f82941/9e942745838688d600273178327a7ef983927b1b.jpg",
+                    "altText": ""
+                }
+            ],
+            "priorityAccessCosts": [],
+            "priorityAccessHash": 0,
+            "requirements": [],
+            "slots": [
+                {
+                    "hash": -673000374,
+                    "quantity": 1
+                }
+            ],
+            "tags": [
+                -1722990509
+            ],
+            "webDescription1": "This is strictly a high grade gun meant for solving situations in a rapid fire manner. Too much cannot be said for the shooting qualities of this wonderful pistol. Fire one round and you will see – the recoil of this fine weapon is a testament to its power. ",
+            "webDescription2": "",
+            "webHeadline1": "",
+            "webHeadline2": "",
+            "id": "c02f80d3",
+            "variations": []
+        },
+        {
+            "brand": "1f32fd22",
+            "categories": [
+                "85306e52/c49f271a"
+            ],
+            "clothingVariations": [],
+            "costDefault": {
+                "currencyHash": 2084597891,
+                "nameHash": -915411861,
+                "isFromPrice": false,
+                "price": 19000,
+                "quantity": 1,
+                "unlockEnums": [],
+                "unlockIds": []
+            },
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 19000,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ],
+            "costOther": [],
+            "description": "RIFLE OF CHOICE FOR BOTH HOLY AND UNHOLY AMBITION. It has been said that discretion is the better part of valor, and no more valor is exhibited than that of a man hiding behind a rock and taking out his enemies when they least suspect it. You can find no better rifle than the Carcano Rifle. ",
+            "englishName": "Carcano Rifle",
+            "effects": [
+                {
+                    "hash": -266488916,
+                    "value": 75
+                },
+                {
+                    "hash": 1648497600,
+                    "value": 80
+                },
+                {
+                    "hash": -1856731002,
+                    "value": 40
+                },
+                {
+                    "hash": 983649838,
+                    "value": 85
+                },
+                {
+                    "hash": 2038990430,
+                    "value": 70
+                },
+                {
+                    "hash": -358579849,
+                    "value": 60
+                },
+                {
+                    "hash": 1712309459,
+                    "value": 80
+                },
+                {
+                    "hash": 1003069489,
+                    "value": 32
+                },
+                {
+                    "hash": 1362510163,
+                    "value": 85
+                },
+                {
+                    "hash": 2117273085,
+                    "value": 56
+                },
+                {
+                    "hash": 1465168878,
+                    "value": 5
+                },
+                {
+                    "hash": -800430237,
+                    "value": 10
+                },
+                {
+                    "hash": -1103443887,
+                    "value": 10
+                }
+            ],
+            "enumHash": 1402226560,
+            "expiryStatus": "notExpired",
+            "name": "Carcano Rifle",
+            "gameMode": "sp",
+            "group": "WEAPON",
+            "horseVariations": [],
+            "images": [
+                {
+                    "type": 0,
+                    "url": "/global/catalog/rdr2/85cfa9ab/b91fbb2fd3e75bf2c4317dfaec0a7198bb95ebfc.png",
+                    "altText": ""
+                },
+                {
+                    "type": 1,
+                    "url": "/global/catalog/rdr2/85cfa9ab/e965d14b9d2fcafda319ecd36a56ca3259281b49.png",
+                    "altText": ""
+                },
+                {
+                    "type": 7,
+                    "url": "/global/catalog/rdr2/85cfa9ab/e551b7547ed55c9f0535ae4fb60f5bd6ba32ea6a.jpg",
+                    "altText": ""
+                },
+                {
+                    "type": 8,
+                    "url": "/global/catalog/rdr2/85cfa9ab/ba2ad24de9e5504a4673816c42fce2ca434a33b9.jpg",
+                    "altText": ""
+                }
+            ],
+            "priorityAccessCosts": [],
+            "priorityAccessHash": 0,
+            "requirements": [],
+            "slots": [
+                {
+                    "hash": -673000374,
+                    "quantity": 1
+                }
+            ],
+            "tags": [
+                503109494
+            ],
+            "webDescription1": "RIFLE OF CHOICE FOR BOTH HOLY AND UNHOLY AMBITION. It has been said that discretion is the better part of valor, and no more valor is exhibited than that of a man hiding behind a rock and taking out his enemies when they least suspect it. You can find no better rifle than the Carcano Rifle. ",
+            "webDescription2": "",
+            "webHeadline1": "",
+            "webHeadline2": "",
+            "id": "9ebc9e43",
+            "variations": []
+        },
+        {
+            "brand": "ef7582d9",
+            "categories": [
+                "85306e52/c49f271a"
+            ],
+            "clothingVariations": [],
+            "costDefault": {
+                "currencyHash": 2084597891,
+                "nameHash": -915411861,
+                "isFromPrice": false,
+                "price": 18700,
+                "quantity": 1,
+                "unlockEnums": [],
+                "unlockIds": []
+            },
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 18700,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ],
+            "costOther": [],
+            "description": "Do you enjoy sharpshooting? For those that believe close quarters combat is for the foolhardy and indeed short lived, then the Litchfield Rolling Block Rifle is a wonder to behold. IT IS A COURAGEOUS MAN WHO SHOOTS FROM AFAR. It is a coward who drops a man from merely feet away. ",
+            "englishName": "Rolling Block Rifle",
+            "effects": [
+                {
+                    "hash": -266488916,
+                    "value": 85
+                },
+                {
+                    "hash": 1648497600,
+                    "value": 80
+                },
+                {
+                    "hash": -1856731002,
+                    "value": 27
+                },
+                {
+                    "hash": 983649838,
+                    "value": 85
+                },
+                {
+                    "hash": 2038990430,
+                    "value": 38
+                },
+                {
+                    "hash": -358579849,
+                    "value": 68
+                },
+                {
+                    "hash": 1712309459,
+                    "value": 80
+                },
+                {
+                    "hash": 1003069489,
+                    "value": 22
+                },
+                {
+                    "hash": 1362510163,
+                    "value": 85
+                },
+                {
+                    "hash": 2117273085,
+                    "value": 30
+                },
+                {
+                    "hash": 1465168878,
+                    "value": 5
+                },
+                {
+                    "hash": -800430237,
+                    "value": 10
+                },
+                {
+                    "hash": -1103443887,
+                    "value": 10
+                }
+            ],
+            "enumHash": -506285289,
+            "expiryStatus": "notExpired",
+            "name": "Rolling Block Rifle",
+            "gameMode": "sp",
+            "group": "WEAPON",
+            "horseVariations": [],
+            "images": [
+                {
+                    "type": 0,
+                    "url": "/global/catalog/rdr2/f973ae4f/f29023fc3d34911be46421cb425bc10d8eeadb9a.png",
+                    "altText": ""
+                },
+                {
+                    "type": 1,
+                    "url": "/global/catalog/rdr2/f973ae4f/50ae231b7d4dc146e300d7377db0d2899c857587.png",
+                    "altText": ""
+                },
+                {
+                    "type": 7,
+                    "url": "/global/catalog/rdr2/f973ae4f/1322b7a5199c8701bc95a82f544c07c119245db4.jpg",
+                    "altText": ""
+                },
+                {
+                    "type": 8,
+                    "url": "/global/catalog/rdr2/f973ae4f/1c565be3ee228f17d77bdebe1c3f61bac063b782.jpg",
+                    "altText": ""
+                }
+            ],
+            "priorityAccessCosts": [],
+            "priorityAccessHash": 0,
+            "requirements": [],
+            "slots": [
+                {
+                    "hash": -673000374,
+                    "quantity": 1
+                }
+            ],
+            "tags": [
+                2134094687
+            ],
+            "webDescription1": "Do you enjoy sharpshooting? For those that believe close quarters combat is for the foolhardy and indeed short lived, then the Litchfield Rolling Block Rifle is a wonder to behold. IT IS A COURAGEOUS MAN WHO SHOOTS FROM AFAR. It is a coward who drops a man from merely feet away. ",
+            "webDescription2": "",
+            "webHeadline1": "",
+            "webHeadline2": "",
+            "id": "254e024e",
+            "variations": []
+        },
+        {
+            "brand": "b9851853",
+            "categories": [
+                "85306e52/090e7ac7"
+            ],
+            "clothingVariations": [],
+            "costDefault": {
+                "currencyHash": 2084597891,
+                "nameHash": -915411861,
+                "isFromPrice": false,
+                "price": 18500,
+                "quantity": 1,
+                "unlockEnums": [],
+                "unlockIds": []
+            },
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 18500,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ],
+            "costOther": [],
+            "description": "AN UNRIVALED MARVEL OF POWER. This Lancaster Repeating Shotgun is nationally recognized as the strongest shooter in the market. You will barely feel it in your hands until it goes off, and then, Lord Almighty, you will say prayers to God first and Lancaster soon after. FIRE THIS GUN 10,000 TIMES AND SEE. ",
+            "englishName": "Repeating Shotgun",
+            "effects": [
+                {
+                    "hash": -266488916,
+                    "value": 61
+                },
+                {
+                    "hash": 1648497600,
+                    "value": 35
+                },
+                {
+                    "hash": -1856731002,
+                    "value": 50
+                },
+                {
+                    "hash": 983649838,
+                    "value": 34
+                },
+                {
+                    "hash": 2038990430,
+                    "value": 63
+                },
+                {
+                    "hash": -358579849,
+                    "value": 49
+                },
+                {
+                    "hash": 1712309459,
+                    "value": 35
+                },
+                {
+                    "hash": 1003069489,
+                    "value": 40
+                },
+                {
+                    "hash": 1362510163,
+                    "value": 34
+                },
+                {
+                    "hash": 2117273085,
+                    "value": 50
+                },
+                {
+                    "hash": 1465168878,
+                    "value": 5
+                },
+                {
+                    "hash": -800430237,
+                    "value": 10
+                },
+                {
+                    "hash": -1103443887,
+                    "value": 10
+                }
+            ],
+            "enumHash": 1674213418,
+            "expiryStatus": "notExpired",
+            "name": "Repeating Shotgun",
+            "gameMode": "sp",
+            "group": "WEAPON",
+            "horseVariations": [],
+            "images": [
+                {
+                    "type": 0,
+                    "url": "/global/catalog/rdr2/77a58e55/a653760ab3e9116991478127f364acb0186d0931.png",
+                    "altText": ""
+                },
+                {
+                    "type": 1,
+                    "url": "/global/catalog/rdr2/77a58e55/355b4675d1e14d29a39a37eba7b7e5ea2cdbbbfd.png",
+                    "altText": ""
+                },
+                {
+                    "type": 7,
+                    "url": "/global/catalog/rdr2/77a58e55/2ed4e5b1b7865f4a25820570f1d12710853c3177.jpg",
+                    "altText": ""
+                },
+                {
+                    "type": 8,
+                    "url": "/global/catalog/rdr2/77a58e55/fd6d51bb04af2d093863aab6f32ec887fd50a912.jpg",
+                    "altText": ""
+                }
+            ],
+            "priorityAccessCosts": [],
+            "priorityAccessHash": 0,
+            "requirements": [],
+            "slots": [
+                {
+                    "hash": -673000374,
+                    "quantity": 1
+                }
+            ],
+            "tags": [
+                144628015
+            ],
+            "webDescription1": "AN UNRIVALED MARVEL OF POWER. This Lancaster Repeating Shotgun is nationally recognized as the strongest shooter in the market. You will barely feel it in your hands until it goes off, and then, Lord Almighty, you will say prayers to God first and Lancaster soon after. FIRE THIS GUN 10,000 TIMES AND SEE. ",
+            "webDescription2": "",
+            "webHeadline1": "",
+            "webHeadline2": "",
+            "id": "f663e862",
+            "variations": []
+        },
+        {
+            "brand": "42254dc7",
+            "categories": [
+                "85306e52/c49f271a"
+            ],
+            "clothingVariations": [],
+            "costDefault": {
+                "currencyHash": 2084597891,
+                "nameHash": -915411861,
+                "isFromPrice": false,
+                "price": 18000,
+                "quantity": 1,
+                "unlockEnums": [],
+                "unlockIds": []
+            },
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 18000,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ],
+            "costOther": [],
+            "description": "Look downrange through the sights. Feel the gun stock. Friend, there is no better Bolt Action Rifle in any store or outfitter available than the B.D & Co. Rest assured that it will not hesitate to fill the recipient full of equal amounts of lead and dread. ",
+            "englishName": "Bolt-Action Rifle",
+            "effects": [
+                {
+                    "hash": -266488916,
+                    "value": 72
+                },
+                {
+                    "hash": 1648497600,
+                    "value": 75
+                },
+                {
+                    "hash": -1856731002,
+                    "value": 37
+                },
+                {
+                    "hash": 983649838,
+                    "value": 82
+                },
+                {
+                    "hash": 2038990430,
+                    "value": 55
+                },
+                {
+                    "hash": -358579849,
+                    "value": 58
+                },
+                {
+                    "hash": 1712309459,
+                    "value": 75
+                },
+                {
+                    "hash": 1003069489,
+                    "value": 30
+                },
+                {
+                    "hash": 1362510163,
+                    "value": 82
+                },
+                {
+                    "hash": 2117273085,
+                    "value": 44
+                },
+                {
+                    "hash": 1465168878,
+                    "value": 5
+                },
+                {
+                    "hash": -800430237,
+                    "value": 10
+                },
+                {
+                    "hash": -1103443887,
+                    "value": 10
+                }
+            ],
+            "enumHash": 1999408598,
+            "expiryStatus": "notExpired",
+            "name": "Bolt-Action Rifle",
+            "gameMode": "sp",
+            "group": "WEAPON",
+            "horseVariations": [],
+            "images": [
+                {
+                    "type": 0,
+                    "url": "/global/catalog/rdr2/57d5a4e7/96ec7c643136a6e1954f64785d897fd5e3a4bbd1.png",
+                    "altText": ""
+                },
+                {
+                    "type": 1,
+                    "url": "/global/catalog/rdr2/57d5a4e7/b5ce0422cd17f21e3f5f4229f7d7a973678d5c3f.png",
+                    "altText": ""
+                },
+                {
+                    "type": 7,
+                    "url": "/global/catalog/rdr2/57d5a4e7/ddef8f9fa8bd214a935e019ee7316cc9b6ba9faf.jpg",
+                    "altText": ""
+                },
+                {
+                    "type": 8,
+                    "url": "/global/catalog/rdr2/57d5a4e7/2b31edf5f228c49899f5149c25a01f160d724ea7.jpg",
+                    "altText": ""
+                }
+            ],
+            "priorityAccessCosts": [],
+            "priorityAccessHash": 0,
+            "requirements": [],
+            "slots": [
+                {
+                    "hash": -673000374,
+                    "quantity": 1
+                }
+            ],
+            "tags": [
+                -53491496
+            ],
+            "webDescription1": "Look downrange through the sights. Feel the gun stock. Friend, there is no better Bolt Action Rifle in any store or outfitter available than the B.D & Co. Rest assured that it will not hesitate to fill the recipient full of equal amounts of lead and dread. ",
+            "webDescription2": "",
+            "webHeadline1": "",
+            "webHeadline2": "",
+            "id": "51468e67",
+            "variations": []
+        },
+        {
+            "brand": "9096e4cd",
+            "categories": [
+                "85306e52/1d08ab03"
+            ],
+            "clothingVariations": [],
+            "costDefault": {
+                "currencyHash": 2084597891,
+                "nameHash": -915411861,
+                "isFromPrice": false,
+                "price": 15000,
+                "quantity": 1,
+                "unlockEnums": [],
+                "unlockIds": []
+            },
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 15000,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ],
+            "costOther": [],
+            "description": "This pistol is the finest creation from Hutton & Baird – direct from the factory via our warehouse. Point in the direction you intend, shout an unforgettable expletive, and pull the trigger of the Hutton & Baird Volcanic Pistol. THE MOST EXPLOSIVE PISTOL EVER PRODUCED. ",
+            "englishName": "Volcanic Pistol",
+            "effects": [
+                {
+                    "hash": -266488916,
+                    "value": 57
+                },
+                {
+                    "hash": 1648497600,
+                    "value": 50
+                },
+                {
+                    "hash": -1856731002,
+                    "value": 50
+                },
+                {
+                    "hash": 983649838,
+                    "value": 72
+                },
+                {
+                    "hash": 2038990430,
+                    "value": 60
+                },
+                {
+                    "hash": -358579849,
+                    "value": 46
+                },
+                {
+                    "hash": 1712309459,
+                    "value": 50
+                },
+                {
+                    "hash": 1003069489,
+                    "value": 40
+                },
+                {
+                    "hash": 1362510163,
+                    "value": 72
+                },
+                {
+                    "hash": 2117273085,
+                    "value": 48
+                },
+                {
+                    "hash": 1465168878,
+                    "value": 5
+                },
+                {
+                    "hash": -800430237,
+                    "value": 10
+                },
+                {
+                    "hash": -1103443887,
+                    "value": 10
+                }
+            ],
+            "enumHash": 34411519,
+            "expiryStatus": "notExpired",
+            "name": "Volcanic Pistol",
+            "gameMode": "sp",
+            "group": "WEAPON",
+            "horseVariations": [],
+            "images": [
+                {
+                    "type": 0,
+                    "url": "/global/catalog/rdr2/550c6769/0b333231018e097d9726a137318226017bd1f3a2.png",
+                    "altText": ""
+                },
+                {
+                    "type": 1,
+                    "url": "/global/catalog/rdr2/550c6769/98be729268fb4f30d6c9da90293b1d2d1a7f13b7.png",
+                    "altText": ""
+                },
+                {
+                    "type": 7,
+                    "url": "/global/catalog/rdr2/550c6769/7cee44adbe0cbab2a606c8494f77ec5abf04be79.jpg",
+                    "altText": ""
+                },
+                {
+                    "type": 8,
+                    "url": "/global/catalog/rdr2/550c6769/743ae5556d703c2c7e80ceaaf328424cb1101c50.jpg",
+                    "altText": ""
+                }
+            ],
+            "priorityAccessCosts": [],
+            "priorityAccessHash": 0,
+            "requirements": [],
+            "slots": [
+                {
+                    "hash": -673000374,
+                    "quantity": 1
+                }
+            ],
+            "tags": [
+                94345076
+            ],
+            "webDescription1": "This pistol is the finest creation from Hutton & Baird – direct from the factory via our warehouse. Point in the direction you intend, shout an unforgettable expletive, and pull the trigger of the Hutton & Baird Volcanic Pistol. THE MOST EXPLOSIVE PISTOL EVER PRODUCED. ",
+            "webDescription2": "",
+            "webHeadline1": "",
+            "webHeadline2": "",
+            "id": "c6b1a9eb",
+            "variations": []
+        },
+        {
+            "brand": "b9851853",
+            "categories": [
+                "85306e52/090e7ac7"
+            ],
+            "clothingVariations": [],
+            "costDefault": {
+                "currencyHash": 2084597891,
+                "nameHash": -915411861,
+                "isFromPrice": false,
+                "price": 14800,
+                "quantity": 1,
+                "unlockEnums": [],
+                "unlockIds": []
+            },
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 14800,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ],
+            "costOther": [],
+            "description": "For the man who has more tongue than sense, the mere sound of the Lancaster Pump-Action Shotgun loading a shell into the chamber should have him shut his mouth right quick. We think the new Lancaster design makes this the finest pump-action shotgun available on the market today. ",
+            "englishName": "Pump-Action Shotgun",
+            "effects": [
+                {
+                    "hash": -266488916,
+                    "value": 61
+                },
+                {
+                    "hash": 1648497600,
+                    "value": 35
+                },
+                {
+                    "hash": -1856731002,
+                    "value": 47
+                },
+                {
+                    "hash": 983649838,
+                    "value": 37
+                },
+                {
+                    "hash": 2038990430,
+                    "value": 60
+                },
+                {
+                    "hash": -358579849,
+                    "value": 49
+                },
+                {
+                    "hash": 1712309459,
+                    "value": 35
+                },
+                {
+                    "hash": 1003069489,
+                    "value": 38
+                },
+                {
+                    "hash": 1362510163,
+                    "value": 37
+                },
+                {
+                    "hash": 2117273085,
+                    "value": 48
+                },
+                {
+                    "hash": 1465168878,
+                    "value": 5
+                },
+                {
+                    "hash": -800430237,
+                    "value": 10
+                },
+                {
+                    "hash": -1103443887,
+                    "value": 10
+                }
+            ],
+            "enumHash": 834124286,
+            "expiryStatus": "notExpired",
+            "name": "Pump-Action Shotgun",
+            "gameMode": "sp",
+            "group": "WEAPON",
+            "horseVariations": [],
+            "images": [
+                {
+                    "type": 0,
+                    "url": "/global/catalog/rdr2/47507060/5b4427ef8ad058820d60cc895bcab24de5902414.png",
+                    "altText": ""
+                },
+                {
+                    "type": 1,
+                    "url": "/global/catalog/rdr2/47507060/af0dd2c10d1ebb0706a88c19c48c6dc38e4b37c4.png",
+                    "altText": ""
+                },
+                {
+                    "type": 7,
+                    "url": "/global/catalog/rdr2/47507060/6f2d6f6537e04ffc44184602c0d47ee56a8fd9bb.jpg",
+                    "altText": ""
+                },
+                {
+                    "type": 8,
+                    "url": "/global/catalog/rdr2/47507060/d6254175b75b4cd5b3b7c383771e76428acf34e7.jpg",
+                    "altText": ""
+                }
+            ],
+            "priorityAccessCosts": [],
+            "priorityAccessHash": 0,
+            "requirements": [],
+            "slots": [
+                {
+                    "hash": -673000374,
+                    "quantity": 1
+                }
+            ],
+            "tags": [
+                2110877810
+            ],
+            "webDescription1": "For the man who has more tongue than sense, the mere sound of the Lancaster Pump-Action Shotgun loading a shell into the chamber should have him shut his mouth right quick. We think the new Lancaster design makes this the finest pump-action shotgun available on the market today. ",
+            "webDescription2": "",
+            "webHeadline1": "",
+            "webHeadline2": "",
+            "id": "d610185e",
+            "variations": []
+        },
+        {
+            "brand": "ef7582d9",
+            "categories": [
+                "85306e52/dfa339ab"
+            ],
+            "clothingVariations": [],
+            "costDefault": {
+                "currencyHash": 2084597891,
+                "nameHash": -915411861,
+                "isFromPrice": false,
+                "price": 14500,
+                "quantity": 1,
+                "unlockEnums": [],
+                "unlockIds": []
+            },
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 14500,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ],
+            "costOther": [],
+            "description": "Imagine a rifle that you could spend hours lovingly cleaning on a Sunday afternoon, then load with cartridges and shoot all week long without having to reload. It is relief from this kind of worry that allows a man to put his mind to larger tasks like understanding the meaning of the universe. ",
+            "englishName": "Litchfield Repeater",
+            "effects": [
+                {
+                    "hash": -266488916,
+                    "value": 65
+                },
+                {
+                    "hash": 1648497600,
+                    "value": 65
+                },
+                {
+                    "hash": -1856731002,
+                    "value": 50
+                },
+                {
+                    "hash": 983649838,
+                    "value": 68
+                },
+                {
+                    "hash": 2038990430,
+                    "value": 65
+                },
+                {
+                    "hash": -358579849,
+                    "value": 52
+                },
+                {
+                    "hash": 1712309459,
+                    "value": 65
+                },
+                {
+                    "hash": 1003069489,
+                    "value": 40
+                },
+                {
+                    "hash": 1362510163,
+                    "value": 68
+                },
+                {
+                    "hash": 2117273085,
+                    "value": 52
+                },
+                {
+                    "hash": 1465168878,
+                    "value": 5
+                },
+                {
+                    "hash": -800430237,
+                    "value": 10
+                },
+                {
+                    "hash": -1103443887,
+                    "value": 10
+                }
+            ],
+            "enumHash": -1783478894,
+            "expiryStatus": "notExpired",
+            "name": "Litchfield Repeater",
+            "gameMode": "sp",
+            "group": "WEAPON",
+            "horseVariations": [],
+            "images": [
+                {
+                    "type": 0,
+                    "url": "/global/catalog/rdr2/cfe7950f/415ecc68c8ee8983d67b42320cce4f846a6d8c92.png",
+                    "altText": ""
+                },
+                {
+                    "type": 1,
+                    "url": "/global/catalog/rdr2/cfe7950f/41cff36ea6710ee244879252dcb0bd89f7011bc1.png",
+                    "altText": ""
+                },
+                {
+                    "type": 7,
+                    "url": "/global/catalog/rdr2/cfe7950f/cebea14e3e5a7f2dea722966168f7c4b37899f39.jpg",
+                    "altText": ""
+                },
+                {
+                    "type": 8,
+                    "url": "/global/catalog/rdr2/cfe7950f/3159924c71aa63a9d81a7e4e6552a16ce6402d29.jpg",
+                    "altText": ""
+                }
+            ],
+            "priorityAccessCosts": [],
+            "priorityAccessHash": 0,
+            "requirements": [],
+            "slots": [
+                {
+                    "hash": -673000374,
+                    "quantity": 1
+                }
+            ],
+            "tags": [
+                -516679255
+            ],
+            "webDescription1": "Imagine a rifle that you could spend hours lovingly cleaning on a Sunday afternoon, then load with cartridges and shoot all week long without having to reload. It is relief from this kind of worry that allows a man to put his mind to larger tasks like understanding the meaning of the universe. ",
+            "webDescription2": "",
+            "webHeadline1": "",
+            "webHeadline2": "",
+            "id": "7ebb37c2",
+            "variations": []
+        },
+        {
+            "brand": "b9851853",
+            "categories": [
+                "85306e52/dfa339ab"
+            ],
+            "clothingVariations": [],
+            "costDefault": {
+                "currencyHash": 2084597891,
+                "nameHash": -915411861,
+                "isFromPrice": false,
+                "price": 13500,
+                "quantity": 1,
+                "unlockEnums": [],
+                "unlockIds": []
+            },
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 13500,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ],
+            "costOther": [],
+            "description": "The gun that won both the West and South from ne’er-do-wells. We have received letters from thousands of satisfied purchasers who say that the superior firepower of the Lancaster is satisfactory in every way. ",
+            "englishName": "Lancaster Repeater",
+            "effects": [
+                {
+                    "hash": -266488916,
+                    "value": 55
+                },
+                {
+                    "hash": 1648497600,
+                    "value": 65
+                },
+                {
+                    "hash": -1856731002,
+                    "value": 59
+                },
+                {
+                    "hash": 983649838,
+                    "value": 76
+                },
+                {
+                    "hash": 2038990430,
+                    "value": 70
+                },
+                {
+                    "hash": -358579849,
+                    "value": 44
+                },
+                {
+                    "hash": 1712309459,
+                    "value": 65
+                },
+                {
+                    "hash": 1003069489,
+                    "value": 47
+                },
+                {
+                    "hash": 1362510163,
+                    "value": 76
+                },
+                {
+                    "hash": 2117273085,
+                    "value": 56
+                },
+                {
+                    "hash": 1465168878,
+                    "value": 5
+                },
+                {
+                    "hash": -800430237,
+                    "value": 10
+                },
+                {
+                    "hash": -1103443887,
+                    "value": 10
+                }
+            ],
+            "enumHash": -1471716628,
+            "expiryStatus": "notExpired",
+            "name": "Lancaster Repeater",
+            "gameMode": "sp",
+            "group": "WEAPON",
+            "horseVariations": [],
+            "images": [
+                {
+                    "type": 0,
+                    "url": "/global/catalog/rdr2/f1140e39/bb5f757354306abfe9a62d34728305dc27aad867.png",
+                    "altText": ""
+                },
+                {
+                    "type": 1,
+                    "url": "/global/catalog/rdr2/f1140e39/a2309b1813da1b0634decda409facb3dd5534444.png",
+                    "altText": ""
+                },
+                {
+                    "type": 7,
+                    "url": "/global/catalog/rdr2/f1140e39/491e2f028793b1e84893722dc6b22c518f78d80b.jpg",
+                    "altText": ""
+                },
+                {
+                    "type": 8,
+                    "url": "/global/catalog/rdr2/f1140e39/365213e23ddc325b917b741846c180449a138ca3.jpg",
+                    "altText": ""
+                }
+            ],
+            "priorityAccessCosts": [],
+            "priorityAccessHash": 0,
+            "requirements": [],
+            "slots": [
+                {
+                    "hash": -673000374,
+                    "quantity": 1
+                }
+            ],
+            "tags": [
+                -677454295
+            ],
+            "webDescription1": "The gun that won both the West and South from ne’er-do-wells. We have received letters from thousands of satisfied purchasers who say that the superior firepower of the Lancaster is satisfactory in every way. ",
+            "webDescription2": "",
+            "webHeadline1": "",
+            "webHeadline2": "",
+            "id": "b1a28f07",
+            "variations": []
+        },
+        {
+            "brand": "b9851853",
+            "categories": [
+                "85306e52/c49f271a"
+            ],
+            "clothingVariations": [],
+            "costDefault": {
+                "currencyHash": 2084597891,
+                "nameHash": -915411861,
+                "isFromPrice": false,
+                "price": 12000,
+                "quantity": 1,
+                "unlockEnums": [],
+                "unlockIds": []
+            },
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 12000,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ],
+            "costOther": [],
+            "description": "THE RIFLE THAT MODERNIZED FIRE POWER is the Lancaster Springfield, the perfect breech-loading rifle. Spend at least six months and practice target shooting every day and we guarantee you will become true of aim. ",
+            "englishName": "Springfield Rifle",
+            "effects": [
+                {
+                    "hash": -266488916,
+                    "value": 80
+                },
+                {
+                    "hash": 1648497600,
+                    "value": 75
+                },
+                {
+                    "hash": -1856731002,
+                    "value": 30
+                },
+                {
+                    "hash": 983649838,
+                    "value": 78
+                },
+                {
+                    "hash": 2038990430,
+                    "value": 43
+                },
+                {
+                    "hash": -358579849,
+                    "value": 64
+                },
+                {
+                    "hash": 1712309459,
+                    "value": 75
+                },
+                {
+                    "hash": 1003069489,
+                    "value": 24
+                },
+                {
+                    "hash": 1362510163,
+                    "value": 78
+                },
+                {
+                    "hash": 2117273085,
+                    "value": 34
+                },
+                {
+                    "hash": 1465168878,
+                    "value": 5
+                },
+                {
+                    "hash": -800430237,
+                    "value": 10
+                },
+                {
+                    "hash": -1103443887,
+                    "value": 10
+                }
+            ],
+            "enumHash": 1676963302,
+            "expiryStatus": "notExpired",
+            "name": "Springfield Rifle",
+            "gameMode": "sp",
+            "group": "WEAPON",
+            "horseVariations": [],
+            "images": [
+                {
+                    "type": 0,
+                    "url": "/global/catalog/rdr2/541a6e11/4cca02337986f8819685504d614c327e0402445f.png",
+                    "altText": ""
+                },
+                {
+                    "type": 1,
+                    "url": "/global/catalog/rdr2/541a6e11/62d339d5cb91aa38930f0de7ffc8f6b15c84eb25.png",
+                    "altText": ""
+                },
+                {
+                    "type": 7,
+                    "url": "/global/catalog/rdr2/541a6e11/f47784bc1fc6333dfc12132fe4581c22b514a92e.jpg",
+                    "altText": ""
+                },
+                {
+                    "type": 8,
+                    "url": "/global/catalog/rdr2/541a6e11/0468be7af9f0edd7a7425455dd2f7a7bd713eb58.jpg",
+                    "altText": ""
+                }
+            ],
+            "priorityAccessCosts": [],
+            "priorityAccessHash": 0,
+            "requirements": [],
+            "slots": [
+                {
+                    "hash": -673000374,
+                    "quantity": 1
+                }
+            ],
+            "tags": [
+                -2042164335
+            ],
+            "webDescription1": "THE RIFLE THAT MODERNIZED FIRE POWER is the Lancaster Springfield, the perfect breech-loading rifle. Spend at least six months and practice target shooting every day and we guarantee you will become true of aim. ",
+            "webDescription2": "",
+            "webHeadline1": "",
+            "webHeadline2": "",
+            "id": "377b308e",
+            "variations": []
+        },
+        {
+            "brand": "d55da246",
+            "categories": [
+                "85306e52/090e7ac7"
+            ],
+            "clothingVariations": [],
+            "costDefault": {
+                "currencyHash": 2084597891,
+                "nameHash": -915411861,
+                "isFromPrice": false,
+                "price": 9500,
+                "quantity": 1,
+                "unlockEnums": [],
+                "unlockIds": []
+            },
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 9500,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ],
+            "costOther": [],
+            "description": "Truly it is the finest shotgun available today. When you go in a party across the mountains, plains and passes of this great land, there is only one thing that can guarantee your safety, and that is the Double-Barreled Shotgun from D.D. Packenbush. Believe that. ",
+            "englishName": "Double-Barreled Shotgun",
+            "effects": [
+                {
+                    "hash": -266488916,
+                    "value": 65
+                },
+                {
+                    "hash": 1648497600,
+                    "value": 35
+                },
+                {
+                    "hash": -1856731002,
+                    "value": 60
+                },
+                {
+                    "hash": 983649838,
+                    "value": 30
+                },
+                {
+                    "hash": 2038990430,
+                    "value": 45
+                },
+                {
+                    "hash": -358579849,
+                    "value": 52
+                },
+                {
+                    "hash": 1712309459,
+                    "value": 35
+                },
+                {
+                    "hash": 1003069489,
+                    "value": 48
+                },
+                {
+                    "hash": 1362510163,
+                    "value": 30
+                },
+                {
+                    "hash": 2117273085,
+                    "value": 36
+                },
+                {
+                    "hash": 1465168878,
+                    "value": 5
+                },
+                {
+                    "hash": -800430237,
+                    "value": 10
+                },
+                {
+                    "hash": -1103443887,
+                    "value": 10
+                }
+            ],
+            "enumHash": 1845102363,
+            "expiryStatus": "notExpired",
+            "name": "Double-Barreled Shotgun",
+            "gameMode": "sp",
+            "group": "WEAPON",
+            "horseVariations": [],
+            "images": [
+                {
+                    "type": 0,
+                    "url": "/global/catalog/rdr2/f2e4f43b/01c8bb0e33a40ba3e803142350a73e4c018b66bb.png",
+                    "altText": ""
+                },
+                {
+                    "type": 1,
+                    "url": "/global/catalog/rdr2/f2e4f43b/99765925412b4f7e61a2de71885672c8f3da31d9.png",
+                    "altText": ""
+                },
+                {
+                    "type": 7,
+                    "url": "/global/catalog/rdr2/f2e4f43b/f4722dffed5d176e7bc09ea822ece1a91a53b738.jpg",
+                    "altText": ""
+                },
+                {
+                    "type": 8,
+                    "url": "/global/catalog/rdr2/f2e4f43b/f828616706d99dccfb33b7a4b71953bf7347d07b.jpg",
+                    "altText": ""
+                }
+            ],
+            "priorityAccessCosts": [],
+            "priorityAccessHash": 0,
+            "requirements": [],
+            "slots": [
+                {
+                    "hash": -673000374,
+                    "quantity": 1
+                }
+            ],
+            "tags": [
+                -465622838
+            ],
+            "webDescription1": "Truly it is the finest shotgun available today. When you go in a party across the mountains, plains and passes of this great land, there is only one thing that can guarantee your safety, and that is the Double-Barreled Shotgun from D.D. Packenbush. Believe that. ",
+            "webDescription2": "",
+            "webHeadline1": "",
+            "webHeadline2": "",
+            "id": "732b85fc",
+            "variations": []
+        },
+        {
+            "brand": "f0cf35c7",
+            "categories": [
+                "85306e52/dfa339ab"
+            ],
+            "clothingVariations": [],
+            "costDefault": {
+                "currencyHash": 2084597891,
+                "nameHash": -915411861,
+                "isFromPrice": false,
+                "price": 9000,
+                "quantity": 1,
+                "unlockEnums": [],
+                "unlockIds": []
+            },
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 9000,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ],
+            "costOther": [],
+            "description": "IF YOU ARE IN THE MARKET FOR A REPEATING RIFLE then you can do no wrong in exchanging your hard earned money for the Carbine Repeater from Buck. There is little in the world more dependable, save a trusty steed or good dog. However those are like to die, unlike a finely made gun. ",
+            "englishName": "Carbine Repeater",
+            "effects": [
+                {
+                    "hash": -266488916,
+                    "value": 60
+                },
+                {
+                    "hash": 1648497600,
+                    "value": 65
+                },
+                {
+                    "hash": -1856731002,
+                    "value": 53
+                },
+                {
+                    "hash": 983649838,
+                    "value": 73
+                },
+                {
+                    "hash": 2038990430,
+                    "value": 73
+                },
+                {
+                    "hash": -358579849,
+                    "value": 48
+                },
+                {
+                    "hash": 1712309459,
+                    "value": 65
+                },
+                {
+                    "hash": 1003069489,
+                    "value": 42
+                },
+                {
+                    "hash": 1362510163,
+                    "value": 73
+                },
+                {
+                    "hash": 2117273085,
+                    "value": 58
+                },
+                {
+                    "hash": 1465168878,
+                    "value": 5
+                },
+                {
+                    "hash": -800430237,
+                    "value": 10
+                },
+                {
+                    "hash": -1103443887,
+                    "value": 10
+                }
+            ],
+            "enumHash": -183018591,
+            "expiryStatus": "notExpired",
+            "name": "Carbine Repeater",
+            "gameMode": "sp",
+            "group": "WEAPON",
+            "horseVariations": [],
+            "images": [
+                {
+                    "type": 0,
+                    "url": "/global/catalog/rdr2/c9277165/c1d84ea87f84990d4897eb81182f090ae1ba23ed.png",
+                    "altText": ""
+                },
+                {
+                    "type": 1,
+                    "url": "/global/catalog/rdr2/c9277165/4f4841b2ed18598723f2bec7080ba7b868e00169.png",
+                    "altText": ""
+                },
+                {
+                    "type": 7,
+                    "url": "/global/catalog/rdr2/c9277165/a6346e047bf4a69495190d1075b6ded6fa858b75.jpg",
+                    "altText": ""
+                },
+                {
+                    "type": 8,
+                    "url": "/global/catalog/rdr2/c9277165/483290ec525d3d6eb552a442f7dfa89dfb17ae16.jpg",
+                    "altText": ""
+                }
+            ],
+            "priorityAccessCosts": [],
+            "priorityAccessHash": 0,
+            "requirements": [],
+            "slots": [
+                {
+                    "hash": -673000374,
+                    "quantity": 1
+                }
+            ],
+            "tags": [
+                1870612822
+            ],
+            "webDescription1": "IF YOU ARE IN THE MARKET FOR A REPEATING RIFLE then you can do no wrong in exchanging your hard earned money for the Carbine Repeater from Buck. There is little in the world more dependable, save a trusty steed or good dog. However those are like to die, unlike a finely made gun. ",
+            "webDescription2": "",
+            "webHeadline1": "",
+            "webHeadline2": "",
+            "id": "1b5521ed",
+            "variations": []
+        },
+        {
+            "brand": "150669a2",
+            "categories": [
+                "85306e52/090e7ac7"
+            ],
+            "clothingVariations": [],
+            "costDefault": {
+                "currencyHash": 2084597891,
+                "nameHash": -915411861,
+                "isFromPrice": false,
+                "price": 8500,
+                "quantity": 1,
+                "unlockEnums": [],
+                "unlockIds": []
+            },
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 8500,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ],
+            "costOther": [],
+            "description": "A lightweight shotgun that is easy to use and conceal, as many situations in modern times require. The safety and durability and, above all, superior penetration of this fine shotgun cannot be matched. FOR THE MAN THAT ENJOYS WIELDING AN HONEST SURPRISE. ",
+            "englishName": "Sawed-Off Shotgun",
+            "effects": [
+                {
+                    "hash": -266488916,
+                    "value": 65
+                },
+                {
+                    "hash": 1648497600,
+                    "value": 30
+                },
+                {
+                    "hash": -1856731002,
+                    "value": 60
+                },
+                {
+                    "hash": 983649838,
+                    "value": 25
+                },
+                {
+                    "hash": 2038990430,
+                    "value": 50
+                },
+                {
+                    "hash": -358579849,
+                    "value": 52
+                },
+                {
+                    "hash": 1712309459,
+                    "value": 30
+                },
+                {
+                    "hash": 1003069489,
+                    "value": 48
+                },
+                {
+                    "hash": 1362510163,
+                    "value": 25
+                },
+                {
+                    "hash": 2117273085,
+                    "value": 40
+                },
+                {
+                    "hash": 1465168878,
+                    "value": 5
+                },
+                {
+                    "hash": -800430237,
+                    "value": 10
+                },
+                {
+                    "hash": -1103443887,
+                    "value": 10
+                }
+            ],
+            "enumHash": 392538360,
+            "expiryStatus": "notExpired",
+            "name": "Sawed-Off Shotgun",
+            "gameMode": "sp",
+            "group": "WEAPON",
+            "horseVariations": [],
+            "images": [
+                {
+                    "type": 0,
+                    "url": "/global/catalog/rdr2/a5374dd2/d7246de634db6bf31e3d7d4f0986cdb5eb8784e6.png",
+                    "altText": ""
+                },
+                {
+                    "type": 1,
+                    "url": "/global/catalog/rdr2/a5374dd2/fd01f0f3eb1520ebe1a6f9d6893404a2edd01f75.png",
+                    "altText": ""
+                },
+                {
+                    "type": 7,
+                    "url": "/global/catalog/rdr2/a5374dd2/eb51038d784e887e355dec9b6234f7ffd1818a59.jpg",
+                    "altText": ""
+                },
+                {
+                    "type": 8,
+                    "url": "/global/catalog/rdr2/a5374dd2/e6b51194f5aaf56e79d767763f79afd6433ceb5e.jpg",
+                    "altText": ""
+                }
+            ],
+            "priorityAccessCosts": [],
+            "priorityAccessHash": 0,
+            "requirements": [],
+            "slots": [
+                {
+                    "hash": -673000374,
+                    "quantity": 1
+                }
+            ],
+            "tags": [
+                255663540
+            ],
+            "webDescription1": "A lightweight shotgun that is easy to use and conceal, as many situations in modern times require. The safety and durability and, above all, superior penetration of this fine shotgun cannot be matched. FOR THE MAN THAT ENJOYS WIELDING AN HONEST SURPRISE. ",
+            "webDescription2": "",
+            "webHeadline1": "",
+            "webHeadline2": "",
+            "id": "5eb30743",
+            "variations": []
+        },
+        {
+            "brand": "9096e4cd",
+            "categories": [
+                "85306e52/457185e2"
+            ],
+            "clothingVariations": [],
+            "costDefault": {
+                "currencyHash": 2084597891,
+                "nameHash": -915411861,
+                "isFromPrice": false,
+                "price": 8400,
+                "quantity": 1,
+                "unlockEnums": [],
+                "unlockIds": []
+            },
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 8400,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ],
+            "costOther": [],
+            "description": "Every man prefers a revolver or a companion that is STRICTLY FIRST CLASS IN EVERY RESPECT. While second or third class can often suffice in desperation or the dark of night, no truer model of revolver exists. If you vote something a nuisance, there is no better way to dispatch it. ",
+            "englishName": "Schofield Revolver",
+            "effects": [
+                {
+                    "hash": -266488916,
+                    "value": 46
+                },
+                {
+                    "hash": 1648497600,
+                    "value": 50
+                },
+                {
+                    "hash": -1856731002,
+                    "value": 70
+                },
+                {
+                    "hash": 983649838,
+                    "value": 70
+                },
+                {
+                    "hash": 2038990430,
+                    "value": 64
+                },
+                {
+                    "hash": -358579849,
+                    "value": 37
+                },
+                {
+                    "hash": 1712309459,
+                    "value": 50
+                },
+                {
+                    "hash": 1003069489,
+                    "value": 56
+                },
+                {
+                    "hash": 1362510163,
+                    "value": 70
+                },
+                {
+                    "hash": 2117273085,
+                    "value": 51
+                },
+                {
+                    "hash": 1465168878,
+                    "value": 5
+                },
+                {
+                    "hash": -800430237,
+                    "value": 10
+                },
+                {
+                    "hash": -1103443887,
+                    "value": 10
+                }
+            ],
+            "enumHash": 2075992054,
+            "expiryStatus": "notExpired",
+            "name": "Schofield Revolver",
+            "gameMode": "sp",
+            "group": "WEAPON",
+            "horseVariations": [],
+            "images": [
+                {
+                    "type": 0,
+                    "url": "/global/catalog/rdr2/0f7f13f2/94e88f80822f156abcc83c6cf650e402356080c4.png",
+                    "altText": ""
+                },
+                {
+                    "type": 1,
+                    "url": "/global/catalog/rdr2/0f7f13f2/7358b7ef1a520294f5f62177f3d2bebb2fd5a4e6.png",
+                    "altText": ""
+                },
+                {
+                    "type": 7,
+                    "url": "/global/catalog/rdr2/0f7f13f2/ff147d923c881e7530d635d245b1764e4f179f97.jpg",
+                    "altText": ""
+                },
+                {
+                    "type": 8,
+                    "url": "/global/catalog/rdr2/0f7f13f2/30ccc646cff840de48e210b5d9581781e0669def.jpg",
+                    "altText": ""
+                }
+            ],
+            "priorityAccessCosts": [],
+            "priorityAccessHash": 0,
+            "requirements": [],
+            "slots": [
+                {
+                    "hash": -673000374,
+                    "quantity": 1
+                }
+            ],
+            "tags": [
+                255663540
+            ],
+            "webDescription1": "Every man prefers a revolver or a companion that is STRICTLY FIRST CLASS IN EVERY RESPECT. While second or third class can often suffice in desperation or the dark of night, no truer model of revolver exists. If you vote something a nuisance, there is no better way to dispatch it. ",
+            "webDescription2": "",
+            "webHeadline1": "",
+            "webHeadline2": "",
+            "id": "468f44bd",
+            "variations": []
+        },
+        {
+            "brand": "b9851853",
+            "categories": [
+                "85306e52/c49f271a"
+            ],
+            "clothingVariations": [],
+            "costDefault": {
+                "currencyHash": 2084597891,
+                "nameHash": -915411861,
+                "isFromPrice": false,
+                "price": 7200,
+                "quantity": 1,
+                "unlockEnums": [],
+                "unlockIds": []
+            },
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 7200,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ],
+            "costOther": [],
+            "description": "It is absolutely guaranteed to be the best make of this style rifle on the market. Shoot it once and you will see that it brings down varmints with a splendid wallop unequalled by other low calibre rifles. A HUNTING RIFLE THE WHOLE FAMILY CAN ENJOY. ",
+            "englishName": "Varmint Rifle",
+            "effects": [
+                {
+                    "hash": -266488916,
+                    "value": 40
+                },
+                {
+                    "hash": 1648497600,
+                    "value": 65
+                },
+                {
+                    "hash": -1856731002,
+                    "value": 65
+                },
+                {
+                    "hash": 983649838,
+                    "value": 80
+                },
+                {
+                    "hash": 2038990430,
+                    "value": 68
+                },
+                {
+                    "hash": -358579849,
+                    "value": 32
+                },
+                {
+                    "hash": 1712309459,
+                    "value": 65
+                },
+                {
+                    "hash": 1003069489,
+                    "value": 52
+                },
+                {
+                    "hash": 1362510163,
+                    "value": 80
+                },
+                {
+                    "hash": 2117273085,
+                    "value": 54
+                },
+                {
+                    "hash": 1465168878,
+                    "value": 5
+                },
+                {
+                    "hash": -800430237,
+                    "value": 10
+                },
+                {
+                    "hash": -1103443887,
+                    "value": 10
+                }
+            ],
+            "enumHash": -570967010,
+            "expiryStatus": "notExpired",
+            "name": "Varmint Rifle",
+            "gameMode": "sp",
+            "group": "WEAPON",
+            "horseVariations": [],
+            "images": [
+                {
+                    "type": 0,
+                    "url": "/global/catalog/rdr2/1b1b1e6f/a700be27d1b096672c35f9741ef82890bbb1b425.png",
+                    "altText": ""
+                },
+                {
+                    "type": 1,
+                    "url": "/global/catalog/rdr2/1b1b1e6f/b195a4bb29c3eb16616b862701b0330af4df067f.png",
+                    "altText": ""
+                },
+                {
+                    "type": 7,
+                    "url": "/global/catalog/rdr2/1b1b1e6f/709ed0ba92ac90f8dc6ffb6ab8fa5b5c16411a65.jpg",
+                    "altText": ""
+                },
+                {
+                    "type": 8,
+                    "url": "/global/catalog/rdr2/1b1b1e6f/cfc3a02d529dfc73b558a4b9c2c1faa351777eed.jpg",
+                    "altText": ""
+                }
+            ],
+            "priorityAccessCosts": [],
+            "priorityAccessHash": 0,
+            "requirements": [],
+            "slots": [
+                {
+                    "hash": -673000374,
+                    "quantity": 1
+                }
+            ],
+            "tags": [
+                2038784026
+            ],
+            "webDescription1": "It is absolutely guaranteed to be the best make of this style rifle on the market. Shoot it once and you will see that it brings down varmints with a splendid wallop unequalled by other low calibre rifles. A HUNTING RIFLE THE WHOLE FAMILY CAN ENJOY. ",
+            "webDescription2": "",
+            "webHeadline1": "",
+            "webHeadline2": "",
+            "id": "d1c349c2",
+            "variations": []
+        },
+        {
+            "brand": "f0cf35c7",
+            "categories": [
+                "85306e52/dd31f1a0"
+            ],
+            "clothingVariations": [],
+            "costDefault": {
+                "currencyHash": 2084597891,
+                "nameHash": -915411861,
+                "isFromPrice": false,
+                "price": 6950,
+                "quantity": 1,
+                "unlockEnums": [],
+                "unlockIds": []
+            },
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 6950,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ],
+            "costOther": [],
+            "description": "Buck’s genuine tanned leather longarm Bandolier. We have sold a great many of these to men who fancy displaying volatile ammunition on their chest.",
+            "englishName": "Upgraded Bandolier",
+            "effects": [],
+            "enumHash": 1171350303,
+            "expiryStatus": "notExpired",
+            "name": "Upgraded Bandolier",
+            "gameMode": "sp",
+            "group": "CLOTHING",
+            "horseVariations": [],
+            "images": [
+                {
+                    "type": 0,
+                    "url": "/global/catalog/rdr2/da976fb0/ef31e0f681144da991d19569f7f41f4d425a6ebd.png",
+                    "altText": ""
+                },
+                {
+                    "type": 1,
+                    "url": "/global/catalog/rdr2/da976fb0/2c0fae62de63979dcfe1475c08931643b7cb0b24.png",
+                    "altText": ""
+                },
+                {
+                    "type": 2,
+                    "url": "/global/catalog/rdr2/da976fb0/c05655c5645d6426380c174bd80edeb9450fbddb.jpg",
+                    "altText": ""
+                },
+                {
+                    "type": 6,
+                    "url": "/global/catalog/rdr2/da976fb0/fc0549d67aea1b5e8091ae4b081d4cfd95a1cd4b.png",
+                    "altText": ""
+                }
+            ],
+            "priorityAccessCosts": [],
+            "priorityAccessHash": 0,
+            "requirements": [],
+            "slots": [
+                {
+                    "hash": -673000374,
+                    "quantity": 1
+                }
+            ],
+            "tags": [
+                130796156,
+                -1066545920,
+                -1979000645
+            ],
+            "webDescription1": "Buck’s genuine tanned leather longarm Bandolier. We have sold a great many of these to men who fancy displaying volatile ammunition on their chest.",
+            "webDescription2": "",
+            "webHeadline1": "",
+            "webHeadline2": "",
+            "id": "0a1a5f6c",
+            "variations": []
+        },
+        {
+            "brand": "d55da246",
+            "categories": [
+                "85306e52/457185e2"
+            ],
+            "clothingVariations": [],
+            "costDefault": {
+                "currencyHash": 2084597891,
+                "nameHash": -915411861,
+                "isFromPrice": false,
+                "price": 6500,
+                "quantity": 1,
+                "unlockEnums": [],
+                "unlockIds": []
+            },
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 6500,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ],
+            "costOther": [],
+            "description": "You can find no handsomer, up to date design than the D.D Packenbush Double-Action Revolver. It has the best action of any revolver for the price, and when you order one you will be the judge, jury and, very likely, the executioner. ",
+            "englishName": "Double-Action Revolver",
+            "effects": [
+                {
+                    "hash": -266488916,
+                    "value": 38
+                },
+                {
+                    "hash": 1648497600,
+                    "value": 50
+                },
+                {
+                    "hash": -1856731002,
+                    "value": 82
+                },
+                {
+                    "hash": 983649838,
+                    "value": 50
+                },
+                {
+                    "hash": 2038990430,
+                    "value": 70
+                },
+                {
+                    "hash": -358579849,
+                    "value": 30
+                },
+                {
+                    "hash": 1712309459,
+                    "value": 50
+                },
+                {
+                    "hash": 1003069489,
+                    "value": 66
+                },
+                {
+                    "hash": 1362510163,
+                    "value": 50
+                },
+                {
+                    "hash": 2117273085,
+                    "value": 56
+                },
+                {
+                    "hash": 1465168878,
+                    "value": 5
+                },
+                {
+                    "hash": -800430237,
+                    "value": 10
+                },
+                {
+                    "hash": -1103443887,
+                    "value": 10
+                }
+            ],
+            "enumHash": 127400949,
+            "expiryStatus": "notExpired",
+            "name": "Double-Action Revolver",
+            "gameMode": "sp",
+            "group": "WEAPON",
+            "horseVariations": [],
+            "images": [
+                {
+                    "type": 0,
+                    "url": "/global/catalog/rdr2/d4aa30f1/1b0f8b360fde661a786b3dc5625345f7633e196b.png",
+                    "altText": ""
+                },
+                {
+                    "type": 1,
+                    "url": "/global/catalog/rdr2/d4aa30f1/9895b79000ab7c8951991f517e351a111ed90322.png",
+                    "altText": ""
+                },
+                {
+                    "type": 7,
+                    "url": "/global/catalog/rdr2/d4aa30f1/c060d4ea09491e0188ade7acf80bc6e77c5de836.jpg",
+                    "altText": ""
+                },
+                {
+                    "type": 8,
+                    "url": "/global/catalog/rdr2/d4aa30f1/b9a02bffc8da7217355928ef89e6c6551448c1f1.jpg",
+                    "altText": ""
+                }
+            ],
+            "priorityAccessCosts": [],
+            "priorityAccessHash": 0,
+            "requirements": [],
+            "slots": [
+                {
+                    "hash": -673000374,
+                    "quantity": 1
+                }
+            ],
+            "tags": [
+                255663540
+            ],
+            "webDescription1": "You can find no handsomer, up to date design than the D.D Packenbush Double-Action Revolver. It has the best action of any revolver for the price, and when you order one you will be the judge, jury and, very likely, the executioner. ",
+            "webDescription2": "",
+            "webHeadline1": "",
+            "webHeadline2": "",
+            "id": "01f01add",
+            "variations": []
+        },
+        {
+            "brand": "b9851853",
+            "categories": [
+                "85306e52/dd31f1a0"
+            ],
+            "clothingVariations": [],
+            "costDefault": {
+                "currencyHash": 2084597891,
+                "nameHash": -915411861,
+                "isFromPrice": false,
+                "price": 5800,
+                "quantity": 1,
+                "unlockEnums": [],
+                "unlockIds": []
+            },
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 5800,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ],
+            "costOther": [],
+            "description": "The Lancaster blackened oiled genuine leather pistol belt featuring a polished steel roller buckle. Belt 3 inches wide, soft and pliable and will not crack.",
+            "englishName": "Upgraded Gun Belt",
+            "effects": [],
+            "enumHash": -469722632,
+            "expiryStatus": "notExpired",
+            "name": "Upgraded Gun Belt",
+            "gameMode": "sp",
+            "group": "CLOTHING",
+            "horseVariations": [],
+            "images": [
+                {
+                    "type": 0,
+                    "url": "/global/catalog/rdr2/2fcd03d0/0b5f24b46a0cc751c82863eed3779040ef5163d3.png",
+                    "altText": ""
+                },
+                {
+                    "type": 1,
+                    "url": "/global/catalog/rdr2/2fcd03d0/32dde5ee05d6d767cb90145306b87e68834de403.png",
+                    "altText": ""
+                },
+                {
+                    "type": 2,
+                    "url": "/global/catalog/rdr2/2fcd03d0/1c08f0d63ff343fd512e91426f97c73919a5b765.jpg",
+                    "altText": ""
+                },
+                {
+                    "type": 6,
+                    "url": "/global/catalog/rdr2/2fcd03d0/35c22331fd67ad441a1c3df0e8493f3ac1c7b0bf.png",
+                    "altText": ""
+                }
+            ],
+            "priorityAccessCosts": [],
+            "priorityAccessHash": 0,
+            "requirements": [],
+            "slots": [
+                {
+                    "hash": -673000374,
+                    "quantity": 1
+                }
+            ],
+            "tags": [
+                130796156,
+                -284267618,
+                -1979000645
+            ],
+            "webDescription1": "The Lancaster blackened oiled genuine leather pistol belt featuring a polished steel roller buckle. Belt 3 inches wide, soft and pliable and will not crack.",
+            "webDescription2": "",
+            "webHeadline1": "",
+            "webHeadline2": "",
+            "id": "6df4daa3",
+            "variations": []
+        },
+        {
+            "brand": "f0cf35c7",
+            "categories": [
+                "85306e52/457185e2"
+            ],
+            "clothingVariations": [],
+            "costDefault": {
+                "currencyHash": 2084597891,
+                "nameHash": -915411861,
+                "isFromPrice": false,
+                "price": 5000,
+                "quantity": 1,
+                "unlockEnums": [],
+                "unlockIds": []
+            },
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 5000,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ],
+            "costOther": [],
+            "description": "There is no better revolver to have at your side when heading west into the land of milk and honey. Fan the hammer in quick succession and you will see how quickly this revolver can be unloaded to the dismayed surprise of others. ",
+            "englishName": "Cattleman Revolver",
+            "effects": [
+                {
+                    "hash": -266488916,
+                    "value": 42
+                },
+                {
+                    "hash": 1648497600,
+                    "value": 50
+                },
+                {
+                    "hash": -1856731002,
+                    "value": 75
+                },
+                {
+                    "hash": 983649838,
+                    "value": 67
+                },
+                {
+                    "hash": 2038990430,
+                    "value": 67
+                },
+                {
+                    "hash": -358579849,
+                    "value": 34
+                },
+                {
+                    "hash": 1712309459,
+                    "value": 50
+                },
+                {
+                    "hash": 1003069489,
+                    "value": 60
+                },
+                {
+                    "hash": 1362510163,
+                    "value": 67
+                },
+                {
+                    "hash": 2117273085,
+                    "value": 54
+                },
+                {
+                    "hash": 1465168878,
+                    "value": 5
+                },
+                {
+                    "hash": -800430237,
+                    "value": 10
+                },
+                {
+                    "hash": -1103443887,
+                    "value": 10
+                }
+            ],
+            "enumHash": 379542007,
+            "expiryStatus": "notExpired",
+            "name": "Cattleman Revolver",
+            "gameMode": "sp",
+            "group": "WEAPON",
+            "horseVariations": [],
+            "images": [
+                {
+                    "type": 0,
+                    "url": "/global/catalog/rdr2/251d78e2/1c172379232de23c5c275bef8c510bf7e5d86a0a.png",
+                    "altText": ""
+                },
+                {
+                    "type": 1,
+                    "url": "/global/catalog/rdr2/251d78e2/8cb9c244c6901dbc27af96ddf3b45792c3a00363.png",
+                    "altText": ""
+                },
+                {
+                    "type": 7,
+                    "url": "/global/catalog/rdr2/251d78e2/0f737fc3f55cb8c5cb2cbcf743d200327be5f49d.jpg",
+                    "altText": ""
+                },
+                {
+                    "type": 8,
+                    "url": "/global/catalog/rdr2/251d78e2/6d8f3d9971d42894a03c59b54743afd7b7c97f55.jpg",
+                    "altText": ""
+                }
+            ],
+            "priorityAccessCosts": [],
+            "priorityAccessHash": 0,
+            "requirements": [],
+            "slots": [
+                {
+                    "hash": -673000374,
+                    "quantity": 1
+                }
+            ],
+            "tags": [
+                255663540
+            ],
+            "webDescription1": "There is no better revolver to have at your side when heading west into the land of milk and honey. Fan the hammer in quick succession and you will see how quickly this revolver can be unloaded to the dismayed surprise of others. ",
+            "webDescription2": "",
+            "webHeadline1": "",
+            "webHeadline2": "",
+            "id": "e397fbce",
+            "variations": []
+        },
+        {
+            "brand": "b9851853",
+            "categories": [
+                "85306e52/dd31f1a0"
+            ],
+            "clothingVariations": [],
+            "costDefault": {
+                "currencyHash": 2084597891,
+                "nameHash": -915411861,
+                "isFromPrice": false,
+                "price": 4550,
+                "quantity": 1,
+                "unlockEnums": [],
+                "unlockIds": []
+            },
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 4550,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ],
+            "costOther": [],
+            "description": "The Lancaster blackened oiled genuine leather holster. You will quickly learn how it pays to spend a little extra on something that you use every day.",
+            "englishName": "Upgraded Holster",
+            "effects": [],
+            "enumHash": -1975235238,
+            "expiryStatus": "notExpired",
+            "name": "Upgraded Holster",
+            "gameMode": "sp",
+            "group": "CLOTHING",
+            "horseVariations": [],
+            "images": [
+                {
+                    "type": 0,
+                    "url": "/global/catalog/rdr2/28464daf/4c3b8304a5c3eaf7305cc4879b7dd8fff7263421.png",
+                    "altText": ""
+                },
+                {
+                    "type": 1,
+                    "url": "/global/catalog/rdr2/28464daf/f221c4647d8807adc5431fb4ef93d3eb4512bc53.png",
+                    "altText": ""
+                },
+                {
+                    "type": 2,
+                    "url": "/global/catalog/rdr2/28464daf/f6087b6a128e80bd0ef5d61febc471e0cb9f63ca.jpg",
+                    "altText": ""
+                },
+                {
+                    "type": 6,
+                    "url": "/global/catalog/rdr2/28464daf/0bece51c54e0462c9ea064df8424e012f99f69ac.png",
+                    "altText": ""
+                }
+            ],
+            "priorityAccessCosts": [],
+            "priorityAccessHash": 0,
+            "requirements": [],
+            "slots": [
+                {
+                    "hash": -673000374,
+                    "quantity": 1
+                }
+            ],
+            "tags": [
+                130796156,
+                363491182,
+                -1979000645
+            ],
+            "webDescription1": "The Lancaster blackened oiled genuine leather holster. You will quickly learn how it pays to spend a little extra on something that you use every day.",
+            "webDescription2": "",
+            "webHeadline1": "",
+            "webHeadline2": "",
+            "id": "eaccb64e",
+            "variations": []
+        },
+        {
+            "brand": "55865ec6",
+            "categories": [
+                "85306e52/790e1eee"
+            ],
+            "clothingVariations": [],
+            "costDefault": {
+                "currencyHash": 2084597891,
+                "nameHash": -915411861,
+                "isFromPrice": false,
+                "price": 1550,
+                "quantity": 1,
+                "unlockEnums": [],
+                "unlockIds": []
+            },
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 1550,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ],
+            "costOther": [],
+            "description": "A beautiful watch that keeps perfect time. Makes a gentleman of any man.",
+            "englishName": "Pocket Watch",
+            "effects": [],
+            "enumHash": -780677328,
+            "expiryStatus": "notExpired",
+            "name": "Pocket Watch",
+            "gameMode": "sp",
+            "group": "KIT",
+            "horseVariations": [],
+            "images": [
+                {
+                    "type": 0,
+                    "url": "/global/catalog/rdr2/598c9eaf/0d65364f27fc688e994b4aeba4a2c3f1eea63aaf.png",
+                    "altText": ""
+                },
+                {
+                    "type": 1,
+                    "url": "/global/catalog/rdr2/598c9eaf/4143cf8a34193e19f79f2d3f90194be01d6c374f.png",
+                    "altText": ""
+                },
+                {
+                    "type": 2,
+                    "url": "/global/catalog/rdr2/598c9eaf/4c8aca1c24d8c033c6d3b99f88e62b5c5bf80d93.jpg",
+                    "altText": ""
+                }
+            ],
+            "priorityAccessCosts": [],
+            "priorityAccessHash": 0,
+            "requirements": [],
+            "slots": [
+                {
+                    "hash": -1162387149,
+                    "quantity": 1
+                },
+                {
+                    "hash": -673000374,
+                    "quantity": 0
+                }
+            ],
+            "tags": [
+                -928967997,
+                -883547903,
+                -651046900,
+                -1337515701
+            ],
+            "webDescription1": "A beautiful watch that keeps perfect time. Makes a gentleman of any man.",
+            "webDescription2": "",
+            "webHeadline1": "",
+            "webHeadline2": "",
+            "id": "318a0901",
+            "variations": []
+        },
+        {
+            "brand": "7c911331",
+            "categories": [
+                "85306e52/790e1eee"
+            ],
+            "clothingVariations": [],
+            "costDefault": {
+                "currencyHash": 2084597891,
+                "nameHash": -915411861,
+                "isFromPrice": false,
+                "price": 750,
+                "quantity": 1,
+                "unlockEnums": [],
+                "unlockIds": []
+            },
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 750,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ],
+            "costOther": [],
+            "description": "This percolator is of solid, sturdy construction and will deliver a strong cup of coffee in the morning, warming your hands as you look over the mesa into the valley below and what awaits you.",
+            "englishName": "Coffee Percolator",
+            "effects": [],
+            "enumHash": 1510719693,
+            "expiryStatus": "notExpired",
+            "name": "Coffee Percolator",
+            "gameMode": "sp",
+            "group": "UPGRADE",
+            "horseVariations": [],
+            "images": [
+                {
+                    "type": 0,
+                    "url": "/global/catalog/rdr2/ff622cad/d273cee24df871a85782b3a9024600ab78829081.png",
+                    "altText": ""
+                },
+                {
+                    "type": 1,
+                    "url": "/global/catalog/rdr2/ff622cad/9e039af014d8794c189a080ee9cc158f5424e636.png",
+                    "altText": ""
+                },
+                {
+                    "type": 2,
+                    "url": "/global/catalog/rdr2/ff622cad/4f7979551a90956827fd7a805af748cd76aaaf90.jpg",
+                    "altText": ""
+                }
+            ],
+            "priorityAccessCosts": [],
+            "priorityAccessHash": 0,
+            "requirements": [],
+            "slots": [
+                {
+                    "hash": -673000374,
+                    "quantity": 1
+                }
+            ],
+            "tags": [],
+            "webDescription1": "This percolator is of solid, sturdy construction and will deliver a strong cup of coffee in the morning, warming your hands as you look over the mesa into the valley below and what awaits you.",
+            "webDescription2": "",
+            "webHeadline1": "",
+            "webHeadline2": "",
+            "id": "975453d8",
+            "variations": []
+        },
+        {
+            "brand": "688f0ec0",
+            "categories": [
+                "85306e52/790e1eee"
+            ],
+            "clothingVariations": [],
+            "costDefault": {
+                "currencyHash": 2084597891,
+                "nameHash": -915411861,
+                "isFromPrice": false,
+                "price": 300,
+                "quantity": 1,
+                "unlockEnums": [],
+                "unlockIds": []
+            },
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 300,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ],
+            "costOther": [],
+            "description": "Lucifer's Cradle Predator Bait is warranted to attract feral hogs, wolves, cougars and other unwanted wildlife so that they may be disposed of before distressing livestock.",
+            "englishName": "Predator Bait",
+            "effects": [],
+            "enumHash": -1635450397,
+            "expiryStatus": "notExpired",
+            "name": "Predator Bait",
+            "gameMode": "sp",
+            "group": "CONSUMABLE",
+            "horseVariations": [],
+            "images": [
+                {
+                    "type": 0,
+                    "url": "/global/catalog/rdr2/f3289a5e/9a1368a622b27a708d953a77bdaea55211da1689.png",
+                    "altText": ""
+                },
+                {
+                    "type": 1,
+                    "url": "/global/catalog/rdr2/f3289a5e/403435b1970d1aa881e6b5d27941f66b5bd4464c.png",
+                    "altText": ""
+                },
+                {
+                    "type": 2,
+                    "url": "/global/catalog/rdr2/f3289a5e/d4115fb3a4877ccc7407a20bc9a3119225076a41.jpg",
+                    "altText": ""
+                }
+            ],
+            "priorityAccessCosts": [],
+            "priorityAccessHash": 0,
+            "requirements": [],
+            "slots": [
+                {
+                    "hash": -673000374,
+                    "quantity": 0
+                },
+                {
+                    "hash": 1084182731,
+                    "quantity": 3
+                },
+                {
+                    "hash": -1622147240,
+                    "quantity": 2
+                },
+                {
+                    "hash": 74547781,
+                    "quantity": 94
+                }
+            ],
+            "tags": [
+                -928967997,
+                1919582297,
+                1147021565,
+                127710288,
+                -651046900,
+                678620317,
+                -1359903382
+            ],
+            "webDescription1": "Lucifer's Cradle Predator Bait is warranted to attract feral hogs, wolves, cougars and other unwanted wildlife so that they may be disposed of before distressing livestock.",
+            "webDescription2": "",
+            "webHeadline1": "",
+            "webHeadline2": "",
+            "id": "661301f6",
+            "variations": []
+        },
+        {
+            "brand": "1529efde",
+            "categories": [
+                "85306e52/86c0cfea/2d2e83cf"
+            ],
+            "clothingVariations": [],
+            "costDefault": {
+                "currencyHash": 2084597891,
+                "nameHash": -915411861,
+                "isFromPrice": false,
+                "price": 300,
+                "quantity": 30,
+                "unlockEnums": [],
+                "unlockIds": []
+            },
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 300,
+                    "quantity": 30,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ],
+            "costOther": [],
+            "description": "Lethal at all distances. They leave little doubt or discussion when used as directed. Pin point accuracy. We have yet to receive complaint about these cartridges. Each box contains 30 cartridges.",
+            "englishName": "Rifle Cartridges - High Velocity",
+            "effects": [
+                {
+                    "hash": 1999781523,
+                    "value": 5
+                },
+                {
+                    "hash": -1657343230,
+                    "value": 10
+                }
+            ],
+            "enumHash": 1858824185,
+            "expiryStatus": "notExpired",
+            "name": "Rifle Cartridges - High Velocity",
+            "gameMode": "sp",
+            "group": "AMMO",
+            "horseVariations": [],
+            "images": [
+                {
+                    "type": 0,
+                    "url": "/global/catalog/rdr2/b8ed206f/85622d8df207f6140eb71de31f3f731799d30050.png",
+                    "altText": ""
+                },
+                {
+                    "type": 1,
+                    "url": "/global/catalog/rdr2/b8ed206f/dfcbb9d459c08b9f0fc327aa15c0fd22d90e198d.png",
+                    "altText": ""
+                },
+                {
+                    "type": 2,
+                    "url": "/global/catalog/rdr2/b8ed206f/99806eae0c9202a697b4aa123683b9addbefd9c8.jpg",
+                    "altText": ""
+                }
+            ],
+            "priorityAccessCosts": [],
+            "priorityAccessHash": 0,
+            "requirements": [
+                {
+                    "type": 1412799554,
+                    "value": "218444191"
+                }
+            ],
+            "slots": [
+                {
+                    "hash": -673000374,
+                    "quantity": 100
+                },
+                {
+                    "hash": 1704602624,
+                    "quantity": 50
+                },
+                {
+                    "hash": 1214181762,
+                    "quantity": 50
+                }
+            ],
+            "tags": [
+                -1452184346
+            ],
+            "webDescription1": "Lethal at all distances. They leave little doubt or discussion when used as directed. Pin point accuracy. We have yet to receive complaint about these cartridges. Each box contains 30 cartridges.",
+            "webDescription2": "",
+            "webHeadline1": "",
+            "webHeadline2": "",
+            "id": "9a5dd107",
+            "variations": []
+        },
+        {
+            "brand": "1529efde",
+            "categories": [
+                "85306e52/86c0cfea/dbcabe5b"
+            ],
+            "clothingVariations": [],
+            "costDefault": {
+                "currencyHash": 2084597891,
+                "nameHash": -915411861,
+                "isFromPrice": false,
+                "price": 250,
+                "quantity": 30,
+                "unlockEnums": [],
+                "unlockIds": []
+            },
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 250,
+                    "quantity": 30,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ],
+            "costOther": [],
+            "description": "Power. Speed. Accuracy. Honor your homestead by ordering a great number of these. The outer regions of this country are full of nefarious types who covet your wealth and would take it from you. Each box contains 30 cartridges.",
+            "englishName": "Pistol Cartridges - High Velocity",
+            "effects": [
+                {
+                    "hash": 1999781523,
+                    "value": 5
+                },
+                {
+                    "hash": -1657343230,
+                    "value": 10
+                }
+            ],
+            "enumHash": -1411815376,
+            "expiryStatus": "notExpired",
+            "name": "Pistol Cartridges - High Velocity",
+            "gameMode": "sp",
+            "group": "AMMO",
+            "horseVariations": [],
+            "images": [
+                {
+                    "type": 0,
+                    "url": "/global/catalog/rdr2/b7c692c7/921781d39ef1aa5a23098734efb5fea45155ebe5.png",
+                    "altText": ""
+                },
+                {
+                    "type": 1,
+                    "url": "/global/catalog/rdr2/b7c692c7/466820e29bcf94191e4985bca55427ba044a8468.png",
+                    "altText": ""
+                },
+                {
+                    "type": 2,
+                    "url": "/global/catalog/rdr2/b7c692c7/3d47e261a7b695f80e226d75f3458a3ced879153.jpg",
+                    "altText": ""
+                }
+            ],
+            "priorityAccessCosts": [],
+            "priorityAccessHash": 0,
+            "requirements": [
+                {
+                    "type": 1412799554,
+                    "value": "1950175060"
+                }
+            ],
+            "slots": [
+                {
+                    "hash": -673000374,
+                    "quantity": 100
+                },
+                {
+                    "hash": -430578371,
+                    "quantity": 50
+                },
+                {
+                    "hash": -730381952,
+                    "quantity": 50
+                }
+            ],
+            "tags": [
+                -1452184346
+            ],
+            "webDescription1": "Power. Speed. Accuracy. Honor your homestead by ordering a great number of these. The outer regions of this country are full of nefarious types who covet your wealth and would take it from you. Each box contains 30 cartridges.",
+            "webDescription2": "",
+            "webHeadline1": "",
+            "webHeadline2": "",
+            "id": "8280ad17",
+            "variations": []
+        },
+        {
+            "brand": "e28b46eb",
+            "categories": [
+                "85306e52/790e1eee"
+            ],
+            "clothingVariations": [],
+            "costDefault": {
+                "currencyHash": 2084597891,
+                "nameHash": -915411861,
+                "isFromPrice": false,
+                "price": 250,
+                "quantity": 1,
+                "unlockEnums": [],
+                "unlockIds": []
+            },
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 250,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ],
+            "costOther": [],
+            "description": "A custom made lure for all your lake fishing needs.",
+            "englishName": "Lake Lure",
+            "effects": [],
+            "enumHash": -978159653,
+            "expiryStatus": "notExpired",
+            "name": "Lake Lure",
+            "gameMode": "sp",
+            "group": "UPGRADE",
+            "horseVariations": [],
+            "images": [
+                {
+                    "type": 0,
+                    "url": "/global/catalog/rdr2/ac24ba7d/96b792533db15ac7aa3b0b02501e4fb934200abe.png",
+                    "altText": ""
+                },
+                {
+                    "type": 1,
+                    "url": "/global/catalog/rdr2/ac24ba7d/40899f24d4d43e970dec10c7c838ef809e134e14.png",
+                    "altText": ""
+                },
+                {
+                    "type": 2,
+                    "url": "/global/catalog/rdr2/ac24ba7d/99810a018b927a9a61648b5152a6e20f612061f4.jpg",
+                    "altText": ""
+                }
+            ],
+            "priorityAccessCosts": [],
+            "priorityAccessHash": 0,
+            "requirements": [
+                {
+                    "type": -1943220497,
+                    "value": "1178468064"
+                }
+            ],
+            "slots": [
+                {
+                    "hash": -673000374,
+                    "quantity": 0
+                },
+                {
+                    "hash": 1084182731,
+                    "quantity": 3
+                },
+                {
+                    "hash": -1622147240,
+                    "quantity": 2
+                },
+                {
+                    "hash": 74547781,
+                    "quantity": 94
+                }
+            ],
+            "tags": [
+                -928967997,
+                1192444843,
+                210646929,
+                -1359903382
+            ],
+            "webDescription1": "A custom made lure for all your lake fishing needs.",
+            "webDescription2": "",
+            "webHeadline1": "",
+            "webHeadline2": "",
+            "id": "9b9bd35b",
+            "variations": []
+        },
+        {
+            "brand": "1529efde",
+            "categories": [
+                "85306e52/86c0cfea/16d5f288"
+            ],
+            "clothingVariations": [],
+            "costDefault": {
+                "currencyHash": 2084597891,
+                "nameHash": -915411861,
+                "isFromPrice": false,
+                "price": 250,
+                "quantity": 60,
+                "unlockEnums": [],
+                "unlockIds": []
+            },
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 250,
+                    "quantity": 60,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ],
+            "costOther": [],
+            "description": "Buck is known for the best quality High Velocity Repeater Cartridges. What exciting scenes these cartridges have passed through, often to the surprise of the people attending. Each box contains 60 cartridges.",
+            "englishName": "Repeater Cartridges - High Velocity",
+            "effects": [
+                {
+                    "hash": 1999781523,
+                    "value": 5
+                },
+                {
+                    "hash": -1657343230,
+                    "value": 10
+                }
+            ],
+            "enumHash": 231465488,
+            "expiryStatus": "notExpired",
+            "name": "Repeater Cartridges - High Velocity",
+            "gameMode": "sp",
+            "group": "AMMO",
+            "horseVariations": [],
+            "images": [
+                {
+                    "type": 0,
+                    "url": "/global/catalog/rdr2/b55d1dd1/1dd5f69126ca182953d570cf2c71bcdc19c627cc.png",
+                    "altText": ""
+                },
+                {
+                    "type": 1,
+                    "url": "/global/catalog/rdr2/b55d1dd1/d170f190641f25130a33e11b21fbed2ca9612e2f.png",
+                    "altText": ""
+                },
+                {
+                    "type": 2,
+                    "url": "/global/catalog/rdr2/b55d1dd1/41a8030af2232dd22ba706f7332bd3ce70992c03.jpg",
+                    "altText": ""
+                }
+            ],
+            "priorityAccessCosts": [],
+            "priorityAccessHash": 0,
+            "requirements": [
+                {
+                    "type": 1412799554,
+                    "value": "2964851610"
+                }
+            ],
+            "slots": [
+                {
+                    "hash": -673000374,
+                    "quantity": 200
+                },
+                {
+                    "hash": 1704602624,
+                    "quantity": 100
+                },
+                {
+                    "hash": 1214181762,
+                    "quantity": 100
+                }
+            ],
+            "tags": [
+                -1452184346
+            ],
+            "webDescription1": "Buck is known for the best quality High Velocity Repeater Cartridges. What exciting scenes these cartridges have passed through, often to the surprise of the people attending. Each box contains 60 cartridges.",
+            "webDescription2": "",
+            "webHeadline1": "",
+            "webHeadline2": "",
+            "id": "6203c24a",
+            "variations": []
+        },
+        {
+            "brand": "3e244fe7",
+            "categories": [
+                "85306e52/790e1eee"
+            ],
+            "clothingVariations": [],
+            "costDefault": {
+                "currencyHash": 2084597891,
+                "nameHash": -915411861,
+                "isFromPrice": false,
+                "price": 225,
+                "quantity": 1,
+                "unlockEnums": [],
+                "unlockIds": []
+            },
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 225,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ],
+            "costOther": [],
+            "description": "Pied Piper Brand's patented formula lures unwanted wildlife and pesky herbivores right into your trap.",
+            "englishName": "Herbivore Bait",
+            "effects": [],
+            "enumHash": 1929383243,
+            "expiryStatus": "notExpired",
+            "name": "Herbivore Bait",
+            "gameMode": "sp",
+            "group": "CONSUMABLE",
+            "horseVariations": [],
+            "images": [
+                {
+                    "type": 0,
+                    "url": "/global/catalog/rdr2/8463ad6d/b36827f1c82af7ff26dc3826659a6f865c9f55a2.png",
+                    "altText": ""
+                },
+                {
+                    "type": 1,
+                    "url": "/global/catalog/rdr2/8463ad6d/b777246270b32108f658c8aa8bd0e1fc6cc9ba38.png",
+                    "altText": ""
+                },
+                {
+                    "type": 2,
+                    "url": "/global/catalog/rdr2/8463ad6d/a08c871072c8a9177d21641de72a1bd442b3655c.jpg",
+                    "altText": ""
+                }
+            ],
+            "priorityAccessCosts": [],
+            "priorityAccessHash": 0,
+            "requirements": [],
+            "slots": [
+                {
+                    "hash": -673000374,
+                    "quantity": 0
+                },
+                {
+                    "hash": 1084182731,
+                    "quantity": 3
+                },
+                {
+                    "hash": -1622147240,
+                    "quantity": 2
+                },
+                {
+                    "hash": 74547781,
+                    "quantity": 94
+                }
+            ],
+            "tags": [
+                -928967997,
+                1919582297,
+                1147021565,
+                -1903335637,
+                127710288,
+                -651046900,
+                678620317,
+                -1359903382
+            ],
+            "webDescription1": "Pied Piper Brand's patented formula lures unwanted wildlife and pesky herbivores right into your trap.",
+            "webDescription2": "",
+            "webHeadline1": "",
+            "webHeadline2": "",
+            "id": "1a89b9f1",
+            "variations": []
+        },
+        {
+            "brand": "1529efde",
+            "categories": [
+                "85306e52/86c0cfea/16d8104e"
+            ],
+            "clothingVariations": [],
+            "costDefault": {
+                "currencyHash": 2084597891,
+                "nameHash": -915411861,
+                "isFromPrice": false,
+                "price": 200,
+                "quantity": 60,
+                "unlockEnums": [],
+                "unlockIds": []
+            },
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 200,
+                    "quantity": 60,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ],
+            "costOther": [],
+            "description": "We ask that you place an order for a box, shoot them in quick succession, and if it does not bring you unmitigated deafening joy, return the spent casings to us for a refund. Each box contains 60 cartridges.",
+            "englishName": "Revolver Cartridges - High Velocity",
+            "effects": [
+                {
+                    "hash": 1999781523,
+                    "value": 5
+                },
+                {
+                    "hash": -1657343230,
+                    "value": 10
+                }
+            ],
+            "enumHash": -2084181920,
+            "expiryStatus": "notExpired",
+            "name": "Revolver Cartridges - High Velocity",
+            "gameMode": "sp",
+            "group": "AMMO",
+            "horseVariations": [],
+            "images": [
+                {
+                    "type": 0,
+                    "url": "/global/catalog/rdr2/8a36b1ab/83e4486a4b44361afb5a1c3a931c7742442a241c.png",
+                    "altText": ""
+                },
+                {
+                    "type": 1,
+                    "url": "/global/catalog/rdr2/8a36b1ab/579d78a995667a0ef583109b2e46fba508bbbd08.png",
+                    "altText": ""
+                },
+                {
+                    "type": 2,
+                    "url": "/global/catalog/rdr2/8a36b1ab/fd30574e3433d8e366a71a116e6f7a900126ea4c.jpg",
+                    "altText": ""
+                }
+            ],
+            "priorityAccessCosts": [],
+            "priorityAccessHash": 0,
+            "requirements": [
+                {
+                    "type": 1412799554,
+                    "value": "1681219929"
+                }
+            ],
+            "slots": [
+                {
+                    "hash": -673000374,
+                    "quantity": 200
+                },
+                {
+                    "hash": -430578371,
+                    "quantity": 100
+                },
+                {
+                    "hash": -730381952,
+                    "quantity": 100
+                }
+            ],
+            "tags": [
+                -1452184346
+            ],
+            "webDescription1": "We ask that you place an order for a box, shoot them in quick succession, and if it does not bring you unmitigated deafening joy, return the spent casings to us for a refund. Each box contains 60 cartridges.",
+            "webDescription2": "",
+            "webHeadline1": "",
+            "webHeadline2": "",
+            "id": "f6ec7f94",
+            "variations": []
+        },
+        {
+            "brand": "ddf0695d",
+            "categories": [
+                "85306e52/86c0cfea/16d5f288"
+            ],
+            "clothingVariations": [],
+            "costDefault": {
+                "currencyHash": 2084597891,
+                "nameHash": -915411861,
+                "isFromPrice": false,
+                "price": 200,
+                "quantity": 60,
+                "unlockEnums": [],
+                "unlockIds": []
+            },
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 200,
+                    "quantity": 60,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ],
+            "costOther": [],
+            "description": "Manufactured to military specifications and stopping power. If only piety were hereditary, it would not be necessary to resupply with these cartridges at such a pace. Each box contains 60 cartridges.",
+            "englishName": "Repeater Cartridges - Express",
+            "effects": [
+                {
+                    "hash": 1999781523,
+                    "value": 15
+                }
+            ],
+            "enumHash": -578347576,
+            "expiryStatus": "notExpired",
+            "name": "Repeater Cartridges - Express",
+            "gameMode": "sp",
+            "group": "AMMO",
+            "horseVariations": [],
+            "images": [
+                {
+                    "type": 0,
+                    "url": "/global/catalog/rdr2/db6f0030/54e3de8613445570020276367994f71ff61dbd3e.png",
+                    "altText": ""
+                },
+                {
+                    "type": 1,
+                    "url": "/global/catalog/rdr2/db6f0030/92a9e3a5828ac03bf15129c52722cb096a303c5e.png",
+                    "altText": ""
+                },
+                {
+                    "type": 2,
+                    "url": "/global/catalog/rdr2/db6f0030/9fb4f972269794c1c4f5757e2e668c5718fe4c4d.jpg",
+                    "altText": ""
+                }
+            ],
+            "priorityAccessCosts": [],
+            "priorityAccessHash": 0,
+            "requirements": [],
+            "slots": [
+                {
+                    "hash": -673000374,
+                    "quantity": 200
+                },
+                {
+                    "hash": 1704602624,
+                    "quantity": 100
+                },
+                {
+                    "hash": 1214181762,
+                    "quantity": 100
+                }
+            ],
+            "tags": [
+                -1452184346
+            ],
+            "webDescription1": "Manufactured to military specifications and stopping power. If only piety were hereditary, it would not be necessary to resupply with these cartridges at such a pace. Each box contains 60 cartridges.",
+            "webDescription2": "",
+            "webHeadline1": "",
+            "webHeadline2": "",
+            "id": "01c09fc6",
+            "variations": []
+        },
+        {
+            "brand": "ddf0695d",
+            "categories": [
+                "85306e52/86c0cfea/2d2e83cf"
+            ],
+            "clothingVariations": [],
+            "costDefault": {
+                "currencyHash": 2084597891,
+                "nameHash": -915411861,
+                "isFromPrice": false,
+                "price": 200,
+                "quantity": 30,
+                "unlockEnums": [],
+                "unlockIds": []
+            },
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 200,
+                    "quantity": 30,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ],
+            "costOther": [],
+            "description": "Consistent shot to shot. The hollow point cartridge that stands the test of time, for it is of a dependability and quality that is worthy of your confidence. Each box contains 30 cartridges.",
+            "englishName": "Rifle Cartridges - Express",
+            "effects": [
+                {
+                    "hash": 1999781523,
+                    "value": 15
+                }
+            ],
+            "enumHash": 1654725195,
+            "expiryStatus": "notExpired",
+            "name": "Rifle Cartridges - Express",
+            "gameMode": "sp",
+            "group": "AMMO",
+            "horseVariations": [],
+            "images": [
+                {
+                    "type": 0,
+                    "url": "/global/catalog/rdr2/b2044498/d49dd87c1d15b3cd62109fbb4a1a1872c37cedb0.png",
+                    "altText": ""
+                },
+                {
+                    "type": 1,
+                    "url": "/global/catalog/rdr2/b2044498/1cebf200dc013d9599a86f2faebf3d6c026b643c.png",
+                    "altText": ""
+                },
+                {
+                    "type": 2,
+                    "url": "/global/catalog/rdr2/b2044498/9e32c11625784150714c5d17a744bfe3a0d0ac8e.jpg",
+                    "altText": ""
+                }
+            ],
+            "priorityAccessCosts": [],
+            "priorityAccessHash": 0,
+            "requirements": [
+                {
+                    "type": 1412799554,
+                    "value": "218444191"
+                }
+            ],
+            "slots": [
+                {
+                    "hash": -673000374,
+                    "quantity": 100
+                },
+                {
+                    "hash": 1704602624,
+                    "quantity": 50
+                },
+                {
+                    "hash": 1214181762,
+                    "quantity": 50
+                }
+            ],
+            "tags": [
+                -1452184346
+            ],
+            "webDescription1": "Consistent shot to shot. The hollow point cartridge that stands the test of time, for it is of a dependability and quality that is worthy of your confidence. Each box contains 30 cartridges.",
+            "webDescription2": "",
+            "webHeadline1": "",
+            "webHeadline2": "",
+            "id": "f87caedf",
+            "variations": []
+        },
+        {
+            "brand": "b89bcaf9",
+            "categories": [
+                "85306e52/86c0cfea/16d5f288"
+            ],
+            "clothingVariations": [],
+            "costDefault": {
+                "currencyHash": 2084597891,
+                "nameHash": -915411861,
+                "isFromPrice": false,
+                "price": 150,
+                "quantity": 60,
+                "unlockEnums": [],
+                "unlockIds": []
+            },
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 150,
+                    "quantity": 60,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ],
+            "costOther": [],
+            "description": "A favorite pastime of young boys is shooting tin cans across a field, using these cartridges, enjoying the last days of summer before the long dark winter culls sickly members of the family. Each box contains 60 cartridges.",
+            "englishName": "Repeater Cartridges - Regular",
+            "effects": [],
+            "enumHash": -1330115686,
+            "expiryStatus": "notExpired",
+            "name": "Repeater Cartridges - Regular",
+            "gameMode": "sp",
+            "group": "AMMO",
+            "horseVariations": [],
+            "images": [
+                {
+                    "type": 0,
+                    "url": "/global/catalog/rdr2/22c1b908/e5a2d965c1c6b27101582f6b5bb4df5815e41e5b.png",
+                    "altText": ""
+                },
+                {
+                    "type": 1,
+                    "url": "/global/catalog/rdr2/22c1b908/58a64dbb4c23fe9c9ccacb88569280de075301de.png",
+                    "altText": ""
+                },
+                {
+                    "type": 2,
+                    "url": "/global/catalog/rdr2/22c1b908/4abb09414cf7265ca6ba8f189ef035f2f2637193.jpg",
+                    "altText": ""
+                }
+            ],
+            "priorityAccessCosts": [],
+            "priorityAccessHash": 0,
+            "requirements": [
+                {
+                    "type": 1412799554,
+                    "value": "2964851610"
+                }
+            ],
+            "slots": [
+                {
+                    "hash": -673000374,
+                    "quantity": 200
+                },
+                {
+                    "hash": 1704602624,
+                    "quantity": 100
+                },
+                {
+                    "hash": 1214181762,
+                    "quantity": 100
+                }
+            ],
+            "tags": [
+                -1452184346
+            ],
+            "webDescription1": "A favorite pastime of young boys is shooting tin cans across a field, using these cartridges, enjoying the last days of summer before the long dark winter culls sickly members of the family. Each box contains 60 cartridges.",
+            "webDescription2": "",
+            "webHeadline1": "",
+            "webHeadline2": "",
+            "id": "457ca282",
+            "variations": []
+        },
+        {
+            "brand": "b9851853",
+            "categories": [
+                "85306e52/790e1eee"
+            ],
+            "clothingVariations": [],
+            "costDefault": {
+                "currencyHash": 2084597891,
+                "nameHash": -915411861,
+                "isFromPrice": false,
+                "price": 150,
+                "quantity": 1,
+                "unlockEnums": [],
+                "unlockIds": []
+            },
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 150,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ],
+            "costOther": [],
+            "description": "Gun oil. Preserves all metals from rust or tarnish. Will not corrode or become rancid. Keeps all firearms clean and neat. ",
+            "englishName": "Quality Gun Oil",
+            "effects": [],
+            "enumHash": -898386032,
+            "expiryStatus": "notExpired",
+            "name": "Quality Gun Oil",
+            "gameMode": "sp",
+            "group": "KIT",
+            "horseVariations": [],
+            "images": [
+                {
+                    "type": 0,
+                    "url": "/global/catalog/rdr2/08ba844d/1cbab83b155cbc1f5c97c43cf46d1c80fbff1c18.png",
+                    "altText": ""
+                },
+                {
+                    "type": 1,
+                    "url": "/global/catalog/rdr2/08ba844d/d512a2fa6be863ddf1dd72839192ac78b09fcd77.png",
+                    "altText": ""
+                },
+                {
+                    "type": 2,
+                    "url": "/global/catalog/rdr2/08ba844d/38d1643e5d42dd584b4c5b9a0e2363d281db4717.jpg",
+                    "altText": ""
+                }
+            ],
+            "priorityAccessCosts": [],
+            "priorityAccessHash": 0,
+            "requirements": [],
+            "slots": [
+                {
+                    "hash": -673000374,
+                    "quantity": 0
+                },
+                {
+                    "hash": 1084182731,
+                    "quantity": 5
+                },
+                {
+                    "hash": -1622147240,
+                    "quantity": 5
+                },
+                {
+                    "hash": 74547781,
+                    "quantity": 89
+                }
+            ],
+            "tags": [
+                -928967997,
+                -651046900
+            ],
+            "webDescription1": "Gun oil. Preserves all metals from rust or tarnish. Will not corrode or become rancid. Keeps all firearms clean and neat. ",
+            "webDescription2": "",
+            "webHeadline1": "",
+            "webHeadline2": "",
+            "id": "3d382650",
+            "variations": []
+        },
+        {
+            "brand": "ddf0695d",
+            "categories": [
+                "85306e52/86c0cfea/16d8104e"
+            ],
+            "clothingVariations": [],
+            "costDefault": {
+                "currencyHash": 2084597891,
+                "nameHash": -915411861,
+                "isFromPrice": false,
+                "price": 150,
+                "quantity": 60,
+                "unlockEnums": [],
+                "unlockIds": []
+            },
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 150,
+                    "quantity": 60,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ],
+            "costOther": [],
+            "description": "Hollow point. Incredible stopping power. We have received scores of letters indicating that these cartridges were instrumental in honoring or breaching civil, social and natural laws. Each box contains 60 cartridges.",
+            "englishName": "Revolver Cartridges - Express",
+            "effects": [
+                {
+                    "hash": 1999781523,
+                    "value": 15
+                }
+            ],
+            "enumHash": 1232099469,
+            "expiryStatus": "notExpired",
+            "name": "Revolver Cartridges - Express",
+            "gameMode": "sp",
+            "group": "AMMO",
+            "horseVariations": [],
+            "images": [
+                {
+                    "type": 0,
+                    "url": "/global/catalog/rdr2/0fad3cfb/b6cfa30a040483b8ee2afc988de0e4e54c27d152.png",
+                    "altText": ""
+                },
+                {
+                    "type": 1,
+                    "url": "/global/catalog/rdr2/0fad3cfb/b8452ea4d5a004764b617d989ae244a7a842c6d5.png",
+                    "altText": ""
+                },
+                {
+                    "type": 2,
+                    "url": "/global/catalog/rdr2/0fad3cfb/646fe416004ea6ea51f0735517780f0b5139561a.jpg",
+                    "altText": ""
+                }
+            ],
+            "priorityAccessCosts": [],
+            "priorityAccessHash": 0,
+            "requirements": [
+                {
+                    "type": 1412799554,
+                    "value": "1681219929"
+                }
+            ],
+            "slots": [
+                {
+                    "hash": -673000374,
+                    "quantity": 200
+                },
+                {
+                    "hash": -430578371,
+                    "quantity": 100
+                },
+                {
+                    "hash": -730381952,
+                    "quantity": 100
+                }
+            ],
+            "tags": [
+                -1452184346
+            ],
+            "webDescription1": "Hollow point. Incredible stopping power. We have received scores of letters indicating that these cartridges were instrumental in honoring or breaching civil, social and natural laws. Each box contains 60 cartridges.",
+            "webDescription2": "",
+            "webHeadline1": "",
+            "webHeadline2": "",
+            "id": "9f7d1156",
+            "variations": []
+        },
+        {
+            "brand": "b89bcaf9",
+            "categories": [
+                "85306e52/86c0cfea/2d2e83cf"
+            ],
+            "clothingVariations": [],
+            "costDefault": {
+                "currencyHash": 2084597891,
+                "nameHash": -915411861,
+                "isFromPrice": false,
+                "price": 150,
+                "quantity": 30,
+                "unlockEnums": [],
+                "unlockIds": []
+            },
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 150,
+                    "quantity": 30,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ],
+            "costOther": [],
+            "description": "As the crack of your rifle ricochets off the walls of the canyon and the man lies dead in the distance, the birds go silent in the noonday sun, and yet again King Load has never failed you. Each box contains 30 cartridges.",
+            "englishName": "Rifle Cartridges - Regular",
+            "effects": [],
+            "enumHash": 218444191,
+            "expiryStatus": "notExpired",
+            "name": "Rifle Cartridges - Regular",
+            "gameMode": "sp",
+            "group": "AMMO",
+            "horseVariations": [],
+            "images": [
+                {
+                    "type": 0,
+                    "url": "/global/catalog/rdr2/78f716a5/47bbab22e1cdd13cc965315174d2adc98a04bc48.png",
+                    "altText": ""
+                },
+                {
+                    "type": 1,
+                    "url": "/global/catalog/rdr2/78f716a5/038dc9467de2bf66e1372d09263074211d5cdae7.png",
+                    "altText": ""
+                },
+                {
+                    "type": 2,
+                    "url": "/global/catalog/rdr2/78f716a5/083c07dbc2914203f4dc852e0d934f2da4c50a96.jpg",
+                    "altText": ""
+                }
+            ],
+            "priorityAccessCosts": [],
+            "priorityAccessHash": 0,
+            "requirements": [
+                {
+                    "type": 1412799554,
+                    "value": "218444191"
+                }
+            ],
+            "slots": [
+                {
+                    "hash": -673000374,
+                    "quantity": 100
+                },
+                {
+                    "hash": 1704602624,
+                    "quantity": 50
+                },
+                {
+                    "hash": 1214181762,
+                    "quantity": 50
+                }
+            ],
+            "tags": [
+                -1452184346
+            ],
+            "webDescription1": "As the crack of your rifle ricochets off the walls of the canyon and the man lies dead in the distance, the birds go silent in the noonday sun, and yet again King Load has never failed you. Each box contains 30 cartridges.",
+            "webDescription2": "",
+            "webHeadline1": "",
+            "webHeadline2": "",
+            "id": "8ba9d52c",
+            "variations": []
+        },
+        {
+            "brand": "ae5f8ebb",
+            "categories": [
+                "85306e52/86c0cfea/940309a0"
+            ],
+            "clothingVariations": [],
+            "costDefault": {
+                "currencyHash": 2084597891,
+                "nameHash": -915411861,
+                "isFromPrice": false,
+                "price": 150,
+                "quantity": 18,
+                "unlockEnums": [],
+                "unlockIds": []
+            },
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 150,
+                    "quantity": 18,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ],
+            "costOther": [],
+            "description": "Lancaster Shotgun Slugs deliver a powerful message that cannot be ignored. Mushrooms on impact to convey what must be said, without words. Each box contains 18 slugs.",
+            "englishName": "Shotgun - Slug",
+            "effects": [
+                {
+                    "hash": -1657343230,
+                    "value": 5
+                },
+                {
+                    "hash": 1173003838,
+                    "value": 20
+                }
+            ],
+            "enumHash": 314966081,
+            "expiryStatus": "notExpired",
+            "name": "Shotgun - Slug",
+            "gameMode": "sp",
+            "group": "AMMO",
+            "horseVariations": [],
+            "images": [
+                {
+                    "type": 0,
+                    "url": "/global/catalog/rdr2/8bdb5cbe/6d1ae5f66d9b549b53e5681bb41602597229fca7.png",
+                    "altText": ""
+                },
+                {
+                    "type": 1,
+                    "url": "/global/catalog/rdr2/8bdb5cbe/abfb4d70d7e7df878fd6bf2344a0aec2eff9d0a0.png",
+                    "altText": ""
+                },
+                {
+                    "type": 2,
+                    "url": "/global/catalog/rdr2/8bdb5cbe/c2057c1e81662569c68586e901f5f8886c659c19.jpg",
+                    "altText": ""
+                }
+            ],
+            "priorityAccessCosts": [],
+            "priorityAccessHash": 0,
+            "requirements": [
+                {
+                    "type": 1412799554,
+                    "value": "2416459067"
+                }
+            ],
+            "slots": [
+                {
+                    "hash": -673000374,
+                    "quantity": 60
+                },
+                {
+                    "hash": 1704602624,
+                    "quantity": 30
+                },
+                {
+                    "hash": 1214181762,
+                    "quantity": 30
+                }
+            ],
+            "tags": [
+                -1452184346
+            ],
+            "webDescription1": "Lancaster Shotgun Slugs deliver a powerful message that cannot be ignored. Mushrooms on impact to convey what must be said, without words. Each box contains 18 slugs.",
+            "webDescription2": "",
+            "webHeadline1": "",
+            "webHeadline2": "",
+            "id": "2b7b2208",
+            "variations": []
+        },
+        {
+            "brand": "ddf0695d",
+            "categories": [
+                "85306e52/86c0cfea/dbcabe5b"
+            ],
+            "clothingVariations": [],
+            "costDefault": {
+                "currencyHash": 2084597891,
+                "nameHash": -915411861,
+                "isFromPrice": false,
+                "price": 150,
+                "quantity": 30,
+                "unlockEnums": [],
+                "unlockIds": []
+            },
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 150,
+                    "quantity": 30,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ],
+            "costOther": [],
+            "description": "Hollow point. The stopping power of these cartridges may be the very thing that keeps your good name unsullied among those who would dare make accusations. Each box contains 30 cartridges.",
+            "englishName": "Pistol Cartridges - Express",
+            "effects": [
+                {
+                    "hash": 1999781523,
+                    "value": 15
+                }
+            ],
+            "enumHash": 836939099,
+            "expiryStatus": "notExpired",
+            "name": "Pistol Cartridges - Express",
+            "gameMode": "sp",
+            "group": "AMMO",
+            "horseVariations": [],
+            "images": [
+                {
+                    "type": 0,
+                    "url": "/global/catalog/rdr2/7796bd2e/f793cfc6d2426e7f136657d5b9c740d981d6aa3b.png",
+                    "altText": ""
+                },
+                {
+                    "type": 1,
+                    "url": "/global/catalog/rdr2/7796bd2e/731d5ebfb164fc33c0c0d7fa471bd37e30477924.png",
+                    "altText": ""
+                },
+                {
+                    "type": 2,
+                    "url": "/global/catalog/rdr2/7796bd2e/01758a201552c40fb20cf63ba96c1727161fbdb6.jpg",
+                    "altText": ""
+                }
+            ],
+            "priorityAccessCosts": [],
+            "priorityAccessHash": 0,
+            "requirements": [
+                {
+                    "type": 1412799554,
+                    "value": "1950175060"
+                }
+            ],
+            "slots": [
+                {
+                    "hash": -673000374,
+                    "quantity": 100
+                },
+                {
+                    "hash": -430578371,
+                    "quantity": 50
+                },
+                {
+                    "hash": -730381952,
+                    "quantity": 50
+                }
+            ],
+            "tags": [
+                -1452184346
+            ],
+            "webDescription1": "Hollow point. The stopping power of these cartridges may be the very thing that keeps your good name unsullied among those who would dare make accusations. Each box contains 30 cartridges.",
+            "webDescription2": "",
+            "webHeadline1": "",
+            "webHeadline2": "",
+            "id": "5aee67c7",
+            "variations": []
+        },
+        {
+            "brand": "3c10ceb8",
+            "categories": [
+                "85306e52/790e1eee"
+            ],
+            "clothingVariations": [],
+            "costDefault": {
+                "currencyHash": 2084597891,
+                "nameHash": -915411861,
+                "isFromPrice": false,
+                "price": 125,
+                "quantity": 1,
+                "unlockEnums": [],
+                "unlockIds": []
+            },
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 125,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ],
+            "costOther": [],
+            "description": "White's Cover Scent Lotion is a great way to keep your scent under control for hours, allowing you to hunt without alerting any deer of your presence.",
+            "englishName": "Cover Scent Lotion",
+            "effects": [],
+            "enumHash": 1895068170,
+            "expiryStatus": "notExpired",
+            "name": "Cover Scent Lotion",
+            "gameMode": "sp",
+            "group": "CONSUMABLE",
+            "horseVariations": [],
+            "images": [
+                {
+                    "type": 0,
+                    "url": "/global/catalog/rdr2/03945f45/78319da65eebddda813d56aeb89a43b211c1fa3f.png",
+                    "altText": ""
+                },
+                {
+                    "type": 1,
+                    "url": "/global/catalog/rdr2/03945f45/a39362a0fb28d5c3c72bc51979b4c30cb4ef3585.png",
+                    "altText": ""
+                },
+                {
+                    "type": 2,
+                    "url": "/global/catalog/rdr2/03945f45/f076393ba6eb776a7187328d62c55c42a06c76c0.jpg",
+                    "altText": ""
+                }
+            ],
+            "priorityAccessCosts": [],
+            "priorityAccessHash": 0,
+            "requirements": [],
+            "slots": [
+                {
+                    "hash": -673000374,
+                    "quantity": 0
+                },
+                {
+                    "hash": 1084182731,
+                    "quantity": 3
+                },
+                {
+                    "hash": -1622147240,
+                    "quantity": 2
+                },
+                {
+                    "hash": 74547781,
+                    "quantity": 94
+                }
+            ],
+            "tags": [
+                1174751405,
+                -928967997,
+                2114586064,
+                1147021565,
+                1479835297,
+                127710288,
+                -651046900,
+                -1359903382
+            ],
+            "webDescription1": "White's Cover Scent Lotion is a great way to keep your scent under control for hours, allowing you to hunt without alerting any deer of your presence.",
+            "webDescription2": "",
+            "webHeadline1": "",
+            "webHeadline2": "",
+            "id": "05c03a88",
+            "variations": []
+        },
+        {
+            "brand": "f2b928ee",
+            "categories": [
+                "85306e52/86c0cfea/940309a0"
+            ],
+            "clothingVariations": [],
+            "costDefault": {
+                "currencyHash": 2084597891,
+                "nameHash": -915411861,
+                "isFromPrice": false,
+                "price": 100,
+                "quantity": 18,
+                "unlockEnums": [],
+                "unlockIds": []
+            },
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 100,
+                    "quantity": 18,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ],
+            "costOther": [],
+            "description": "The traditional reliable choice. For those encountering the pusillanimous lot out there that would take a man’s horse, these are sure to put a finale on their little caper, guaranteed. Each box contains 18 shells.",
+            "englishName": "Shotgun Shells - Regular",
+            "effects": [],
+            "enumHash": -1878508229,
+            "expiryStatus": "notExpired",
+            "name": "Shotgun Shells - Regular",
+            "gameMode": "sp",
+            "group": "AMMO",
+            "horseVariations": [],
+            "images": [
+                {
+                    "type": 0,
+                    "url": "/global/catalog/rdr2/61e988af/d66d884d06d401b39c2d72285535a27a1e36a0f3.png",
+                    "altText": ""
+                },
+                {
+                    "type": 1,
+                    "url": "/global/catalog/rdr2/61e988af/a062849f15ece2277ca96670febab01bcae39c28.png",
+                    "altText": ""
+                },
+                {
+                    "type": 2,
+                    "url": "/global/catalog/rdr2/61e988af/66f0468b6d382954531ab625e751c30b583062e1.jpg",
+                    "altText": ""
+                }
+            ],
+            "priorityAccessCosts": [],
+            "priorityAccessHash": 0,
+            "requirements": [
+                {
+                    "type": 1412799554,
+                    "value": "2416459067"
+                }
+            ],
+            "slots": [
+                {
+                    "hash": -673000374,
+                    "quantity": 60
+                },
+                {
+                    "hash": 1704602624,
+                    "quantity": 30
+                },
+                {
+                    "hash": 1214181762,
+                    "quantity": 30
+                }
+            ],
+            "tags": [
+                -1452184346
+            ],
+            "webDescription1": "The traditional reliable choice. For those encountering the pusillanimous lot out there that would take a man’s horse, these are sure to put a finale on their little caper, guaranteed. Each box contains 18 shells.",
+            "webDescription2": "",
+            "webHeadline1": "",
+            "webHeadline2": "",
+            "id": "8bf5f8c8",
+            "variations": []
+        },
+        {
+            "brand": "b89bcaf9",
+            "categories": [
+                "85306e52/86c0cfea/16d8104e"
+            ],
+            "clothingVariations": [],
+            "costDefault": {
+                "currencyHash": 2084597891,
+                "nameHash": -915411861,
+                "isFromPrice": false,
+                "price": 100,
+                "quantity": 60,
+                "unlockEnums": [],
+                "unlockIds": []
+            },
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 100,
+                    "quantity": 60,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ],
+            "costOther": [],
+            "description": "Performance. Reliability. Accuracy. These cartridges have the required effect intended and will cause interlopers to have certain changes in their behaviour. Each box contains 60 cartridges.",
+            "englishName": "Revolver Cartridges - Regular",
+            "effects": [],
+            "enumHash": 1681219929,
+            "expiryStatus": "notExpired",
+            "name": "Revolver Cartridges - Regular",
+            "gameMode": "sp",
+            "group": "AMMO",
+            "horseVariations": [],
+            "images": [
+                {
+                    "type": 0,
+                    "url": "/global/catalog/rdr2/e0e6ad75/ee7ebfb8d5883eedb4264d0970db72b9c21e5161.png",
+                    "altText": ""
+                },
+                {
+                    "type": 1,
+                    "url": "/global/catalog/rdr2/e0e6ad75/38824c409c47fdb04f68831d2a9ee5c9c5aaad4f.png",
+                    "altText": ""
+                },
+                {
+                    "type": 2,
+                    "url": "/global/catalog/rdr2/e0e6ad75/09538a86949952beec07c32549be0d335bd3fab1.jpg",
+                    "altText": ""
+                }
+            ],
+            "priorityAccessCosts": [],
+            "priorityAccessHash": 0,
+            "requirements": [
+                {
+                    "type": 1412799554,
+                    "value": "1681219929"
+                }
+            ],
+            "slots": [
+                {
+                    "hash": -673000374,
+                    "quantity": 200
+                },
+                {
+                    "hash": -430578371,
+                    "quantity": 100
+                },
+                {
+                    "hash": -730381952,
+                    "quantity": 100
+                }
+            ],
+            "tags": [
+                -1452184346
+            ],
+            "webDescription1": "Performance. Reliability. Accuracy. These cartridges have the required effect intended and will cause interlopers to have certain changes in their behaviour. Each box contains 60 cartridges.",
+            "webDescription2": "",
+            "webHeadline1": "",
+            "webHeadline2": "",
+            "id": "e6dd8488",
+            "variations": []
+        },
+        {
+            "brand": "b89bcaf9",
+            "categories": [
+                "85306e52/86c0cfea/dbcabe5b"
+            ],
+            "clothingVariations": [],
+            "costDefault": {
+                "currencyHash": 2084597891,
+                "nameHash": -915411861,
+                "isFromPrice": false,
+                "price": 100,
+                "quantity": 30,
+                "unlockEnums": [],
+                "unlockIds": []
+            },
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 100,
+                    "quantity": 30,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ],
+            "costOther": [],
+            "description": "The dependable choice. The reason that life is, to so many, a dismal failure is because they do not have the prudence and forethought to order a great many boxes of these cartridges. Each box contains 30 cartridges.",
+            "englishName": "Pistol Cartridges - Regular",
+            "effects": [],
+            "enumHash": 1950175060,
+            "expiryStatus": "notExpired",
+            "name": "Pistol Cartridges - Regular",
+            "gameMode": "sp",
+            "group": "AMMO",
+            "horseVariations": [],
+            "images": [
+                {
+                    "type": 0,
+                    "url": "/global/catalog/rdr2/302e2c2c/e0dae3680cbf5ad799fc275f6147a2e88ea16655.png",
+                    "altText": ""
+                },
+                {
+                    "type": 1,
+                    "url": "/global/catalog/rdr2/302e2c2c/3876299e20ce4ed3e76de7fb12ca2f68c40d75a7.png",
+                    "altText": ""
+                },
+                {
+                    "type": 2,
+                    "url": "/global/catalog/rdr2/302e2c2c/bcfdf2858c4e3aed120871c43c13bd4901ae7852.jpg",
+                    "altText": ""
+                }
+            ],
+            "priorityAccessCosts": [],
+            "priorityAccessHash": 0,
+            "requirements": [
+                {
+                    "type": 1412799554,
+                    "value": "1950175060"
+                }
+            ],
+            "slots": [
+                {
+                    "hash": -673000374,
+                    "quantity": 100
+                },
+                {
+                    "hash": -430578371,
+                    "quantity": 50
+                },
+                {
+                    "hash": -730381952,
+                    "quantity": 50
+                }
+            ],
+            "tags": [
+                -1452184346
+            ],
+            "webDescription1": "The dependable choice. The reason that life is, to so many, a dismal failure is because they do not have the prudence and forethought to order a great many boxes of these cartridges. Each box contains 30 cartridges.",
+            "webDescription2": "",
+            "webHeadline1": "",
+            "webHeadline2": "",
+            "id": "ef7f3dc8",
+            "variations": []
+        },
+        {
+            "brand": "ddf0695d",
+            "categories": [
+                "85306e52/86c0cfea/2d2e83cf"
+            ],
+            "clothingVariations": [],
+            "costDefault": {
+                "currencyHash": 2084597891,
+                "nameHash": -915411861,
+                "isFromPrice": false,
+                "price": 100,
+                "quantity": 60,
+                "unlockEnums": [],
+                "unlockIds": []
+            },
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 100,
+                    "quantity": 60,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ],
+            "costOther": [],
+            "description": "Lancaster Rifle .22 Caliber Varmint Cartridges designed for hunting small game with sure fire performance and accuracy. Each box contains 60 cartridges.",
+            "englishName": "Rifle Cartridges - Varmint",
+            "effects": [],
+            "enumHash": 2113196069,
+            "expiryStatus": "notExpired",
+            "name": "Rifle Cartridges - Varmint",
+            "gameMode": "sp",
+            "group": "AMMO",
+            "horseVariations": [],
+            "images": [
+                {
+                    "type": 0,
+                    "url": "/global/catalog/rdr2/3067c16f/9ff53011098d18e95c520e62be8d5c307d36cd33.png",
+                    "altText": ""
+                },
+                {
+                    "type": 1,
+                    "url": "/global/catalog/rdr2/3067c16f/ca2ec0528569ecf9c145eb857cf76c086644f6d5.png",
+                    "altText": ""
+                },
+                {
+                    "type": 2,
+                    "url": "/global/catalog/rdr2/3067c16f/f5670640d0f64bcfd236f3fa25ff89e4ff56f95f.jpg",
+                    "altText": ""
+                }
+            ],
+            "priorityAccessCosts": [],
+            "priorityAccessHash": 0,
+            "requirements": [
+                {
+                    "type": 1412799554,
+                    "value": "2113196069"
+                }
+            ],
+            "slots": [
+                {
+                    "hash": -673000374,
+                    "quantity": 100
+                }
+            ],
+            "tags": [
+                -1452184346
+            ],
+            "webDescription1": "Lancaster Rifle .22 Caliber Varmint Cartridges designed for hunting small game with sure fire performance and accuracy. Each box contains 60 cartridges.",
+            "webDescription2": "",
+            "webHeadline1": "",
+            "webHeadline2": "",
+            "id": "79ccf525",
+            "variations": []
+        },
+        {
+            "brand": "e28b46eb",
+            "categories": [
+                "85306e52/790e1eee"
+            ],
+            "clothingVariations": [],
+            "costDefault": {
+                "currencyHash": 2084597891,
+                "nameHash": -915411861,
+                "isFromPrice": false,
+                "price": 50,
+                "quantity": 5,
+                "unlockEnums": [],
+                "unlockIds": []
+            },
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 50,
+                    "quantity": 5,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ],
+            "costOther": [],
+            "description": "A tin full of live crickets. Excellent for attracting medium-sized river fish, especially smallmouth bass. One tin contains five crickets.",
+            "englishName": "Live Crickets",
+            "effects": [],
+            "enumHash": -1073808995,
+            "expiryStatus": "notExpired",
+            "name": "Live Crickets",
+            "gameMode": "sp",
+            "group": "UPGRADE",
+            "horseVariations": [],
+            "images": [
+                {
+                    "type": 0,
+                    "url": "/global/catalog/rdr2/1542ca33/9fbfb817c276afe89ee464debcd388a7d15b538f.png",
+                    "altText": ""
+                },
+                {
+                    "type": 1,
+                    "url": "/global/catalog/rdr2/1542ca33/811dbe7f1c23a5f27cb3dd6edbdba2e935a1e0a8.png",
+                    "altText": ""
+                },
+                {
+                    "type": 2,
+                    "url": "/global/catalog/rdr2/1542ca33/f3ba8456e46c267af0691e791ad2c9b233fd958b.jpg",
+                    "altText": ""
+                }
+            ],
+            "priorityAccessCosts": [],
+            "priorityAccessHash": 0,
+            "requirements": [
+                {
+                    "type": -761364604,
+                    "value": "398954880"
+                }
+            ],
+            "slots": [
+                {
+                    "hash": -673000374,
+                    "quantity": 0
+                },
+                {
+                    "hash": 1084182731,
+                    "quantity": 5
+                },
+                {
+                    "hash": -1622147240,
+                    "quantity": 5
+                },
+                {
+                    "hash": 74547781,
+                    "quantity": 89
+                }
+            ],
+            "tags": [
+                -928967997,
+                -651046900,
+                210646929,
+                -1359903382
+            ],
+            "webDescription1": "A tin full of live crickets. Excellent for attracting medium-sized river fish, especially smallmouth bass. One tin contains five crickets.",
+            "webDescription2": "",
+            "webHeadline1": "",
+            "webHeadline2": "",
+            "id": "70a2bcd8",
+            "variations": []
+        },
+        {
+            "brand": "e28b46eb",
+            "categories": [
+                "85306e52/790e1eee"
+            ],
+            "clothingVariations": [],
+            "costDefault": {
+                "currencyHash": 2084597891,
+                "nameHash": -915411861,
+                "isFromPrice": false,
+                "price": 50,
+                "quantity": 1,
+                "unlockEnums": [],
+                "unlockIds": []
+            },
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 50,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ],
+            "costOther": [],
+            "description": "A tin full of live worms. Excellent for attracting medium-sized lake fish, especially steelhead trout. One tin contains five worms.",
+            "englishName": "Live Worms",
+            "effects": [],
+            "enumHash": 1903483453,
+            "expiryStatus": "notExpired",
+            "name": "Live Worms",
+            "gameMode": "sp",
+            "group": "UPGRADE",
+            "horseVariations": [],
+            "images": [
+                {
+                    "type": 0,
+                    "url": "/global/catalog/rdr2/e65a0439/2a06452c72d6fdee8052b51841d8960f3e8c564e.png",
+                    "altText": ""
+                },
+                {
+                    "type": 1,
+                    "url": "/global/catalog/rdr2/e65a0439/c4553ca0823de622c8825db849e98ce050a15f7d.png",
+                    "altText": ""
+                },
+                {
+                    "type": 2,
+                    "url": "/global/catalog/rdr2/e65a0439/c6304e812fd127269534b49c89518e0713fd1002.jpg",
+                    "altText": ""
+                }
+            ],
+            "priorityAccessCosts": [],
+            "priorityAccessHash": 0,
+            "requirements": [
+                {
+                    "type": -761364604,
+                    "value": "829778142"
+                }
+            ],
+            "slots": [
+                {
+                    "hash": -673000374,
+                    "quantity": 0
+                },
+                {
+                    "hash": 1084182731,
+                    "quantity": 5
+                },
+                {
+                    "hash": -1622147240,
+                    "quantity": 5
+                },
+                {
+                    "hash": 74547781,
+                    "quantity": 89
+                }
+            ],
+            "tags": [
+                -928967997,
+                -651046900
+            ],
+            "webDescription1": "A tin full of live worms. Excellent for attracting medium-sized lake fish, especially steelhead trout. One tin contains five worms.",
+            "webDescription2": "",
+            "webHeadline1": "",
+            "webHeadline2": "",
+            "id": "df51cc50",
+            "variations": []
+        },
+        {
+            "brand": "e28b46eb",
+            "categories": [
+                "85306e52/86c0cfea/629d1323"
+            ],
+            "clothingVariations": [],
+            "costDefault": {
+                "currencyHash": 2084597891,
+                "nameHash": -915411861,
+                "isFromPrice": false,
+                "price": 50,
+                "quantity": 5,
+                "unlockEnums": [],
+                "unlockIds": []
+            },
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 50,
+                    "quantity": 5,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ],
+            "costOther": [],
+            "description": "Wheeler, Rawson & Co. handmade arrows of the finest quality wood, flint and fletching. Serious speed, accuracy and true flight at long range. Each batch holds 5 arrows.",
+            "englishName": "Handmade Arrows",
+            "effects": [],
+            "enumHash": 954660191,
+            "expiryStatus": "notExpired",
+            "name": "Handmade Arrows",
+            "gameMode": "sp",
+            "group": "AMMO",
+            "horseVariations": [],
+            "images": [
+                {
+                    "type": 0,
+                    "url": "/global/catalog/rdr2/0ae0a64e/f8509ed78319fd823e3e2dd0fd77d4b2bdd03aa2.png",
+                    "altText": ""
+                },
+                {
+                    "type": 1,
+                    "url": "/global/catalog/rdr2/0ae0a64e/73fa2c0deaa5504cb395d69baf3d2cea161f5ca8.png",
+                    "altText": ""
+                },
+                {
+                    "type": 2,
+                    "url": "/global/catalog/rdr2/0ae0a64e/fc0333855795a3e958cb023baf60fcc77795614c.jpg",
+                    "altText": ""
+                }
+            ],
+            "priorityAccessCosts": [],
+            "priorityAccessHash": 0,
+            "requirements": [
+                {
+                    "type": 1412799554,
+                    "value": "2292731996"
+                }
+            ],
+            "slots": [
+                {
+                    "hash": -673000374,
+                    "quantity": 40
+                }
+            ],
+            "tags": [
+                -1452184346
+            ],
+            "webDescription1": "Wheeler, Rawson & Co. handmade arrows of the finest quality wood, flint and fletching. Serious speed, accuracy and true flight at long range. Each batch holds 5 arrows.",
+            "webDescription2": "",
+            "webHeadline1": "",
+            "webHeadline2": "",
+            "id": "7c32645c",
+            "variations": []
+        }
+    ],
+    "aggs": {
+        "maxPrice": 0,
+        "minPrice": 0,
+        "maxGoldPrice": 0,
+        "minGoldPrice": 0,
+        "maxTokenPrice": 0,
+        "minTokenPrice": 0,
+        "minUnlockRanks": {},
+        "catCounts": [
+            {
+                "name": "85306e52",
+                "count": 47
+            }
+        ],
+        "brandCounts": []
+    },
+    "status": true
+}
