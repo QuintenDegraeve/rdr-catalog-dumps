@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "arg": "^5.0.0",
     "await-to-js": "^3.0.0",
     "glob": "^7.1.7"
   },
@@ -15,7 +16,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "tsc && node dist/scraper.js",
-    "parse": "tsc && node dist/scraper.js > ./scraping/categories-enum-hash-to-2s-hex.json"
+    "parse:stripped": "tsc && node dist/scraper.js --stripped > ./scraping/categories-enum-hash-to-2s-hex-stripped.json",
+    "parse:full": "tsc && node dist/scraper.js --full > ./scraping/categories-enum-hash-to-2s-hex-full.json"
   },
   "repository": {
     "type": "git",

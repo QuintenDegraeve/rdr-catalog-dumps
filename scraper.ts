@@ -1,8 +1,16 @@
 import fs, { PathLike } from 'fs';
 
 import glob from 'glob';
+import arg from 'arg';
 import to from 'await-to-js';
 
+const args = arg({
+	'--stripped': Boolean,
+	'--full': Boolean,
+
+    '-s': '--stripped',
+	'-f': '--full',
+});
 
 const options = {};
 
@@ -45,9 +53,19 @@ glob('{singleplayer,multiplayer}/*.json', options, (error: Error | null, files: 
 
         const json: any = JSON.parse(data);
 
-        const result: any = {
+        const stripped: any = {
             mode: mode,
             category: category,
+            items: json.items.map((item: any) => ({
+                id: item.id,
+                name: item.englishName || item.name,
+                brand: item.brand,
+                clothingVariations: item.clothingVariations.map((variant: any) => ({ twHex: toTwosComplementHex(variant.enumHash), enumHash: variant.enumHash })),
+            }))
+        };
+
+        const full: any = {
+            ...stripped,
             count: {
                 store: json.total,
                 items: (json.items) ? json.items.length : -1
@@ -65,18 +83,7 @@ glob('{singleplayer,multiplayer}/*.json', options, (error: Error | null, files: 
             }))
         };
 
-        const stripped: any = {
-            mode: mode,
-            category: category,
-            items: json.items.map((item: any) => ({
-                id: item.id,
-                name: item.englishName || item.name,
-                brand: item.brand,
-                clothingVariations: item.clothingVariations.map((variant: any) => ({ twHex: toTwosComplementHex(variant.enumHash), enumHash: variant.enumHash })),
-            }))
-        };
-
-        return stripped;
+        return (args['--stripped']) ? stripped : full;
     });
 
     (async () => {
