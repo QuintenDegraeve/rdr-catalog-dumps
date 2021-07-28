@@ -5,11 +5,11 @@ import arg from 'arg';
 import to from 'await-to-js';
 
 const args = arg({
-	'--stripped': Boolean,
-	'--full': Boolean,
+    '--stripped': Boolean,
+    '--full': Boolean,
 
     '-s': '--stripped',
-	'-f': '--full',
+    '-f': '--full',
 });
 
 const options = {};
