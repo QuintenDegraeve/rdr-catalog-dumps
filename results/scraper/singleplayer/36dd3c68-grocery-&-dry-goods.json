@@ -1,0 +1,4031 @@
+{
+    "total": 36,
+    "items": [
+        {
+            "brand": "9e810871",
+            "categories": [
+                "c8c1fe88/8df7ebf8",
+                "36dd3c68/dd9ca5bc"
+            ],
+            "clothingVariations": [],
+            "costDefault": {
+                "currencyHash": 2084597891,
+                "nameHash": -915411861,
+                "isFromPrice": false,
+                "price": 600,
+                "quantity": 4,
+                "unlockEnums": [],
+                "unlockIds": []
+            },
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 600,
+                    "quantity": 4,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ],
+            "costOther": [],
+            "description": "Jolly Jack’s Chewing Tobacco – Cut plug. Taste it! Chew it! Spit! A gentlemanly pleasure that lasts till the cows come home. One pack contains four plugs of tobacco.",
+            "englishName": "Chewing Tobacco",
+            "effects": [
+                {
+                    "hash": 1857353317,
+                    "value": -1
+                },
+                {
+                    "duration": 1,
+                    "hash": 1342237631,
+                    "value": 0
+                }
+            ],
+            "enumHash": -324053813,
+            "expiryStatus": "notExpired",
+            "name": "Chewing Tobacco",
+            "gameMode": "sp",
+            "group": "CONSUMABLE",
+            "horseVariations": [],
+            "images": [
+                {
+                    "type": 0,
+                    "url": "/global/catalog/rdr2/cf288782/c102a9d4d12aca55ea71c5f02a40529d1e23c11d.png",
+                    "altText": ""
+                },
+                {
+                    "type": 1,
+                    "url": "/global/catalog/rdr2/cf288782/b83651694f6ca9fae4fae16ad6c10a69910189ed.png",
+                    "altText": ""
+                },
+                {
+                    "type": 2,
+                    "url": "/global/catalog/rdr2/cf288782/821703437d7ee1077240ceaf9c1cbc5044ad7d87.jpg",
+                    "altText": ""
+                }
+            ],
+            "priorityAccessCosts": [],
+            "priorityAccessHash": 0,
+            "requirements": [],
+            "slots": [
+                {
+                    "hash": 1426626782,
+                    "quantity": -1
+                },
+                {
+                    "hash": -1360128126,
+                    "quantity": -1
+                },
+                {
+                    "hash": -673000374,
+                    "quantity": 0
+                },
+                {
+                    "hash": 1084182731,
+                    "quantity": 10
+                },
+                {
+                    "hash": 316207340,
+                    "quantity": 5
+                },
+                {
+                    "hash": 74547781,
+                    "quantity": 84
+                }
+            ],
+            "tags": [
+                1009210113,
+                1147021565,
+                -305066475,
+                58855631,
+                -458578204,
+                1765172170,
+                887366763,
+                -906398725,
+                89124942
+            ],
+            "webDescription1": "Jolly Jack’s Chewing Tobacco – Cut plug. Taste it! Chew it! Spit! A gentlemanly pleasure that lasts till the cows come home. One pack contains four plugs of tobacco.",
+            "webDescription2": "",
+            "webHeadline1": "",
+            "webHeadline2": "",
+            "id": "e254b4de",
+            "variations": []
+        },
+        {
+            "brand": "732bc906",
+            "categories": [
+                "36dd3c68/ccd1e17b"
+            ],
+            "clothingVariations": [],
+            "costDefault": {
+                "currencyHash": 2084597891,
+                "nameHash": -915411861,
+                "isFromPrice": false,
+                "price": 550,
+                "quantity": 1,
+                "unlockEnums": [],
+                "unlockIds": []
+            },
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 550,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ],
+            "costOther": [],
+            "description": "Local tender pork from the best butcher in town.",
+            "englishName": "Tender Pork Loin",
+            "effects": [],
+            "enumHash": -1934113451,
+            "expiryStatus": "notExpired",
+            "name": "Tender Pork Loin",
+            "gameMode": "sp",
+            "group": "PROVISION",
+            "horseVariations": [],
+            "images": [
+                {
+                    "type": 0,
+                    "url": "/global/catalog/rdr2/66232d5e/5197be2aca522528febc19202290fc3ffc004d52.png",
+                    "altText": ""
+                },
+                {
+                    "type": 1,
+                    "url": "/global/catalog/rdr2/66232d5e/c1180c13951b68482335652e0eee9fc543834167.png",
+                    "altText": ""
+                },
+                {
+                    "type": 2,
+                    "url": "/global/catalog/rdr2/66232d5e/04922623c5771808274e2822f9d988b162e0e10d.jpg",
+                    "altText": ""
+                }
+            ],
+            "priorityAccessCosts": [],
+            "priorityAccessHash": 0,
+            "requirements": [],
+            "slots": [
+                {
+                    "hash": 1426626782,
+                    "quantity": -1
+                },
+                {
+                    "hash": -673000374,
+                    "quantity": 0
+                },
+                {
+                    "hash": 1084182731,
+                    "quantity": 5
+                },
+                {
+                    "hash": -708312114,
+                    "quantity": 5
+                },
+                {
+                    "hash": 74547781,
+                    "quantity": 89
+                }
+            ],
+            "tags": [
+                1360707454,
+                -593039830,
+                1149630095,
+                -2051813666,
+                -1697809989,
+                -887064662,
+                -749879895
+            ],
+            "webDescription1": "Local tender pork from the best butcher in town.",
+            "webDescription2": "",
+            "webHeadline1": "",
+            "webHeadline2": "",
+            "id": "8a2e1df5",
+            "variations": []
+        },
+        {
+            "brand": "732bc906",
+            "categories": [
+                "36dd3c68/ccd1e17b"
+            ],
+            "clothingVariations": [],
+            "costDefault": {
+                "currencyHash": 2084597891,
+                "nameHash": -915411861,
+                "isFromPrice": false,
+                "price": 550,
+                "quantity": 1,
+                "unlockEnums": [],
+                "unlockIds": []
+            },
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 550,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ],
+            "costOther": [],
+            "description": "Local venison meat from the best butcher in town.",
+            "englishName": "Mature Venison Meat",
+            "effects": [],
+            "enumHash": 1471975165,
+            "expiryStatus": "notExpired",
+            "name": "Mature Venison Meat",
+            "gameMode": "sp",
+            "group": "PROVISION",
+            "horseVariations": [],
+            "images": [
+                {
+                    "type": 0,
+                    "url": "/global/catalog/rdr2/53df5e29/f631121a907c3b68ea96eb656130277541ae98ec.png",
+                    "altText": ""
+                },
+                {
+                    "type": 1,
+                    "url": "/global/catalog/rdr2/53df5e29/3b14eadf9ca126abdc072245a62c2d89e9522483.png",
+                    "altText": ""
+                },
+                {
+                    "type": 2,
+                    "url": "/global/catalog/rdr2/53df5e29/8333c4903c2e548860b176b667e49a6214703bfe.jpg",
+                    "altText": ""
+                }
+            ],
+            "priorityAccessCosts": [],
+            "priorityAccessHash": 0,
+            "requirements": [],
+            "slots": [
+                {
+                    "hash": 1426626782,
+                    "quantity": -1
+                },
+                {
+                    "hash": -673000374,
+                    "quantity": 0
+                },
+                {
+                    "hash": 1084182731,
+                    "quantity": 5
+                },
+                {
+                    "hash": -708312114,
+                    "quantity": 5
+                },
+                {
+                    "hash": 74547781,
+                    "quantity": 89
+                }
+            ],
+            "tags": [
+                1360707454,
+                1504734241,
+                1149630095,
+                -2051813666,
+                -1697809989,
+                -887064662,
+                -1934986702,
+                78171784
+            ],
+            "webDescription1": "Local venison meat from the best butcher in town.",
+            "webDescription2": "",
+            "webHeadline1": "",
+            "webHeadline2": "",
+            "id": "bebd4317",
+            "variations": []
+        },
+        {
+            "brand": "732bc906",
+            "categories": [
+                "36dd3c68/ccd1e17b"
+            ],
+            "clothingVariations": [],
+            "costDefault": {
+                "currencyHash": 2084597891,
+                "nameHash": -915411861,
+                "isFromPrice": false,
+                "price": 550,
+                "quantity": 1,
+                "unlockEnums": [],
+                "unlockIds": []
+            },
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 550,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ],
+            "costOther": [],
+            "description": "Local prime beef from the best butcher in town.",
+            "englishName": "Prime Beef Joint",
+            "effects": [],
+            "enumHash": 1764698682,
+            "expiryStatus": "notExpired",
+            "name": "Prime Beef Joint",
+            "gameMode": "sp",
+            "group": "PROVISION",
+            "horseVariations": [],
+            "images": [
+                {
+                    "type": 0,
+                    "url": "/global/catalog/rdr2/6057c5ad/3ecb91ab05f689d3595b58d8d0905cd119e4cd95.png",
+                    "altText": ""
+                },
+                {
+                    "type": 1,
+                    "url": "/global/catalog/rdr2/6057c5ad/71c64429a99773f6ef25d0f623a8421c26f82809.png",
+                    "altText": ""
+                },
+                {
+                    "type": 2,
+                    "url": "/global/catalog/rdr2/6057c5ad/84ee109e2f5dc5c24bc8b3a7c027005a66803230.jpg",
+                    "altText": ""
+                }
+            ],
+            "priorityAccessCosts": [],
+            "priorityAccessHash": 0,
+            "requirements": [],
+            "slots": [
+                {
+                    "hash": 1426626782,
+                    "quantity": -1
+                },
+                {
+                    "hash": -673000374,
+                    "quantity": 0
+                },
+                {
+                    "hash": 1084182731,
+                    "quantity": 5
+                },
+                {
+                    "hash": -708312114,
+                    "quantity": 5
+                },
+                {
+                    "hash": 74547781,
+                    "quantity": 89
+                }
+            ],
+            "tags": [
+                1360707454,
+                1129965107,
+                1149630095,
+                -2051813666,
+                -1697809989,
+                -887064662,
+                1344951072
+            ],
+            "webDescription1": "Local prime beef from the best butcher in town.",
+            "webDescription2": "",
+            "webHeadline1": "",
+            "webHeadline2": "",
+            "id": "cb1c0d29",
+            "variations": []
+        },
+        {
+            "brand": "e3750b47",
+            "categories": [
+                "36dd3c68/dd9ca5bc"
+            ],
+            "clothingVariations": [],
+            "costDefault": {
+                "currencyHash": 2084597891,
+                "nameHash": -915411861,
+                "isFromPrice": false,
+                "price": 500,
+                "quantity": 10,
+                "unlockEnums": [],
+                "unlockIds": []
+            },
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 500,
+                    "quantity": 10,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ],
+            "costOther": [],
+            "description": "Millicents’ Cigarettes are the smoother, healthier smoke enjoyed by the whole family. Includes a collectable cigarette card, a favorite amongst young children. Collect them all. One box contains ten cigarettes.",
+            "englishName": "Premium Cigarettes",
+            "effects": [
+                {
+                    "hash": 1857353317,
+                    "value": 1
+                },
+                {
+                    "hash": 1681823811,
+                    "value": -1
+                }
+            ],
+            "enumHash": -885810591,
+            "expiryStatus": "notExpired",
+            "name": "Premium Cigarettes",
+            "gameMode": "sp",
+            "group": "CONSUMABLE",
+            "horseVariations": [],
+            "images": [
+                {
+                    "type": 0,
+                    "url": "/global/catalog/rdr2/360c70f5/b91896d10149651eb03fee3d69f3a6d1aa4c0893.png",
+                    "altText": ""
+                },
+                {
+                    "type": 1,
+                    "url": "/global/catalog/rdr2/360c70f5/83532db55d527b55e92e66266c2f56f2bbfaa506.png",
+                    "altText": ""
+                },
+                {
+                    "type": 2,
+                    "url": "/global/catalog/rdr2/360c70f5/2bdc07dd3aad5e1c69f549cfa705c45e9785660a.jpg",
+                    "altText": ""
+                }
+            ],
+            "priorityAccessCosts": [],
+            "priorityAccessHash": 0,
+            "requirements": [],
+            "slots": [
+                {
+                    "hash": 1426626782,
+                    "quantity": -1
+                },
+                {
+                    "hash": -1360128126,
+                    "quantity": -1
+                },
+                {
+                    "hash": -673000374,
+                    "quantity": 0
+                },
+                {
+                    "hash": 1084182731,
+                    "quantity": 20
+                },
+                {
+                    "hash": -1098528034,
+                    "quantity": 10
+                },
+                {
+                    "hash": 74547781,
+                    "quantity": 69
+                }
+            ],
+            "tags": [
+                -193035453,
+                1147021565,
+                58855631,
+                -1934986702,
+                -1457797660,
+                1765172170,
+                1443104131
+            ],
+            "webDescription1": "Millicents’ Cigarettes are the smoother, healthier smoke enjoyed by the whole family. Includes a collectable cigarette card, a favorite amongst young children. Collect them all. One box contains ten cigarettes.",
+            "webDescription2": "",
+            "webHeadline1": "",
+            "webHeadline2": "",
+            "id": "5f03c8b7",
+            "variations": []
+        },
+        {
+            "brand": "6de24710",
+            "categories": [
+                "36dd3c68/ce7e2dec"
+            ],
+            "clothingVariations": [],
+            "costDefault": {
+                "currencyHash": 2084597891,
+                "nameHash": -915411861,
+                "isFromPrice": false,
+                "price": 400,
+                "quantity": 4,
+                "unlockEnums": [],
+                "unlockIds": []
+            },
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 400,
+                    "quantity": 4,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ],
+            "costOther": [],
+            "description": "Aunt Esther’s Classic Oatcakes are prepared with wholegrain oats which are naturally delicious for you and your horse, should you be inclined to share. One box contains four oatcakes.",
+            "englishName": "Classic Oatcakes",
+            "effects": [
+                {
+                    "hash": -816334026,
+                    "value": 3
+                },
+                {
+                    "hash": 1194731729,
+                    "value": 5
+                },
+                {
+                    "hash": -1918697215,
+                    "value": 5
+                },
+                {
+                    "hash": 855745648,
+                    "value": 5
+                },
+                {
+                    "hash": -416929031,
+                    "value": 2
+                },
+                {
+                    "hash": 1857353317,
+                    "value": 1
+                }
+            ],
+            "enumHash": -1921080134,
+            "expiryStatus": "notExpired",
+            "name": "Classic Oatcakes",
+            "gameMode": "sp",
+            "group": "CONSUMABLE",
+            "horseVariations": [],
+            "images": [
+                {
+                    "type": 0,
+                    "url": "/global/catalog/rdr2/0bf34871/99e078a828c51e3b7c43d70d8867351142b48f64.png",
+                    "altText": ""
+                },
+                {
+                    "type": 1,
+                    "url": "/global/catalog/rdr2/0bf34871/8f58a9cac92ac8b6e302f35e17c4cb07d51bae34.png",
+                    "altText": ""
+                },
+                {
+                    "type": 2,
+                    "url": "/global/catalog/rdr2/0bf34871/d9259f49251fe45fdea57150c0b811cac5030b6b.jpg",
+                    "altText": ""
+                }
+            ],
+            "priorityAccessCosts": [],
+            "priorityAccessHash": 0,
+            "requirements": [],
+            "slots": [
+                {
+                    "hash": 1426626782,
+                    "quantity": -1
+                },
+                {
+                    "hash": -1360128126,
+                    "quantity": -1
+                },
+                {
+                    "hash": -673000374,
+                    "quantity": 0
+                },
+                {
+                    "hash": 1084182731,
+                    "quantity": 10
+                },
+                {
+                    "hash": -1098528034,
+                    "quantity": 5
+                },
+                {
+                    "hash": 74547781,
+                    "quantity": 84
+                }
+            ],
+            "tags": [
+                -193035453,
+                1147021565,
+                58855631,
+                -1934986702,
+                -1457797660,
+                -1192049572,
+                89124942
+            ],
+            "webDescription1": "Aunt Esther’s Classic Oatcakes are prepared with wholegrain oats which are naturally delicious for you and your horse, should you be inclined to share. One box contains four oatcakes.",
+            "webDescription2": "",
+            "webHeadline1": "",
+            "webHeadline2": "",
+            "id": "95f41b56",
+            "variations": []
+        },
+        {
+            "brand": "ccea1a96",
+            "categories": [
+                "36dd3c68/51e06bd7"
+            ],
+            "clothingVariations": [],
+            "costDefault": {
+                "currencyHash": 2084597891,
+                "nameHash": -915411861,
+                "isFromPrice": false,
+                "price": 375,
+                "quantity": 1,
+                "unlockEnums": [],
+                "unlockIds": []
+            },
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 375,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ],
+            "costOther": [],
+            "description": "Old Blood Eyes Kentucky Bourbon is bottled and barreled by trade. The sweet, smooth whiskey that inspires nights of song and highly excited exchanges.",
+            "englishName": "Kentucky Bourbon",
+            "effects": [
+                {
+                    "hash": 1681823811,
+                    "value": 3
+                },
+                {
+                    "hash": 1857353317,
+                    "value": 5
+                },
+                {
+                    "hash": -416929031,
+                    "value": -1
+                },
+                {
+                    "hash": -816334026,
+                    "value": 3
+                }
+            ],
+            "enumHash": 688258043,
+            "expiryStatus": "notExpired",
+            "name": "Kentucky Bourbon",
+            "gameMode": "sp",
+            "group": "CONSUMABLE",
+            "horseVariations": [],
+            "images": [
+                {
+                    "type": 0,
+                    "url": "/global/catalog/rdr2/35527962/8d7b3a584b48d16fcbb380b415b95d85b84611d4.png",
+                    "altText": ""
+                },
+                {
+                    "type": 1,
+                    "url": "/global/catalog/rdr2/35527962/99d8c38994a84483ec9650fec7ed8999538a4f5c.png",
+                    "altText": ""
+                },
+                {
+                    "type": 2,
+                    "url": "/global/catalog/rdr2/35527962/085c49fd0f0634e2fd7b3a5ab11d7de0b02ec0cf.jpg",
+                    "altText": ""
+                }
+            ],
+            "priorityAccessCosts": [],
+            "priorityAccessHash": 0,
+            "requirements": [],
+            "slots": [
+                {
+                    "hash": 1426626782,
+                    "quantity": -1
+                },
+                {
+                    "hash": -1360128126,
+                    "quantity": -1
+                },
+                {
+                    "hash": -673000374,
+                    "quantity": 0
+                },
+                {
+                    "hash": 1084182731,
+                    "quantity": 3
+                },
+                {
+                    "hash": -1098528034,
+                    "quantity": 2
+                },
+                {
+                    "hash": 74547781,
+                    "quantity": 94
+                }
+            ],
+            "tags": [
+                -193035453,
+                1130235258,
+                1490540191,
+                1147021565,
+                791664616,
+                -1457797660
+            ],
+            "webDescription1": "Old Blood Eyes Kentucky Bourbon is bottled and barreled by trade. The sweet, smooth whiskey that inspires nights of song and highly excited exchanges.",
+            "webDescription2": "",
+            "webHeadline1": "",
+            "webHeadline2": "",
+            "id": "95d2d44c",
+            "variations": []
+        },
+        {
+            "brand": "0c3b3e31",
+            "categories": [
+                "36dd3c68/dd9ca5bc"
+            ],
+            "clothingVariations": [],
+            "costDefault": {
+                "currencyHash": 2084597891,
+                "nameHash": -915411861,
+                "isFromPrice": false,
+                "price": 350,
+                "quantity": 10,
+                "unlockEnums": [],
+                "unlockIds": []
+            },
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 350,
+                    "quantity": 10,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ],
+            "costOther": [],
+            "description": "Red Rocket Cigarettes are perfectly mild and rich, made only from the finest tobacco. It is the reward you deserve. One box contains ten cigarettes.",
+            "englishName": "Red Rocket Cigarettes",
+            "effects": [
+                {
+                    "hash": 1857353317,
+                    "value": 1
+                },
+                {
+                    "hash": 1681823811,
+                    "value": -1
+                }
+            ],
+            "enumHash": 1463786584,
+            "expiryStatus": "notExpired",
+            "name": "Red Rocket Cigarettes",
+            "gameMode": "sp",
+            "group": "CONSUMABLE",
+            "horseVariations": [],
+            "images": [
+                {
+                    "type": 0,
+                    "url": "/global/catalog/rdr2/28feb80b/3e974fedad3201a0ef22912cffb277ca8a7ba275.png",
+                    "altText": ""
+                },
+                {
+                    "type": 1,
+                    "url": "/global/catalog/rdr2/28feb80b/ed8835e18c11a53c0f221a85532a376a248fa8a8.png",
+                    "altText": ""
+                },
+                {
+                    "type": 2,
+                    "url": "/global/catalog/rdr2/28feb80b/e82a3c5e23b6317570541681ac5e8fe006988ccf.jpg",
+                    "altText": ""
+                }
+            ],
+            "priorityAccessCosts": [],
+            "priorityAccessHash": 0,
+            "requirements": [],
+            "slots": [
+                {
+                    "hash": 1426626782,
+                    "quantity": -1
+                },
+                {
+                    "hash": -1360128126,
+                    "quantity": -1
+                },
+                {
+                    "hash": -673000374,
+                    "quantity": 0
+                },
+                {
+                    "hash": 1084182731,
+                    "quantity": 20
+                },
+                {
+                    "hash": -1098528034,
+                    "quantity": 10
+                },
+                {
+                    "hash": 74547781,
+                    "quantity": 69
+                }
+            ],
+            "tags": [
+                -193035453,
+                1147021565,
+                58855631,
+                -1934986702,
+                -1457797660,
+                1765172170,
+                1443104131
+            ],
+            "webDescription1": "Red Rocket Cigarettes are perfectly mild and rich, made only from the finest tobacco. It is the reward you deserve. One box contains ten cigarettes.",
+            "webDescription2": "",
+            "webHeadline1": "",
+            "webHeadline2": "",
+            "id": "54d74ac4",
+            "variations": []
+        },
+        {
+            "brand": "3ee501cd",
+            "categories": [
+                "36dd3c68/ce7e2dec"
+            ],
+            "clothingVariations": [],
+            "costDefault": {
+                "currencyHash": 2084597891,
+                "nameHash": -915411861,
+                "isFromPrice": false,
+                "price": 300,
+                "quantity": 4,
+                "unlockEnums": [],
+                "unlockIds": []
+            },
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 300,
+                    "quantity": 4,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ],
+            "costOther": [],
+            "description": "Snowberger Old Fashioned Candies. A delight for young and old, anytime of the day. Use as a reward to discourage sloth. One bag contains four candies.",
+            "englishName": "Snowberger Candies",
+            "effects": [
+                {
+                    "hash": -816334026,
+                    "value": 1
+                },
+                {
+                    "hash": 1857353317,
+                    "value": 1
+                },
+                {
+                    "hash": 1681823811,
+                    "value": 2
+                }
+            ],
+            "enumHash": -1442667564,
+            "expiryStatus": "notExpired",
+            "name": "Snowberger Candies",
+            "gameMode": "sp",
+            "group": "CONSUMABLE",
+            "horseVariations": [],
+            "images": [
+                {
+                    "type": 0,
+                    "url": "/global/catalog/rdr2/ed1d1354/873960e06f7e349bf1a785fc445b32410a71ae73.png",
+                    "altText": ""
+                },
+                {
+                    "type": 1,
+                    "url": "/global/catalog/rdr2/ed1d1354/e699b5a274b2a74c45eb384aeb98bbfe6b720909.png",
+                    "altText": ""
+                },
+                {
+                    "type": 2,
+                    "url": "/global/catalog/rdr2/ed1d1354/185b0c27382202f1d087e4afb23a00ce0fab9674.jpg",
+                    "altText": ""
+                }
+            ],
+            "priorityAccessCosts": [],
+            "priorityAccessHash": 0,
+            "requirements": [],
+            "slots": [
+                {
+                    "hash": 1426626782,
+                    "quantity": -1
+                },
+                {
+                    "hash": -1360128126,
+                    "quantity": -1
+                },
+                {
+                    "hash": -673000374,
+                    "quantity": 0
+                },
+                {
+                    "hash": 1084182731,
+                    "quantity": 10
+                },
+                {
+                    "hash": -1098528034,
+                    "quantity": 5
+                },
+                {
+                    "hash": 74547781,
+                    "quantity": 84
+                }
+            ],
+            "tags": [
+                -193035453,
+                554195525,
+                1147021565,
+                58855631,
+                -1934986702,
+                -1457797660,
+                -524514947,
+                89124942
+            ],
+            "webDescription1": "Snowberger Old Fashioned Candies. A delight for young and old, anytime of the day. Use as a reward to discourage sloth. One bag contains four candies.",
+            "webDescription2": "",
+            "webHeadline1": "",
+            "webHeadline2": "",
+            "id": "b34ea0a8",
+            "variations": []
+        },
+        {
+            "brand": "ca23ade0",
+            "categories": [
+                "36dd3c68/51e06bd7"
+            ],
+            "clothingVariations": [],
+            "costDefault": {
+                "currencyHash": 2084597891,
+                "nameHash": -915411861,
+                "isFromPrice": false,
+                "price": 300,
+                "quantity": 1,
+                "unlockEnums": [],
+                "unlockIds": []
+            },
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 300,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ],
+            "costOther": [],
+            "description": "Carrington Fine Brandy is distilled from the finest wine. Perfect as an after-dinner digestif, or after breakfast.",
+            "englishName": "Fine Brandy",
+            "effects": [
+                {
+                    "hash": 1681823811,
+                    "value": 2
+                },
+                {
+                    "hash": 1857353317,
+                    "value": 5
+                },
+                {
+                    "hash": -816334026,
+                    "value": 3
+                }
+            ],
+            "enumHash": 785091089,
+            "expiryStatus": "notExpired",
+            "name": "Fine Brandy",
+            "gameMode": "sp",
+            "group": "CONSUMABLE",
+            "horseVariations": [],
+            "images": [
+                {
+                    "type": 0,
+                    "url": "/global/catalog/rdr2/9ad50cb8/ebf5ad689b3121037c9c87f285fa89e23f07e4b5.png",
+                    "altText": ""
+                },
+                {
+                    "type": 1,
+                    "url": "/global/catalog/rdr2/9ad50cb8/5c4f1282a7277cfbc7bfcb34f1d51cb357623cd7.png",
+                    "altText": ""
+                },
+                {
+                    "type": 2,
+                    "url": "/global/catalog/rdr2/9ad50cb8/c534deed6a4368caf5614b57db22b09fad3ac2a9.jpg",
+                    "altText": ""
+                }
+            ],
+            "priorityAccessCosts": [],
+            "priorityAccessHash": 0,
+            "requirements": [],
+            "slots": [
+                {
+                    "hash": 1426626782,
+                    "quantity": -1
+                },
+                {
+                    "hash": -1360128126,
+                    "quantity": -1
+                },
+                {
+                    "hash": -673000374,
+                    "quantity": 0
+                },
+                {
+                    "hash": 1084182731,
+                    "quantity": 3
+                },
+                {
+                    "hash": -1098528034,
+                    "quantity": 2
+                },
+                {
+                    "hash": 74547781,
+                    "quantity": 94
+                }
+            ],
+            "tags": [
+                -193035453,
+                -273840653,
+                1490540191,
+                1147021565,
+                -1457797660
+            ],
+            "webDescription1": "Carrington Fine Brandy is distilled from the finest wine. Perfect as an after-dinner digestif, or after breakfast.",
+            "webDescription2": "",
+            "webHeadline1": "",
+            "webHeadline2": "",
+            "id": "0d19798c",
+            "variations": []
+        },
+        {
+            "brand": "77e9d30a",
+            "categories": [
+                "36dd3c68/51e06bd7"
+            ],
+            "clothingVariations": [],
+            "costDefault": {
+                "currencyHash": 2084597891,
+                "nameHash": -915411861,
+                "isFromPrice": false,
+                "price": 250,
+                "quantity": 1,
+                "unlockEnums": [],
+                "unlockIds": []
+            },
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 250,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ],
+            "costOther": [],
+            "description": "Cinco Torres Guarma Rum is distilled from pure sugar cane and imported. Nothing equals it for enjoyment or reducing melancholy.",
+            "englishName": "Guarma Rum",
+            "effects": [
+                {
+                    "hash": 1681823811,
+                    "value": 3
+                },
+                {
+                    "hash": 1857353317,
+                    "value": 4
+                },
+                {
+                    "hash": -816334026,
+                    "value": 3
+                }
+            ],
+            "enumHash": 1483206625,
+            "expiryStatus": "notExpired",
+            "name": "Guarma Rum",
+            "gameMode": "sp",
+            "group": "CONSUMABLE",
+            "horseVariations": [],
+            "images": [
+                {
+                    "type": 0,
+                    "url": "/global/catalog/rdr2/5bf14b2f/44ff359ec7663b59da32e4212e416b73f10aa8ac.png",
+                    "altText": ""
+                },
+                {
+                    "type": 1,
+                    "url": "/global/catalog/rdr2/5bf14b2f/d1e7139216483e34747a1ea8284c1697e6e90523.png",
+                    "altText": ""
+                },
+                {
+                    "type": 2,
+                    "url": "/global/catalog/rdr2/5bf14b2f/eb1b957c9d9d04fdb43aa2deefae1e257de0b8c1.jpg",
+                    "altText": ""
+                }
+            ],
+            "priorityAccessCosts": [],
+            "priorityAccessHash": 0,
+            "requirements": [],
+            "slots": [
+                {
+                    "hash": 1426626782,
+                    "quantity": -1
+                },
+                {
+                    "hash": -1360128126,
+                    "quantity": -1
+                },
+                {
+                    "hash": -673000374,
+                    "quantity": 0
+                },
+                {
+                    "hash": 1084182731,
+                    "quantity": 3
+                },
+                {
+                    "hash": -1098528034,
+                    "quantity": 2
+                },
+                {
+                    "hash": 74547781,
+                    "quantity": 94
+                }
+            ],
+            "tags": [
+                -193035453,
+                999632878,
+                1490540191,
+                1147021565,
+                -1457797660
+            ],
+            "webDescription1": "Cinco Torres Guarma Rum is distilled from pure sugar cane and imported. Nothing equals it for enjoyment or reducing melancholy.",
+            "webDescription2": "",
+            "webHeadline1": "",
+            "webHeadline2": "",
+            "id": "c92fa946",
+            "variations": []
+        },
+        {
+            "brand": "8bb6d8fa",
+            "categories": [
+                "36dd3c68/51e06bd7"
+            ],
+            "clothingVariations": [],
+            "costDefault": {
+                "currencyHash": 2084597891,
+                "nameHash": -915411861,
+                "isFromPrice": false,
+                "price": 210,
+                "quantity": 1,
+                "unlockEnums": [],
+                "unlockIds": []
+            },
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 210,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ],
+            "costOther": [],
+            "description": "Two Fist Prairie Moon Gin. High quality gin made with juniper berries and other fine botanicals. The night begins and ends with Two Fist's.",
+            "englishName": "Prairie Moon Gin",
+            "effects": [
+                {
+                    "hash": 1681823811,
+                    "value": 2
+                },
+                {
+                    "hash": 1857353317,
+                    "value": 4
+                },
+                {
+                    "hash": -816334026,
+                    "value": 3
+                }
+            ],
+            "enumHash": -221280702,
+            "expiryStatus": "notExpired",
+            "name": "Prairie Moon Gin",
+            "gameMode": "sp",
+            "group": "CONSUMABLE",
+            "horseVariations": [],
+            "images": [
+                {
+                    "type": 0,
+                    "url": "/global/catalog/rdr2/d3754770/d2c4a14169571a793cff8e141c2af97ef9d8fdcd.png",
+                    "altText": ""
+                },
+                {
+                    "type": 1,
+                    "url": "/global/catalog/rdr2/d3754770/2e98d6b801d484232c8e8d59bb6c25797acbb992.png",
+                    "altText": ""
+                },
+                {
+                    "type": 2,
+                    "url": "/global/catalog/rdr2/d3754770/816dab0eb018737180091bbf3a5e6676ab811639.jpg",
+                    "altText": ""
+                }
+            ],
+            "priorityAccessCosts": [],
+            "priorityAccessHash": 0,
+            "requirements": [],
+            "slots": [
+                {
+                    "hash": 1426626782,
+                    "quantity": -1
+                },
+                {
+                    "hash": -1360128126,
+                    "quantity": -1
+                },
+                {
+                    "hash": -673000374,
+                    "quantity": 0
+                },
+                {
+                    "hash": 1084182731,
+                    "quantity": 3
+                },
+                {
+                    "hash": -1098528034,
+                    "quantity": 2
+                },
+                {
+                    "hash": 74547781,
+                    "quantity": 94
+                }
+            ],
+            "tags": [
+                -193035453,
+                -273840653,
+                1490540191,
+                1147021565,
+                -1457797660
+            ],
+            "webDescription1": "Two Fist Prairie Moon Gin. High quality gin made with juniper berries and other fine botanicals. The night begins and ends with Two Fist's.",
+            "webDescription2": "",
+            "webHeadline1": "",
+            "webHeadline2": "",
+            "id": "c4c34f33",
+            "variations": []
+        },
+        {
+            "brand": "bb935405",
+            "categories": [
+                "36dd3c68/ce7e2dec"
+            ],
+            "clothingVariations": [],
+            "costDefault": {
+                "currencyHash": 2084597891,
+                "nameHash": -915411861,
+                "isFromPrice": false,
+                "price": 200,
+                "quantity": 4,
+                "unlockEnums": [],
+                "unlockIds": []
+            },
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 200,
+                    "quantity": 4,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ],
+            "costOther": [],
+            "description": "Hedley Baking Company Assorted Biscuits are exceptionally fine biscuits. Crisp, light, delicate, pleasing to the palate. Perfect for serving in the salon, at garden parties, or militia gatherings. One pack contains four biscuits.",
+            "englishName": "Assorted Biscuits",
+            "effects": [
+                {
+                    "hash": -816334026,
+                    "value": 3
+                },
+                {
+                    "hash": -416929031,
+                    "value": 2
+                }
+            ],
+            "enumHash": -1532091729,
+            "expiryStatus": "notExpired",
+            "name": "Assorted Biscuits",
+            "gameMode": "sp",
+            "group": "CONSUMABLE",
+            "horseVariations": [],
+            "images": [
+                {
+                    "type": 0,
+                    "url": "/global/catalog/rdr2/01d17259/702a5668559c142ffba6dcf73605cf447fa6a629.png",
+                    "altText": ""
+                },
+                {
+                    "type": 1,
+                    "url": "/global/catalog/rdr2/01d17259/7e5d378b5a8963273f4faaade79caf8840ddc7e5.png",
+                    "altText": ""
+                },
+                {
+                    "type": 2,
+                    "url": "/global/catalog/rdr2/01d17259/4b9fb49d7bff475317a4e494b292e770b1e108bc.jpg",
+                    "altText": ""
+                }
+            ],
+            "priorityAccessCosts": [],
+            "priorityAccessHash": 0,
+            "requirements": [],
+            "slots": [
+                {
+                    "hash": 1426626782,
+                    "quantity": -1
+                },
+                {
+                    "hash": -1360128126,
+                    "quantity": -1
+                },
+                {
+                    "hash": -673000374,
+                    "quantity": 0
+                },
+                {
+                    "hash": 1084182731,
+                    "quantity": 10
+                },
+                {
+                    "hash": -1098528034,
+                    "quantity": 5
+                },
+                {
+                    "hash": 74547781,
+                    "quantity": 84
+                }
+            ],
+            "tags": [
+                -193035453,
+                1147021565,
+                58855631,
+                -1934986702,
+                -1457797660,
+                -524514947,
+                89124942
+            ],
+            "webDescription1": "Hedley Baking Company Assorted Biscuits are exceptionally fine biscuits. Crisp, light, delicate, pleasing to the palate. Perfect for serving in the salon, at garden parties, or militia gatherings. One pack contains four biscuits.",
+            "webDescription2": "",
+            "webHeadline1": "",
+            "webHeadline2": "",
+            "id": "4c88a124",
+            "variations": []
+        },
+        {
+            "brand": "3ee501cd",
+            "categories": [
+                "36dd3c68/ce7e2dec"
+            ],
+            "clothingVariations": [],
+            "costDefault": {
+                "currencyHash": 2084597891,
+                "nameHash": -915411861,
+                "isFromPrice": false,
+                "price": 200,
+                "quantity": 1,
+                "unlockEnums": [],
+                "unlockIds": []
+            },
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 200,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ],
+            "costOther": [],
+            "description": "Snowberger Fancy Milk Chocolate. From the finest cacao plantations. A post luncheon treat that satisfies.",
+            "englishName": "Chocolate Bar",
+            "effects": [
+                {
+                    "hash": -816334026,
+                    "value": 5
+                },
+                {
+                    "hash": 1681823811,
+                    "value": 4
+                },
+                {
+                    "hash": 1857353317,
+                    "value": 2
+                }
+            ],
+            "enumHash": -951828978,
+            "expiryStatus": "notExpired",
+            "name": "Chocolate Bar",
+            "gameMode": "sp",
+            "group": "CONSUMABLE",
+            "horseVariations": [],
+            "images": [
+                {
+                    "type": 0,
+                    "url": "/global/catalog/rdr2/7848ec14/a2299bd9d48335991fd6c38a320b54c070d1040d.png",
+                    "altText": ""
+                },
+                {
+                    "type": 1,
+                    "url": "/global/catalog/rdr2/7848ec14/6291561fe9f5a0ac5bd3971cf4b6cabb17b0aa68.png",
+                    "altText": ""
+                },
+                {
+                    "type": 2,
+                    "url": "/global/catalog/rdr2/7848ec14/09757511477bbf12d9dea7d909ffe5c2b19af13b.jpg",
+                    "altText": ""
+                }
+            ],
+            "priorityAccessCosts": [],
+            "priorityAccessHash": 0,
+            "requirements": [],
+            "slots": [
+                {
+                    "hash": 1426626782,
+                    "quantity": -1
+                },
+                {
+                    "hash": -1360128126,
+                    "quantity": -1
+                },
+                {
+                    "hash": -673000374,
+                    "quantity": 0
+                },
+                {
+                    "hash": 1084182731,
+                    "quantity": 3
+                },
+                {
+                    "hash": -1098528034,
+                    "quantity": 2
+                },
+                {
+                    "hash": 74547781,
+                    "quantity": 94
+                }
+            ],
+            "tags": [
+                -193035453,
+                554195525,
+                1147021565,
+                -1457797660,
+                -524514947,
+                89124942
+            ],
+            "webDescription1": "Snowberger Fancy Milk Chocolate. From the finest cacao plantations. A post luncheon treat that satisfies.",
+            "webDescription2": "",
+            "webHeadline1": "",
+            "webHeadline2": "",
+            "id": "6af825c0",
+            "variations": []
+        },
+        {
+            "brand": "53e569ea",
+            "categories": [
+                "36dd3c68/6ed8d41c"
+            ],
+            "clothingVariations": [],
+            "costDefault": {
+                "currencyHash": 2084597891,
+                "nameHash": -915411861,
+                "isFromPrice": false,
+                "price": 200,
+                "quantity": 1,
+                "unlockEnums": [],
+                "unlockIds": []
+            },
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 200,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ],
+            "costOther": [],
+            "description": "Schmitz canned Salmon. Extra quality. Always remember to keep fish out of the sun. A great luncheon treat.",
+            "englishName": "Canned Salmon",
+            "effects": [
+                {
+                    "hash": -816334026,
+                    "value": 3
+                },
+                {
+                    "hash": 1857353317,
+                    "value": 2
+                },
+                {
+                    "hash": -416929031,
+                    "value": 4
+                }
+            ],
+            "enumHash": 2044006195,
+            "expiryStatus": "notExpired",
+            "name": "Canned Salmon",
+            "gameMode": "sp",
+            "group": "CONSUMABLE",
+            "horseVariations": [],
+            "images": [
+                {
+                    "type": 0,
+                    "url": "/global/catalog/rdr2/79a280fe/0286ad0b31ce71de495f7aec9f42c44663736bea.png",
+                    "altText": ""
+                },
+                {
+                    "type": 1,
+                    "url": "/global/catalog/rdr2/79a280fe/e1a2596c7d939b01810fd4c2bba006df978f6b32.png",
+                    "altText": ""
+                },
+                {
+                    "type": 2,
+                    "url": "/global/catalog/rdr2/79a280fe/c624640a7b0e07e1e389ece97863765d255f05ff.jpg",
+                    "altText": ""
+                }
+            ],
+            "priorityAccessCosts": [],
+            "priorityAccessHash": 0,
+            "requirements": [],
+            "slots": [
+                {
+                    "hash": 1426626782,
+                    "quantity": -1
+                },
+                {
+                    "hash": -1360128126,
+                    "quantity": -1
+                },
+                {
+                    "hash": -673000374,
+                    "quantity": 0
+                },
+                {
+                    "hash": 1084182731,
+                    "quantity": 3
+                },
+                {
+                    "hash": -1098528034,
+                    "quantity": 2
+                },
+                {
+                    "hash": 74547781,
+                    "quantity": 94
+                }
+            ],
+            "tags": [
+                -193035453,
+                -136654233,
+                1147021565,
+                -1457797660,
+                -1192049572,
+                89124942
+            ],
+            "webDescription1": "Schmitz canned Salmon. Extra quality. Always remember to keep fish out of the sun. A great luncheon treat.",
+            "webDescription2": "",
+            "webHeadline1": "",
+            "webHeadline2": "",
+            "id": "effa0822",
+            "variations": []
+        },
+        {
+            "brand": "732bc906",
+            "categories": [
+                "36dd3c68/ccd1e17b"
+            ],
+            "clothingVariations": [],
+            "costDefault": {
+                "currencyHash": 2084597891,
+                "nameHash": -915411861,
+                "isFromPrice": false,
+                "price": 190,
+                "quantity": 1,
+                "unlockEnums": [],
+                "unlockIds": []
+            },
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 190,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ],
+            "costOther": [],
+            "description": "Local dairy cheese from the finest curds. Any mold promptly cut off before sale.",
+            "englishName": "Cheese Wedge",
+            "effects": [
+                {
+                    "hash": -816334026,
+                    "value": 3
+                },
+                {
+                    "hash": 1857353317,
+                    "value": 3
+                },
+                {
+                    "hash": -416929031,
+                    "value": 3
+                }
+            ],
+            "enumHash": -930855373,
+            "expiryStatus": "notExpired",
+            "name": "Cheese Wedge",
+            "gameMode": "sp",
+            "group": "CONSUMABLE",
+            "horseVariations": [],
+            "images": [
+                {
+                    "type": 0,
+                    "url": "/global/catalog/rdr2/bc09639e/8c923531f775f6f685f1c81725298b4b7fee7ff5.png",
+                    "altText": ""
+                },
+                {
+                    "type": 1,
+                    "url": "/global/catalog/rdr2/bc09639e/a2fb276d47a3e64f822ce25563f6e00124248f65.png",
+                    "altText": ""
+                },
+                {
+                    "type": 2,
+                    "url": "/global/catalog/rdr2/bc09639e/1698fd45eac00b0995f008984a77e169b3691d23.jpg",
+                    "altText": ""
+                }
+            ],
+            "priorityAccessCosts": [],
+            "priorityAccessHash": 0,
+            "requirements": [],
+            "slots": [
+                {
+                    "hash": 1426626782,
+                    "quantity": -1
+                },
+                {
+                    "hash": -1360128126,
+                    "quantity": -1
+                },
+                {
+                    "hash": -673000374,
+                    "quantity": 0
+                },
+                {
+                    "hash": 1084182731,
+                    "quantity": 3
+                },
+                {
+                    "hash": -1098528034,
+                    "quantity": 2
+                },
+                {
+                    "hash": 74547781,
+                    "quantity": 94
+                }
+            ],
+            "tags": [
+                -193035453,
+                1147021565,
+                -1237028043,
+                -1457797660,
+                -524514947,
+                -809056541,
+                -2085281117
+            ],
+            "webDescription1": "Local dairy cheese from the finest curds. Any mold promptly cut off before sale.",
+            "webDescription2": "",
+            "webHeadline1": "",
+            "webHeadline2": "",
+            "id": "ec53ad90",
+            "variations": []
+        },
+        {
+            "brand": "c41e3115",
+            "categories": [
+                "36dd3c68/6ed8d41c"
+            ],
+            "clothingVariations": [],
+            "costDefault": {
+                "currencyHash": 2084597891,
+                "nameHash": -915411861,
+                "isFromPrice": false,
+                "price": 175,
+                "quantity": 1,
+                "unlockEnums": [],
+                "unlockIds": []
+            },
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 175,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ],
+            "costOther": [],
+            "description": "Edna McSweeney Brand Corned Beef. No other meat tastes so delicious right out of a can. Always ready and keeps indefinitely. Perfect for when provisions run low or in cases of pestilence and famine.",
+            "englishName": "Canned Corned Beef",
+            "effects": [
+                {
+                    "hash": -816334026,
+                    "value": 3
+                },
+                {
+                    "hash": -416929031,
+                    "value": 4
+                },
+                {
+                    "hash": 1857353317,
+                    "value": 1
+                }
+            ],
+            "enumHash": -1429211481,
+            "expiryStatus": "notExpired",
+            "name": "Canned Corned Beef",
+            "gameMode": "sp",
+            "group": "CONSUMABLE",
+            "horseVariations": [],
+            "images": [
+                {
+                    "type": 0,
+                    "url": "/global/catalog/rdr2/3297a84c/21d5bcce3ac153435de173fbc24cfb495c2edd2e.png",
+                    "altText": ""
+                },
+                {
+                    "type": 1,
+                    "url": "/global/catalog/rdr2/3297a84c/0948c87ee740e3c95b4edc58db3cea24622eeb01.png",
+                    "altText": ""
+                },
+                {
+                    "type": 2,
+                    "url": "/global/catalog/rdr2/3297a84c/a5a208e97b80d4522e1ac342890dfb8055bba375.jpg",
+                    "altText": ""
+                }
+            ],
+            "priorityAccessCosts": [],
+            "priorityAccessHash": 0,
+            "requirements": [],
+            "slots": [
+                {
+                    "hash": 1426626782,
+                    "quantity": -1
+                },
+                {
+                    "hash": -1360128126,
+                    "quantity": -1
+                },
+                {
+                    "hash": -673000374,
+                    "quantity": 0
+                },
+                {
+                    "hash": 1084182731,
+                    "quantity": 3
+                },
+                {
+                    "hash": -1098528034,
+                    "quantity": 2
+                },
+                {
+                    "hash": 74547781,
+                    "quantity": 94
+                }
+            ],
+            "tags": [
+                1451036371,
+                -193035453,
+                -136654233,
+                1147021565,
+                -887064662,
+                -1457797660,
+                -1192049572
+            ],
+            "webDescription1": "Edna McSweeney Brand Corned Beef. No other meat tastes so delicious right out of a can. Always ready and keeps indefinitely. Perfect for when provisions run low or in cases of pestilence and famine.",
+            "webDescription2": "",
+            "webHeadline1": "",
+            "webHeadline2": "",
+            "id": "6b9678e3",
+            "variations": []
+        },
+        {
+            "brand": "95b01a7d",
+            "categories": [
+                "36dd3c68/6ed8d41c"
+            ],
+            "clothingVariations": [],
+            "costDefault": {
+                "currencyHash": 2084597891,
+                "nameHash": -915411861,
+                "isFromPrice": false,
+                "price": 150,
+                "quantity": 1,
+                "unlockEnums": [],
+                "unlockIds": []
+            },
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 150,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ],
+            "costOther": [],
+            "description": "Flock of Sparrows nourishing kidney beans. All carefully selected and cooked under perfectly sanitary conditions. Imported from Europe, renowned for beans.",
+            "englishName": "Canned Kidney Beans",
+            "effects": [
+                {
+                    "hash": -816334026,
+                    "value": 3
+                },
+                {
+                    "hash": 1681823811,
+                    "value": 4
+                },
+                {
+                    "hash": -416929031,
+                    "value": 3
+                }
+            ],
+            "enumHash": 1177324828,
+            "expiryStatus": "notExpired",
+            "name": "Canned Kidney Beans",
+            "gameMode": "sp",
+            "group": "CONSUMABLE",
+            "horseVariations": [],
+            "images": [
+                {
+                    "type": 0,
+                    "url": "/global/catalog/rdr2/b3ede133/0dae1a515981f0054d2b7eadd44ccdcc0759f371.png",
+                    "altText": ""
+                },
+                {
+                    "type": 1,
+                    "url": "/global/catalog/rdr2/b3ede133/0760b3504a7276e3db6790f3aa18279967e34ea5.png",
+                    "altText": ""
+                },
+                {
+                    "type": 2,
+                    "url": "/global/catalog/rdr2/b3ede133/f55815783b2533e61b41ea8a64cd78faf4f6c90e.jpg",
+                    "altText": ""
+                }
+            ],
+            "priorityAccessCosts": [],
+            "priorityAccessHash": 0,
+            "requirements": [],
+            "slots": [
+                {
+                    "hash": 1426626782,
+                    "quantity": -1
+                },
+                {
+                    "hash": -1360128126,
+                    "quantity": -1
+                },
+                {
+                    "hash": -673000374,
+                    "quantity": 0
+                },
+                {
+                    "hash": 1084182731,
+                    "quantity": 3
+                },
+                {
+                    "hash": -1098528034,
+                    "quantity": 2
+                },
+                {
+                    "hash": 74547781,
+                    "quantity": 94
+                }
+            ],
+            "tags": [
+                1451036371,
+                -193035453,
+                -136654233,
+                1147021565,
+                -1934986702,
+                -1457797660,
+                877714034,
+                -1192049572
+            ],
+            "webDescription1": "Flock of Sparrows nourishing kidney beans. All carefully selected and cooked under perfectly sanitary conditions. Imported from Europe, renowned for beans.",
+            "webDescription2": "",
+            "webHeadline1": "",
+            "webHeadline2": "",
+            "id": "1e018018",
+            "variations": []
+        },
+        {
+            "brand": "f2ce0e25",
+            "categories": [
+                "36dd3c68/6ed8d41c"
+            ],
+            "clothingVariations": [],
+            "costDefault": {
+                "currencyHash": 2084597891,
+                "nameHash": -915411861,
+                "isFromPrice": false,
+                "price": 150,
+                "quantity": 1,
+                "unlockEnums": [],
+                "unlockIds": []
+            },
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 150,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ],
+            "costOther": [],
+            "description": "Big Valley Pineapples. A taste of sunshine in every bite. Harvested by hand and quickly canned. Product of Guarma.",
+            "englishName": "Canned Pineapples",
+            "effects": [
+                {
+                    "hash": -816334026,
+                    "value": 3
+                },
+                {
+                    "hash": -416929031,
+                    "value": 4
+                },
+                {
+                    "hash": 1681823811,
+                    "value": 3
+                }
+            ],
+            "enumHash": 1851034588,
+            "expiryStatus": "notExpired",
+            "name": "Canned Pineapples",
+            "gameMode": "sp",
+            "group": "CONSUMABLE",
+            "horseVariations": [],
+            "images": [
+                {
+                    "type": 0,
+                    "url": "/global/catalog/rdr2/4f780ec5/02f9f10eeb2c1e737eb28c665a2b1e5b17d9e27c.png",
+                    "altText": ""
+                },
+                {
+                    "type": 1,
+                    "url": "/global/catalog/rdr2/4f780ec5/5d13dd9c3251d0b11fddf2bfbdde0c07f9630df5.png",
+                    "altText": ""
+                },
+                {
+                    "type": 12,
+                    "url": "/global/catalog/rdr2/4f780ec5/493cbb78e4d9d6c257cd32f612c2bc22cc093a8c.png",
+                    "altText": ""
+                },
+                {
+                    "type": 2,
+                    "url": "/global/catalog/rdr2/4f780ec5/1b74814135b9a1f09333f468105010b499c4b932.jpg",
+                    "altText": ""
+                }
+            ],
+            "priorityAccessCosts": [],
+            "priorityAccessHash": 0,
+            "requirements": [],
+            "slots": [
+                {
+                    "hash": 1426626782,
+                    "quantity": -1
+                },
+                {
+                    "hash": -1360128126,
+                    "quantity": -1
+                },
+                {
+                    "hash": -673000374,
+                    "quantity": 0
+                },
+                {
+                    "hash": 1084182731,
+                    "quantity": 3
+                },
+                {
+                    "hash": -1098528034,
+                    "quantity": 2
+                },
+                {
+                    "hash": 74547781,
+                    "quantity": 94
+                }
+            ],
+            "tags": [
+                1451036371,
+                -193035453,
+                -136654233,
+                1147021565,
+                -1021472396,
+                -1934986702,
+                -1457797660,
+                -1192049572
+            ],
+            "webDescription1": "Big Valley Pineapples. A taste of sunshine in every bite. Harvested by hand and quickly canned. Product of Guarma.",
+            "webDescription2": "",
+            "webHeadline1": "",
+            "webHeadline2": "",
+            "id": "44783255",
+            "variations": []
+        },
+        {
+            "brand": "732bc906",
+            "categories": [
+                "36dd3c68/ccd1e17b"
+            ],
+            "clothingVariations": [],
+            "costDefault": {
+                "currencyHash": 2084597891,
+                "nameHash": -915411861,
+                "isFromPrice": false,
+                "price": 150,
+                "quantity": 1,
+                "unlockEnums": [],
+                "unlockIds": []
+            },
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 150,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ],
+            "costOther": [],
+            "description": "Dried Jerky, prepared in the ancient way handed down over generations. A treat anytime or when foodstuffs are scarce.",
+            "englishName": "Salted Beef",
+            "effects": [
+                {
+                    "hash": -816334026,
+                    "value": 3
+                },
+                {
+                    "hash": -416929031,
+                    "value": 2
+                },
+                {
+                    "hash": 1857353317,
+                    "value": 3
+                }
+            ],
+            "enumHash": 23610856,
+            "expiryStatus": "notExpired",
+            "name": "Salted Beef",
+            "gameMode": "sp",
+            "group": "CONSUMABLE",
+            "horseVariations": [],
+            "images": [
+                {
+                    "type": 0,
+                    "url": "/global/catalog/rdr2/acd65d4f/d97dafbe6fd945ba5910d4aed3c7fbbd594e24bd.png",
+                    "altText": ""
+                },
+                {
+                    "type": 1,
+                    "url": "/global/catalog/rdr2/acd65d4f/70381cd9ceee0bd6689c33c9126103821d2685fd.png",
+                    "altText": ""
+                },
+                {
+                    "type": 2,
+                    "url": "/global/catalog/rdr2/acd65d4f/3bdfdc3f4168b6016d33c608f1f3e6213954ab95.jpg",
+                    "altText": ""
+                }
+            ],
+            "priorityAccessCosts": [],
+            "priorityAccessHash": 0,
+            "requirements": [],
+            "slots": [
+                {
+                    "hash": 1426626782,
+                    "quantity": -1
+                },
+                {
+                    "hash": -1360128126,
+                    "quantity": -1
+                },
+                {
+                    "hash": -673000374,
+                    "quantity": 0
+                },
+                {
+                    "hash": 1084182731,
+                    "quantity": 3
+                },
+                {
+                    "hash": -1098528034,
+                    "quantity": 2
+                },
+                {
+                    "hash": 74547781,
+                    "quantity": 94
+                }
+            ],
+            "tags": [
+                -193035453,
+                1147021565,
+                1264218912,
+                -1457797660,
+                -524514947,
+                1344951072,
+                -1192049572,
+                89124942
+            ],
+            "webDescription1": "Dried Jerky, prepared in the ancient way handed down over generations. A treat anytime or when foodstuffs are scarce.",
+            "webDescription2": "",
+            "webHeadline1": "",
+            "webHeadline2": "",
+            "id": "277ac6e5",
+            "variations": []
+        },
+        {
+            "brand": "a15e75e3",
+            "categories": [
+                "36dd3c68/dd9ca5bc"
+            ],
+            "clothingVariations": [],
+            "costDefault": {
+                "currencyHash": 2084597891,
+                "nameHash": -915411861,
+                "isFromPrice": false,
+                "price": 150,
+                "quantity": 1,
+                "unlockEnums": [],
+                "unlockIds": []
+            },
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 150,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ],
+            "costOther": [],
+            "description": "Dr. Hawthorne's Premium blend domestic brand cigars. A fine, fragrant blend of superb tobaccos for refined gentlemen.",
+            "englishName": "Dr. Hawthorne's Cigar",
+            "effects": [
+                {
+                    "hash": 1857353317,
+                    "value": 5
+                },
+                {
+                    "hash": 1681823811,
+                    "value": -1
+                }
+            ],
+            "enumHash": 338147422,
+            "expiryStatus": "notExpired",
+            "name": "Dr. Hawthorne's Cigar",
+            "gameMode": "sp",
+            "group": "CONSUMABLE",
+            "horseVariations": [],
+            "images": [
+                {
+                    "type": 0,
+                    "url": "/global/catalog/rdr2/3fd816f3/2d605e348cbf123184046858f107c00a27ef50ff.png",
+                    "altText": ""
+                },
+                {
+                    "type": 1,
+                    "url": "/global/catalog/rdr2/3fd816f3/091abffa4df9ebfbc2c764b31ca3c5047b81d860.png",
+                    "altText": ""
+                },
+                {
+                    "type": 2,
+                    "url": "/global/catalog/rdr2/3fd816f3/52b045da9bf8ee1b446d8b809afb01ada1e7c81b.jpg",
+                    "altText": ""
+                }
+            ],
+            "priorityAccessCosts": [],
+            "priorityAccessHash": 0,
+            "requirements": [],
+            "slots": [
+                {
+                    "hash": 1426626782,
+                    "quantity": -1
+                },
+                {
+                    "hash": -1360128126,
+                    "quantity": -1
+                },
+                {
+                    "hash": -673000374,
+                    "quantity": 0
+                },
+                {
+                    "hash": 1084182731,
+                    "quantity": 3
+                },
+                {
+                    "hash": -1098528034,
+                    "quantity": 2
+                },
+                {
+                    "hash": 74547781,
+                    "quantity": 94
+                }
+            ],
+            "tags": [
+                -193035453,
+                1147021565,
+                -1457797660,
+                1765172170,
+                -1919515848
+            ],
+            "webDescription1": "Dr. Hawthorne's Premium blend domestic brand cigars. A fine, fragrant blend of superb tobaccos for refined gentlemen.",
+            "webDescription2": "",
+            "webHeadline1": "",
+            "webHeadline2": "",
+            "id": "11bd5ac2",
+            "variations": []
+        },
+        {
+            "brand": "e506c7c7",
+            "categories": [
+                "36dd3c68/6ed8d41c"
+            ],
+            "clothingVariations": [],
+            "costDefault": {
+                "currencyHash": 2084597891,
+                "nameHash": -915411861,
+                "isFromPrice": false,
+                "price": 135,
+                "quantity": 1,
+                "unlockEnums": [],
+                "unlockIds": []
+            },
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 135,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ],
+            "costOther": [],
+            "description": "Sloppy Molly's Assorted Salted Offal. Only the finest organ meats and entrails. Perfect for pâté, sweetbreads, haggis or chitterlings.",
+            "englishName": "Assorted Salted Offal",
+            "effects": [
+                {
+                    "hash": -816334026,
+                    "value": 3
+                },
+                {
+                    "hash": -416929031,
+                    "value": 2
+                },
+                {
+                    "hash": 1857353317,
+                    "value": 2
+                }
+            ],
+            "enumHash": -1994237933,
+            "expiryStatus": "notExpired",
+            "name": "Assorted Salted Offal",
+            "gameMode": "sp",
+            "group": "CONSUMABLE",
+            "horseVariations": [],
+            "images": [
+                {
+                    "type": 0,
+                    "url": "/global/catalog/rdr2/4257de5f/c5f6b1c93d94cfda6a507db3fa41465a41a779ad.png",
+                    "altText": ""
+                },
+                {
+                    "type": 1,
+                    "url": "/global/catalog/rdr2/4257de5f/70e3e119742aeb80610ea50874bda0f8fd41717b.png",
+                    "altText": ""
+                },
+                {
+                    "type": 2,
+                    "url": "/global/catalog/rdr2/4257de5f/a51c0c8bd22984c171eba8eaa42d6e0a3d01dd05.jpg",
+                    "altText": ""
+                }
+            ],
+            "priorityAccessCosts": [],
+            "priorityAccessHash": 0,
+            "requirements": [],
+            "slots": [
+                {
+                    "hash": 1426626782,
+                    "quantity": -1
+                },
+                {
+                    "hash": -1360128126,
+                    "quantity": -1
+                },
+                {
+                    "hash": -673000374,
+                    "quantity": 0
+                },
+                {
+                    "hash": 1084182731,
+                    "quantity": 3
+                },
+                {
+                    "hash": -1098528034,
+                    "quantity": 2
+                },
+                {
+                    "hash": 74547781,
+                    "quantity": 94
+                }
+            ],
+            "tags": [
+                1451036371,
+                -193035453,
+                1147021565,
+                -1457797660
+            ],
+            "webDescription1": "Sloppy Molly's Assorted Salted Offal. Only the finest organ meats and entrails. Perfect for pâté, sweetbreads, haggis or chitterlings.",
+            "webDescription2": "",
+            "webHeadline1": "",
+            "webHeadline2": "",
+            "id": "11a64570",
+            "variations": []
+        },
+        {
+            "brand": "f2ce0e25",
+            "categories": [
+                "36dd3c68/6ed8d41c"
+            ],
+            "clothingVariations": [],
+            "costDefault": {
+                "currencyHash": 2084597891,
+                "nameHash": -915411861,
+                "isFromPrice": false,
+                "price": 120,
+                "quantity": 1,
+                "unlockEnums": [],
+                "unlockIds": []
+            },
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 120,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ],
+            "costOther": [],
+            "description": "Big Valley Strawberries. Juicy, delicious, perfect for confections and pies, or feeding to a young paramour in the park.",
+            "englishName": "Canned Strawberries",
+            "effects": [
+                {
+                    "hash": -816334026,
+                    "value": 3
+                },
+                {
+                    "hash": -416929031,
+                    "value": 3
+                },
+                {
+                    "hash": 1681823811,
+                    "value": 3
+                }
+            ],
+            "enumHash": -1105074461,
+            "expiryStatus": "notExpired",
+            "name": "Canned Strawberries",
+            "gameMode": "sp",
+            "group": "CONSUMABLE",
+            "horseVariations": [],
+            "images": [
+                {
+                    "type": 0,
+                    "url": "/global/catalog/rdr2/0deabe74/be4ac244d56aeff344ff997213a9ebd222a9ddd2.png",
+                    "altText": ""
+                },
+                {
+                    "type": 1,
+                    "url": "/global/catalog/rdr2/0deabe74/f4ace5da76bfa935f5ac2cbb74e49c828d636410.png",
+                    "altText": ""
+                },
+                {
+                    "type": 12,
+                    "url": "/global/catalog/rdr2/0deabe74/6e6dedfe2018c1c345291b4b2be0fe4cd3eb35be.png",
+                    "altText": ""
+                },
+                {
+                    "type": 2,
+                    "url": "/global/catalog/rdr2/0deabe74/c3d3b8d9faa7550b1087679e31082d93cf7b9560.jpg",
+                    "altText": ""
+                }
+            ],
+            "priorityAccessCosts": [],
+            "priorityAccessHash": 0,
+            "requirements": [],
+            "slots": [
+                {
+                    "hash": 1426626782,
+                    "quantity": -1
+                },
+                {
+                    "hash": -1360128126,
+                    "quantity": -1
+                },
+                {
+                    "hash": -673000374,
+                    "quantity": 0
+                },
+                {
+                    "hash": 1084182731,
+                    "quantity": 3
+                },
+                {
+                    "hash": -1098528034,
+                    "quantity": 2
+                },
+                {
+                    "hash": 74547781,
+                    "quantity": 94
+                }
+            ],
+            "tags": [
+                1451036371,
+                -193035453,
+                -136654233,
+                1147021565,
+                -1021472396,
+                -1934986702,
+                -1457797660,
+                -1192049572
+            ],
+            "webDescription1": "Big Valley Strawberries. Juicy, delicious, perfect for confections and pies, or feeding to a young paramour in the park.",
+            "webDescription2": "",
+            "webHeadline1": "",
+            "webHeadline2": "",
+            "id": "1e5c2a34",
+            "variations": []
+        },
+        {
+            "brand": "53e569ea",
+            "categories": [
+                "36dd3c68/6ed8d41c"
+            ],
+            "clothingVariations": [],
+            "costDefault": {
+                "currencyHash": 2084597891,
+                "nameHash": -915411861,
+                "isFromPrice": false,
+                "price": 120,
+                "quantity": 1,
+                "unlockEnums": [],
+                "unlockIds": []
+            },
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 120,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ],
+            "costOther": [],
+            "description": "Schmitz Baked Beans in a tomato sauce. Full measure and big value. Extra quality. The beans won best in show at the World's Fair.",
+            "englishName": "Baked Beans",
+            "effects": [
+                {
+                    "hash": -816334026,
+                    "value": 3
+                },
+                {
+                    "hash": 1681823811,
+                    "value": 3
+                },
+                {
+                    "hash": -416929031,
+                    "value": 3
+                }
+            ],
+            "enumHash": -2044540391,
+            "expiryStatus": "notExpired",
+            "name": "Baked Beans",
+            "gameMode": "sp",
+            "group": "CONSUMABLE",
+            "horseVariations": [],
+            "images": [
+                {
+                    "type": 0,
+                    "url": "/global/catalog/rdr2/ca88d9a5/df8d248af13ae5354164921f98d65950a19d2b1c.png",
+                    "altText": ""
+                },
+                {
+                    "type": 1,
+                    "url": "/global/catalog/rdr2/ca88d9a5/9076a259c293b44a8b7938b999091770ea9a658d.png",
+                    "altText": ""
+                },
+                {
+                    "type": 2,
+                    "url": "/global/catalog/rdr2/ca88d9a5/70d656e5b6f51c0bc791d4ea8463f04d9c2e78a7.jpg",
+                    "altText": ""
+                }
+            ],
+            "priorityAccessCosts": [],
+            "priorityAccessHash": 0,
+            "requirements": [],
+            "slots": [
+                {
+                    "hash": 1426626782,
+                    "quantity": -1
+                },
+                {
+                    "hash": -1360128126,
+                    "quantity": -1
+                },
+                {
+                    "hash": -673000374,
+                    "quantity": 0
+                },
+                {
+                    "hash": 1084182731,
+                    "quantity": 3
+                },
+                {
+                    "hash": -1098528034,
+                    "quantity": 2
+                },
+                {
+                    "hash": 74547781,
+                    "quantity": 94
+                }
+            ],
+            "tags": [
+                1451036371,
+                -193035453,
+                -136654233,
+                1147021565,
+                -1934986702,
+                -1457797660,
+                877714034,
+                -1192049572
+            ],
+            "webDescription1": "Schmitz Baked Beans in a tomato sauce. Full measure and big value. Extra quality. The beans won best in show at the World's Fair.",
+            "webDescription2": "",
+            "webHeadline1": "",
+            "webHeadline2": "",
+            "id": "767fbdec",
+            "variations": []
+        },
+        {
+            "brand": "83dc4e08",
+            "categories": [
+                "36dd3c68/ce7e2dec"
+            ],
+            "clothingVariations": [],
+            "costDefault": {
+                "currencyHash": 2084597891,
+                "nameHash": -915411861,
+                "isFromPrice": false,
+                "price": 100,
+                "quantity": 4,
+                "unlockEnums": [],
+                "unlockIds": []
+            },
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 100,
+                    "quantity": 4,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ],
+            "costOther": [],
+            "description": "Leblanc Brand Butter Crackers. Fresh baked from high quality ingredients. Packed in sturdy tins which can be re-purposed to hold detritus from your youth. One tin contains four crackers.",
+            "englishName": "Butter Crackers",
+            "effects": [
+                {
+                    "hash": -416929031,
+                    "value": 1
+                },
+                {
+                    "hash": -816334026,
+                    "value": 3
+                }
+            ],
+            "enumHash": -1831458922,
+            "expiryStatus": "notExpired",
+            "name": "Butter Crackers",
+            "gameMode": "sp",
+            "group": "CONSUMABLE",
+            "horseVariations": [],
+            "images": [
+                {
+                    "type": 0,
+                    "url": "/global/catalog/rdr2/7828727f/0e6d8b576b0eaf8c24f566924cdc76e934b1cd20.png",
+                    "altText": ""
+                },
+                {
+                    "type": 1,
+                    "url": "/global/catalog/rdr2/7828727f/16feff2978f3208c8e080db861cf39cea882207a.png",
+                    "altText": ""
+                },
+                {
+                    "type": 2,
+                    "url": "/global/catalog/rdr2/7828727f/bb0d58ce4084518b0f735059e9e8c7dc78b113d2.jpg",
+                    "altText": ""
+                }
+            ],
+            "priorityAccessCosts": [],
+            "priorityAccessHash": 0,
+            "requirements": [],
+            "slots": [
+                {
+                    "hash": 1426626782,
+                    "quantity": -1
+                },
+                {
+                    "hash": -1360128126,
+                    "quantity": -1
+                },
+                {
+                    "hash": -673000374,
+                    "quantity": 0
+                },
+                {
+                    "hash": 1084182731,
+                    "quantity": 10
+                },
+                {
+                    "hash": -1098528034,
+                    "quantity": 5
+                },
+                {
+                    "hash": 74547781,
+                    "quantity": 84
+                }
+            ],
+            "tags": [
+                -193035453,
+                1147021565,
+                58855631,
+                -1934986702,
+                -1457797660,
+                -524514947,
+                -1192049572,
+                89124942
+            ],
+            "webDescription1": "Leblanc Brand Butter Crackers. Fresh baked from high quality ingredients. Packed in sturdy tins which can be re-purposed to hold detritus from your youth. One tin contains four crackers.",
+            "webDescription2": "",
+            "webHeadline1": "",
+            "webHeadline2": "",
+            "id": "56d1a1f4",
+            "variations": []
+        },
+        {
+            "brand": "f2ce0e25",
+            "categories": [
+                "36dd3c68/6ed8d41c"
+            ],
+            "clothingVariations": [],
+            "costDefault": {
+                "currencyHash": 2084597891,
+                "nameHash": -915411861,
+                "isFromPrice": false,
+                "price": 100,
+                "quantity": 1,
+                "unlockEnums": [],
+                "unlockIds": []
+            },
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 100,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ],
+            "costOther": [],
+            "description": "Big Valley Peaches. Since 1832. Our peach orchards produce top quality juicy peaches, even in years of pestilence and drought.",
+            "englishName": "Canned Peaches",
+            "effects": [
+                {
+                    "hash": -816334026,
+                    "value": 3
+                },
+                {
+                    "hash": -416929031,
+                    "value": 2
+                },
+                {
+                    "hash": 1681823811,
+                    "value": 3
+                }
+            ],
+            "enumHash": -227505011,
+            "expiryStatus": "notExpired",
+            "name": "Canned Peaches",
+            "gameMode": "sp",
+            "group": "CONSUMABLE",
+            "horseVariations": [],
+            "images": [
+                {
+                    "type": 0,
+                    "url": "/global/catalog/rdr2/bc7c06d2/fa431f12377cbb9741b77a4c1e7196ec5720fafd.png",
+                    "altText": ""
+                },
+                {
+                    "type": 1,
+                    "url": "/global/catalog/rdr2/bc7c06d2/d65872321eba2ad549b83f82c57f2c142745fd3b.png",
+                    "altText": ""
+                },
+                {
+                    "type": 12,
+                    "url": "/global/catalog/rdr2/bc7c06d2/94ef69d49fd459391c5e2870401328fd3c4b4e72.png",
+                    "altText": ""
+                },
+                {
+                    "type": 2,
+                    "url": "/global/catalog/rdr2/bc7c06d2/ad826ceed90848c0513c03f7302b03158f0488dc.jpg",
+                    "altText": ""
+                }
+            ],
+            "priorityAccessCosts": [],
+            "priorityAccessHash": 0,
+            "requirements": [],
+            "slots": [
+                {
+                    "hash": 1426626782,
+                    "quantity": -1
+                },
+                {
+                    "hash": -1360128126,
+                    "quantity": -1
+                },
+                {
+                    "hash": -673000374,
+                    "quantity": 0
+                },
+                {
+                    "hash": 1084182731,
+                    "quantity": 3
+                },
+                {
+                    "hash": -1098528034,
+                    "quantity": 2
+                },
+                {
+                    "hash": 74547781,
+                    "quantity": 94
+                }
+            ],
+            "tags": [
+                1451036371,
+                -193035453,
+                -136654233,
+                1147021565,
+                -1021472396,
+                -1934986702,
+                -1457797660,
+                -1192049572
+            ],
+            "webDescription1": "Big Valley Peaches. Since 1832. Our peach orchards produce top quality juicy peaches, even in years of pestilence and drought.",
+            "webDescription2": "",
+            "webHeadline1": "",
+            "webHeadline2": "",
+            "id": "f79d416b",
+            "variations": []
+        },
+        {
+            "brand": "4e2361ef",
+            "categories": [
+                "36dd3c68/ce7e2dec"
+            ],
+            "clothingVariations": [],
+            "costDefault": {
+                "currencyHash": 2084597891,
+                "nameHash": -915411861,
+                "isFromPrice": false,
+                "price": 100,
+                "quantity": 1,
+                "unlockEnums": [],
+                "unlockIds": []
+            },
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 100,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ],
+            "costOther": [],
+            "description": "Quaker & Fitz full bodied ground coffee. Great for that old sailor or soldier who laments that no coffee is as strong as the kind they drank during the war.",
+            "englishName": "Ground Coffee",
+            "effects": [
+                {
+                    "hash": 1681823811,
+                    "value": 4
+                },
+                {
+                    "hash": 1857353317,
+                    "value": 4
+                },
+                {
+                    "hash": -816334026,
+                    "value": 1
+                }
+            ],
+            "enumHash": -601932535,
+            "expiryStatus": "notExpired",
+            "name": "Ground Coffee",
+            "gameMode": "sp",
+            "group": "CONSUMABLE",
+            "horseVariations": [],
+            "images": [
+                {
+                    "type": 0,
+                    "url": "/global/catalog/rdr2/e0b9e467/1757c8523c48bd8aaabddc88f58be3964ae30ff6.png",
+                    "altText": ""
+                },
+                {
+                    "type": 1,
+                    "url": "/global/catalog/rdr2/e0b9e467/f00ead81aac811934b89e90768c00430e5b68696.png",
+                    "altText": ""
+                },
+                {
+                    "type": 2,
+                    "url": "/global/catalog/rdr2/e0b9e467/570283175f4ba5169f96559b531e7cd4d00011e3.jpg",
+                    "altText": ""
+                }
+            ],
+            "priorityAccessCosts": [],
+            "priorityAccessHash": 0,
+            "requirements": [],
+            "slots": [
+                {
+                    "hash": 1426626782,
+                    "quantity": -1
+                },
+                {
+                    "hash": -673000374,
+                    "quantity": 0
+                },
+                {
+                    "hash": 1084182731,
+                    "quantity": 5
+                },
+                {
+                    "hash": -708312114,
+                    "quantity": 5
+                },
+                {
+                    "hash": 74547781,
+                    "quantity": 89
+                }
+            ],
+            "tags": [
+                1360707454,
+                1147021565,
+                -1109368290,
+                795426633
+            ],
+            "webDescription1": "Quaker & Fitz full bodied ground coffee. Great for that old sailor or soldier who laments that no coffee is as strong as the kind they drank during the war.",
+            "webDescription2": "",
+            "webHeadline1": "",
+            "webHeadline2": "",
+            "id": "86c349a0",
+            "variations": []
+        },
+        {
+            "brand": "859c36ca",
+            "categories": [
+                "36dd3c68/6ed8d41c"
+            ],
+            "clothingVariations": [],
+            "costDefault": {
+                "currencyHash": 2084597891,
+                "nameHash": -915411861,
+                "isFromPrice": false,
+                "price": 100,
+                "quantity": 1,
+                "unlockEnums": [],
+                "unlockIds": []
+            },
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 100,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ],
+            "costOther": [],
+            "description": "Blackwing Sweetcorn. Naturally sweet and canned to lock in the goodness. Try it and see!",
+            "englishName": "Canned Sweetcorn",
+            "effects": [
+                {
+                    "hash": -816334026,
+                    "value": 3
+                },
+                {
+                    "hash": -416929031,
+                    "value": 3
+                },
+                {
+                    "hash": 1681823811,
+                    "value": 2
+                }
+            ],
+            "enumHash": -650786154,
+            "expiryStatus": "notExpired",
+            "name": "Canned Sweetcorn",
+            "gameMode": "sp",
+            "group": "CONSUMABLE",
+            "horseVariations": [],
+            "images": [
+                {
+                    "type": 0,
+                    "url": "/global/catalog/rdr2/393d4580/ea03f1eb2049672f846ebf6d4149e42660e78878.png",
+                    "altText": ""
+                },
+                {
+                    "type": 1,
+                    "url": "/global/catalog/rdr2/393d4580/4a61c590d5d27dae31aa7581c28cb2495d5f0267.png",
+                    "altText": ""
+                },
+                {
+                    "type": 2,
+                    "url": "/global/catalog/rdr2/393d4580/43d7a9d0728c7cfa535103feb5b33c58b6aa1bff.jpg",
+                    "altText": ""
+                }
+            ],
+            "priorityAccessCosts": [],
+            "priorityAccessHash": 0,
+            "requirements": [],
+            "slots": [
+                {
+                    "hash": 1426626782,
+                    "quantity": -1
+                },
+                {
+                    "hash": -1360128126,
+                    "quantity": -1
+                },
+                {
+                    "hash": -673000374,
+                    "quantity": 0
+                },
+                {
+                    "hash": 1084182731,
+                    "quantity": 3
+                },
+                {
+                    "hash": -1098528034,
+                    "quantity": 2
+                },
+                {
+                    "hash": 74547781,
+                    "quantity": 94
+                }
+            ],
+            "tags": [
+                1451036371,
+                -193035453,
+                -136654233,
+                1147021565,
+                -1457797660,
+                877714034,
+                -1192049572
+            ],
+            "webDescription1": "Blackwing Sweetcorn. Naturally sweet and canned to lock in the goodness. Try it and see!",
+            "webDescription2": "",
+            "webHeadline1": "",
+            "webHeadline2": "",
+            "id": "48c84b98",
+            "variations": []
+        },
+        {
+            "brand": "13d76fc5",
+            "categories": [
+                "36dd3c68/6ed8d41c"
+            ],
+            "clothingVariations": [],
+            "costDefault": {
+                "currencyHash": 2084597891,
+                "nameHash": -915411861,
+                "isFromPrice": false,
+                "price": 75,
+                "quantity": 1,
+                "unlockEnums": [],
+                "unlockIds": []
+            },
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 75,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ],
+            "costOther": [],
+            "description": "Dewberry Brand Peas. Picked and packed fresh. A favorite among children and the elderly. Order a case today.",
+            "englishName": "Canned Peas",
+            "effects": [
+                {
+                    "hash": -816334026,
+                    "value": 3
+                },
+                {
+                    "hash": -416929031,
+                    "value": 3
+                },
+                {
+                    "hash": 1681823811,
+                    "value": 1
+                }
+            ],
+            "enumHash": -594879984,
+            "expiryStatus": "notExpired",
+            "name": "Canned Peas",
+            "gameMode": "sp",
+            "group": "CONSUMABLE",
+            "horseVariations": [],
+            "images": [
+                {
+                    "type": 0,
+                    "url": "/global/catalog/rdr2/34ba93b6/324b55f841a8853cc9fca6ca4ec5c2c6144c4051.png",
+                    "altText": ""
+                },
+                {
+                    "type": 1,
+                    "url": "/global/catalog/rdr2/34ba93b6/95c4cc0c6039a94e03b85d9b22a0a3a29b651d17.png",
+                    "altText": ""
+                },
+                {
+                    "type": 2,
+                    "url": "/global/catalog/rdr2/34ba93b6/e8dcf1986073bd4aae94dddd693698210faf69e0.jpg",
+                    "altText": ""
+                }
+            ],
+            "priorityAccessCosts": [],
+            "priorityAccessHash": 0,
+            "requirements": [],
+            "slots": [
+                {
+                    "hash": 1426626782,
+                    "quantity": -1
+                },
+                {
+                    "hash": -1360128126,
+                    "quantity": -1
+                },
+                {
+                    "hash": -673000374,
+                    "quantity": 0
+                },
+                {
+                    "hash": 1084182731,
+                    "quantity": 3
+                },
+                {
+                    "hash": -1098528034,
+                    "quantity": 2
+                },
+                {
+                    "hash": 74547781,
+                    "quantity": 94
+                }
+            ],
+            "tags": [
+                1451036371,
+                -193035453,
+                -136654233,
+                1147021565,
+                -1934986702,
+                -1457797660,
+                877714034,
+                -1192049572
+            ],
+            "webDescription1": "Dewberry Brand Peas. Picked and packed fresh. A favorite among children and the elderly. Order a case today.",
+            "webDescription2": "",
+            "webHeadline1": "",
+            "webHeadline2": "",
+            "id": "0981079e",
+            "variations": []
+        },
+        {
+            "brand": "f2ce0e25",
+            "categories": [
+                "36dd3c68/6ed8d41c"
+            ],
+            "clothingVariations": [],
+            "costDefault": {
+                "currencyHash": 2084597891,
+                "nameHash": -915411861,
+                "isFromPrice": false,
+                "price": 75,
+                "quantity": 1,
+                "unlockEnums": [],
+                "unlockIds": []
+            },
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 75,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ],
+            "costOther": [],
+            "description": "Big Valley Apricots. The finest choice and quality fruits picked at peak ripeness and canned in a light syrup that is delicious.",
+            "englishName": "Canned Apricots",
+            "effects": [
+                {
+                    "hash": -816334026,
+                    "value": 3
+                },
+                {
+                    "hash": -416929031,
+                    "value": 1
+                },
+                {
+                    "hash": 1681823811,
+                    "value": 3
+                }
+            ],
+            "enumHash": 992551415,
+            "expiryStatus": "notExpired",
+            "name": "Canned Apricots",
+            "gameMode": "sp",
+            "group": "CONSUMABLE",
+            "horseVariations": [],
+            "images": [
+                {
+                    "type": 0,
+                    "url": "/global/catalog/rdr2/5ca6b498/9a0ae6e31f7e0e5e60e02026cb2160c8252a28ea.png",
+                    "altText": ""
+                },
+                {
+                    "type": 1,
+                    "url": "/global/catalog/rdr2/5ca6b498/536bec6ef1d3c6bb027df8b4badcdb87aa7a8a88.png",
+                    "altText": ""
+                },
+                {
+                    "type": 2,
+                    "url": "/global/catalog/rdr2/5ca6b498/fee163130b3c1bbe2b3edbcf637952330bdc5e58.jpg",
+                    "altText": ""
+                }
+            ],
+            "priorityAccessCosts": [],
+            "priorityAccessHash": 0,
+            "requirements": [],
+            "slots": [
+                {
+                    "hash": 1426626782,
+                    "quantity": -1
+                },
+                {
+                    "hash": -1360128126,
+                    "quantity": -1
+                },
+                {
+                    "hash": -673000374,
+                    "quantity": 0
+                },
+                {
+                    "hash": 1084182731,
+                    "quantity": 3
+                },
+                {
+                    "hash": -1098528034,
+                    "quantity": 2
+                },
+                {
+                    "hash": 74547781,
+                    "quantity": 94
+                }
+            ],
+            "tags": [
+                1451036371,
+                -193035453,
+                -136654233,
+                1147021565,
+                -1021472396,
+                -1934986702,
+                -1457797660,
+                -1192049572
+            ],
+            "webDescription1": "Big Valley Apricots. The finest choice and quality fruits picked at peak ripeness and canned in a light syrup that is delicious.",
+            "webDescription2": "",
+            "webHeadline1": "",
+            "webHeadline2": "",
+            "id": "9ed72407",
+            "variations": []
+        },
+        {
+            "brand": "732bc906",
+            "categories": [
+                "36dd3c68/ccd1e17b"
+            ],
+            "clothingVariations": [],
+            "costDefault": {
+                "currencyHash": 2084597891,
+                "nameHash": -915411861,
+                "isFromPrice": false,
+                "price": 65,
+                "quantity": 1,
+                "unlockEnums": [],
+                "unlockIds": []
+            },
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 65,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ],
+            "costOther": [],
+            "description": "Bartlett Pear. Can be used for canning, or cajoling horses.",
+            "englishName": "Bartlett Pear",
+            "effects": [
+                {
+                    "hash": -816334026,
+                    "value": 3
+                },
+                {
+                    "hash": 1194731729,
+                    "value": 3
+                },
+                {
+                    "hash": -1918697215,
+                    "value": 2
+                },
+                {
+                    "hash": 855745648,
+                    "value": 2
+                },
+                {
+                    "hash": -416929031,
+                    "value": 2
+                },
+                {
+                    "hash": 1681823811,
+                    "value": 2
+                }
+            ],
+            "enumHash": 1209486044,
+            "expiryStatus": "notExpired",
+            "name": "Bartlett Pear",
+            "gameMode": "sp",
+            "group": "CONSUMABLE",
+            "horseVariations": [],
+            "images": [
+                {
+                    "type": 0,
+                    "url": "/global/catalog/rdr2/0b15e137/faecdf2c8c47c715f5f08a7c6dbcfa4ba2617af8.png",
+                    "altText": ""
+                },
+                {
+                    "type": 1,
+                    "url": "/global/catalog/rdr2/0b15e137/20995274ef442b85cc7c4bc009f5e5b08ca8579d.png",
+                    "altText": ""
+                },
+                {
+                    "type": 12,
+                    "url": "/global/catalog/rdr2/0b15e137/1bec6787a04cb23b165123cff09efe7b5aada98d.png",
+                    "altText": ""
+                },
+                {
+                    "type": 2,
+                    "url": "/global/catalog/rdr2/0b15e137/fa8f808847ef7a4912129bf2acfdc68d938c33cb.jpg",
+                    "altText": ""
+                }
+            ],
+            "priorityAccessCosts": [],
+            "priorityAccessHash": 0,
+            "requirements": [],
+            "slots": [
+                {
+                    "hash": 1426626782,
+                    "quantity": -1
+                },
+                {
+                    "hash": -1360128126,
+                    "quantity": -1
+                },
+                {
+                    "hash": -673000374,
+                    "quantity": 0
+                },
+                {
+                    "hash": 1084182731,
+                    "quantity": 3
+                },
+                {
+                    "hash": -1098528034,
+                    "quantity": 2
+                },
+                {
+                    "hash": 74547781,
+                    "quantity": 94
+                }
+            ],
+            "tags": [
+                -193035453,
+                1147021565,
+                -1457797660,
+                1859991422,
+                -2085281117
+            ],
+            "webDescription1": "Bartlett Pear. Can be used for canning, or cajoling horses.",
+            "webDescription2": "",
+            "webHeadline1": "",
+            "webHeadline2": "",
+            "id": "0d51350f",
+            "variations": []
+        },
+        {
+            "brand": "732bc906",
+            "categories": [
+                "36dd3c68/ccd1e17b"
+            ],
+            "clothingVariations": [],
+            "costDefault": {
+                "currencyHash": 2084597891,
+                "nameHash": -915411861,
+                "isFromPrice": false,
+                "price": 50,
+                "quantity": 1,
+                "unlockEnums": [],
+                "unlockIds": []
+            },
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 50,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ],
+            "costOther": [],
+            "description": "Peach grown on local orchards, guaranteed fresh and not too soft. Perfect for a cobbler.",
+            "englishName": "Fresh Peach",
+            "effects": [
+                {
+                    "hash": -816334026,
+                    "value": 3
+                },
+                {
+                    "hash": 1194731729,
+                    "value": 3
+                },
+                {
+                    "hash": 855745648,
+                    "value": 2
+                },
+                {
+                    "hash": -1918697215,
+                    "value": 2
+                },
+                {
+                    "hash": -416929031,
+                    "value": 1
+                },
+                {
+                    "hash": 1681823811,
+                    "value": 2
+                }
+            ],
+            "enumHash": 335540214,
+            "expiryStatus": "notExpired",
+            "name": "Fresh Peach",
+            "gameMode": "sp",
+            "group": "CONSUMABLE",
+            "horseVariations": [],
+            "images": [
+                {
+                    "type": 0,
+                    "url": "/global/catalog/rdr2/fe7fcdea/63a53aa4c1693b7a9622bdf91ebdae1a69e480f8.png",
+                    "altText": ""
+                },
+                {
+                    "type": 1,
+                    "url": "/global/catalog/rdr2/fe7fcdea/9c316cde82c5a076e34419e2edeb4da70931af86.png",
+                    "altText": ""
+                },
+                {
+                    "type": 12,
+                    "url": "/global/catalog/rdr2/fe7fcdea/10b3963dad6a52e2bd952e466c908d0e4b52c719.png",
+                    "altText": ""
+                },
+                {
+                    "type": 2,
+                    "url": "/global/catalog/rdr2/fe7fcdea/b41bb2251fedde1e8b45bbb3a7953311b37eb66f.jpg",
+                    "altText": ""
+                }
+            ],
+            "priorityAccessCosts": [],
+            "priorityAccessHash": 0,
+            "requirements": [],
+            "slots": [
+                {
+                    "hash": 1426626782,
+                    "quantity": -1
+                },
+                {
+                    "hash": -1360128126,
+                    "quantity": -1
+                },
+                {
+                    "hash": -673000374,
+                    "quantity": 0
+                },
+                {
+                    "hash": 1084182731,
+                    "quantity": 3
+                },
+                {
+                    "hash": -1098528034,
+                    "quantity": 2
+                },
+                {
+                    "hash": 74547781,
+                    "quantity": 94
+                }
+            ],
+            "tags": [
+                -193035453,
+                1147021565,
+                -184192090,
+                -1457797660,
+                1859991422,
+                -2085281117
+            ],
+            "webDescription1": "Peach grown on local orchards, guaranteed fresh and not too soft. Perfect for a cobbler.",
+            "webDescription2": "",
+            "webHeadline1": "",
+            "webHeadline2": "",
+            "id": "c835ee5e",
+            "variations": []
+        },
+        {
+            "brand": "732bc906",
+            "categories": [
+                "36dd3c68/ccd1e17b"
+            ],
+            "clothingVariations": [],
+            "costDefault": {
+                "currencyHash": 2084597891,
+                "nameHash": -915411861,
+                "isFromPrice": false,
+                "price": 50,
+                "quantity": 1,
+                "unlockEnums": [],
+                "unlockIds": []
+            },
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 50,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ],
+            "costOther": [],
+            "description": "Carrots are a favorite item for stews, casseroles, cakes or as a treat for your horse.",
+            "englishName": "Local Carrot",
+            "effects": [
+                {
+                    "hash": -816334026,
+                    "value": 3
+                },
+                {
+                    "hash": 1194731729,
+                    "value": 3
+                },
+                {
+                    "hash": -1918697215,
+                    "value": 5
+                },
+                {
+                    "hash": 855745648,
+                    "value": 5
+                },
+                {
+                    "hash": 1681823811,
+                    "value": 1
+                },
+                {
+                    "hash": -416929031,
+                    "value": 2
+                }
+            ],
+            "enumHash": 516844411,
+            "expiryStatus": "notExpired",
+            "name": "Local Carrot",
+            "gameMode": "sp",
+            "group": "CONSUMABLE",
+            "horseVariations": [],
+            "images": [
+                {
+                    "type": 0,
+                    "url": "/global/catalog/rdr2/1c005ceb/85c115c53aea9bef61657da817c4f8b7306f4597.png",
+                    "altText": ""
+                },
+                {
+                    "type": 1,
+                    "url": "/global/catalog/rdr2/1c005ceb/7a3a542bfac009a8669b8c4764f510969ef06589.png",
+                    "altText": ""
+                },
+                {
+                    "type": 2,
+                    "url": "/global/catalog/rdr2/1c005ceb/1bf837505632481b4b9c09c261fed5fdd7a17db5.jpg",
+                    "altText": ""
+                }
+            ],
+            "priorityAccessCosts": [],
+            "priorityAccessHash": 0,
+            "requirements": [],
+            "slots": [
+                {
+                    "hash": 1426626782,
+                    "quantity": -1
+                },
+                {
+                    "hash": -1360128126,
+                    "quantity": -1
+                },
+                {
+                    "hash": -673000374,
+                    "quantity": 0
+                },
+                {
+                    "hash": 1084182731,
+                    "quantity": 3
+                },
+                {
+                    "hash": -1098528034,
+                    "quantity": 2
+                },
+                {
+                    "hash": 74547781,
+                    "quantity": 94
+                }
+            ],
+            "tags": [
+                -193035453,
+                1147021565,
+                -1457797660,
+                -1915958659,
+                -2085281117
+            ],
+            "webDescription1": "Carrots are a favorite item for stews, casseroles, cakes or as a treat for your horse.",
+            "webDescription2": "",
+            "webHeadline1": "",
+            "webHeadline2": "",
+            "id": "438d19b3",
+            "variations": []
+        },
+        {
+            "brand": "732bc906",
+            "categories": [
+                "36dd3c68/ccd1e17b"
+            ],
+            "clothingVariations": [],
+            "costDefault": {
+                "currencyHash": 2084597891,
+                "nameHash": -915411861,
+                "isFromPrice": false,
+                "price": 40,
+                "quantity": 1,
+                "unlockEnums": [],
+                "unlockIds": []
+            },
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 40,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ],
+            "costOther": [],
+            "description": "Fresh picked corn, free of canker or blight.",
+            "englishName": "Hand Picked Corn ",
+            "effects": [
+                {
+                    "hash": -816334026,
+                    "value": 3
+                },
+                {
+                    "hash": 1194731729,
+                    "value": 5
+                },
+                {
+                    "hash": 855745648,
+                    "value": 4
+                },
+                {
+                    "hash": -1918697215,
+                    "value": 4
+                },
+                {
+                    "hash": -416929031,
+                    "value": 2
+                }
+            ],
+            "enumHash": -947702135,
+            "expiryStatus": "notExpired",
+            "name": "Hand Picked Corn ",
+            "gameMode": "sp",
+            "group": "CONSUMABLE",
+            "horseVariations": [],
+            "images": [
+                {
+                    "type": 0,
+                    "url": "/global/catalog/rdr2/033f0026/940bcedcf1d7b10c1debbd6692d6bdf47a685d0e.png",
+                    "altText": ""
+                },
+                {
+                    "type": 1,
+                    "url": "/global/catalog/rdr2/033f0026/c17a43a61082d3aca826dad3dbb5765216cb9182.png",
+                    "altText": ""
+                },
+                {
+                    "type": 2,
+                    "url": "/global/catalog/rdr2/033f0026/4361e7ffdcf040c110e5f3670352a15d8fb7b6a1.jpg",
+                    "altText": ""
+                }
+            ],
+            "priorityAccessCosts": [],
+            "priorityAccessHash": 0,
+            "requirements": [],
+            "slots": [
+                {
+                    "hash": 1426626782,
+                    "quantity": -1
+                },
+                {
+                    "hash": -1360128126,
+                    "quantity": -1
+                },
+                {
+                    "hash": -673000374,
+                    "quantity": 0
+                },
+                {
+                    "hash": 1084182731,
+                    "quantity": 3
+                },
+                {
+                    "hash": -1098528034,
+                    "quantity": 2
+                },
+                {
+                    "hash": 74547781,
+                    "quantity": 94
+                }
+            ],
+            "tags": [
+                -193035453,
+                1147021565,
+                -1457797660,
+                -2085281117,
+                89124942
+            ],
+            "webDescription1": "Fresh picked corn, free of canker or blight.",
+            "webDescription2": "",
+            "webHeadline1": "",
+            "webHeadline2": "",
+            "id": "8de3ec1f",
+            "variations": []
+        },
+        {
+            "brand": "732bc906",
+            "categories": [
+                "36dd3c68/ccd1e17b"
+            ],
+            "clothingVariations": [],
+            "costDefault": {
+                "currencyHash": 2084597891,
+                "nameHash": -915411861,
+                "isFromPrice": false,
+                "price": 40,
+                "quantity": 1,
+                "unlockEnums": [],
+                "unlockIds": []
+            },
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 40,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ],
+            "costOther": [],
+            "description": "From a local orchard. Delicious fresh taste and worm free, mostly. A perfect healthy treat for man or beast.",
+            "englishName": "Orchard Apple",
+            "effects": [
+                {
+                    "hash": 1194731729,
+                    "value": 3
+                },
+                {
+                    "hash": -1918697215,
+                    "value": 2
+                },
+                {
+                    "hash": 855745648,
+                    "value": 2
+                },
+                {
+                    "hash": -816334026,
+                    "value": 3
+                },
+                {
+                    "hash": 1681823811,
+                    "value": 2
+                },
+                {
+                    "hash": -416929031,
+                    "value": 1
+                }
+            ],
+            "enumHash": 1533677103,
+            "expiryStatus": "notExpired",
+            "name": "Orchard Apple",
+            "gameMode": "sp",
+            "group": "CONSUMABLE",
+            "horseVariations": [],
+            "images": [
+                {
+                    "type": 0,
+                    "url": "/global/catalog/rdr2/88f08ef3/16aeed234324b57a6899dee8826abdb06223f790.png",
+                    "altText": ""
+                },
+                {
+                    "type": 1,
+                    "url": "/global/catalog/rdr2/88f08ef3/29177fbe77292b70924a94902a5e46dd91f5592c.png",
+                    "altText": ""
+                },
+                {
+                    "type": 12,
+                    "url": "/global/catalog/rdr2/88f08ef3/cb9e045516b3ae4baa75fbd1d70c1bd93fb5b4da.png",
+                    "altText": ""
+                },
+                {
+                    "type": 2,
+                    "url": "/global/catalog/rdr2/88f08ef3/979503ef2ee059fbaf14ab64522f5409f9064586.jpg",
+                    "altText": ""
+                }
+            ],
+            "priorityAccessCosts": [],
+            "priorityAccessHash": 0,
+            "requirements": [],
+            "slots": [
+                {
+                    "hash": 1426626782,
+                    "quantity": -1
+                },
+                {
+                    "hash": -1360128126,
+                    "quantity": -1
+                },
+                {
+                    "hash": -673000374,
+                    "quantity": 0
+                },
+                {
+                    "hash": 1084182731,
+                    "quantity": 3
+                },
+                {
+                    "hash": -1098528034,
+                    "quantity": 2
+                },
+                {
+                    "hash": 74547781,
+                    "quantity": 94
+                }
+            ],
+            "tags": [
+                -193035453,
+                1147021565,
+                -1457797660,
+                1859991422,
+                -2085281117
+            ],
+            "webDescription1": "From a local orchard. Delicious fresh taste and worm free, mostly. A perfect healthy treat for man or beast.",
+            "webDescription2": "",
+            "webHeadline1": "",
+            "webHeadline2": "",
+            "id": "b8da717f",
+            "variations": []
+        },
+        {
+            "brand": "732bc906",
+            "categories": [
+                "36dd3c68/ce7e2dec"
+            ],
+            "clothingVariations": [],
+            "costDefault": {
+                "currencyHash": 2084597891,
+                "nameHash": -915411861,
+                "isFromPrice": false,
+                "price": 40,
+                "quantity": 1,
+                "unlockEnums": [],
+                "unlockIds": []
+            },
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 40,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ],
+            "costOther": [],
+            "description": "Baked Bread. Made fresh daily from a recipe handed down through generations.",
+            "englishName": "Bread Roll",
+            "effects": [
+                {
+                    "hash": -816334026,
+                    "value": 3
+                },
+                {
+                    "hash": -416929031,
+                    "value": 2
+                }
+            ],
+            "enumHash": 925643953,
+            "expiryStatus": "notExpired",
+            "name": "Bread Roll",
+            "gameMode": "sp",
+            "group": "CONSUMABLE",
+            "horseVariations": [],
+            "images": [
+                {
+                    "type": 0,
+                    "url": "/global/catalog/rdr2/00712bd8/11176fbb2124586470a06ade699495044d05eca2.png",
+                    "altText": ""
+                },
+                {
+                    "type": 1,
+                    "url": "/global/catalog/rdr2/00712bd8/1b0200fd3a62d259e337fd5d4c72043a35edfec5.png",
+                    "altText": ""
+                },
+                {
+                    "type": 2,
+                    "url": "/global/catalog/rdr2/00712bd8/3fea66a1b23a784a33007d99531266c01e46d650.jpg",
+                    "altText": ""
+                }
+            ],
+            "priorityAccessCosts": [],
+            "priorityAccessHash": 0,
+            "requirements": [],
+            "slots": [
+                {
+                    "hash": 1426626782,
+                    "quantity": -1
+                },
+                {
+                    "hash": -1360128126,
+                    "quantity": -1
+                },
+                {
+                    "hash": -673000374,
+                    "quantity": 0
+                },
+                {
+                    "hash": 1084182731,
+                    "quantity": 3
+                },
+                {
+                    "hash": -1098528034,
+                    "quantity": 2
+                },
+                {
+                    "hash": 74547781,
+                    "quantity": 94
+                }
+            ],
+            "tags": [
+                -193035453,
+                873821198,
+                1147021565,
+                791664616,
+                -1457797660,
+                -524514947,
+                1891031775,
+                -2085281117
+            ],
+            "webDescription1": "Baked Bread. Made fresh daily from a recipe handed down through generations.",
+            "webDescription2": "",
+            "webHeadline1": "",
+            "webHeadline2": "",
+            "id": "0548021e",
+            "variations": []
+        }
+    ],
+    "aggs": {
+        "maxPrice": 0,
+        "minPrice": 0,
+        "maxGoldPrice": 0,
+        "minGoldPrice": 0,
+        "maxTokenPrice": 0,
+        "minTokenPrice": 0,
+        "minUnlockRanks": {},
+        "catCounts": [
+            {
+                "name": "36dd3c68",
+                "count": 36
+            },
+            {
+                "name": "c8c1fe88",
+                "count": 1
+            }
+        ],
+        "brandCounts": []
+    },
+    "status": true
+}
