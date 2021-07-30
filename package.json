@@ -16,8 +16,12 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "tsc && node dist/scraper.js",
-    "parse:stripped": "tsc && node dist/scraper.js --stripped > ./scraping/categories-enum-hash-to-2s-hex-stripped.json",
-    "parse:full": "tsc && node dist/scraper.js --full > ./scraping/categories-enum-hash-to-2s-hex-full.json"
+    "parse:minified": "tsc && node dist/scraper.js minified > ./results/parser/2shex/minified.json",
+    "parse:raw": "tsc && node dist/scraper.js raw > ./results/parser/2shex/raw.json",
+    "parse:concat": "tsc && node dist/scraper.js concat:clothes > ./results/parser/concat/clothes.json",
+    "parse:concat:singleplayer": "tsc && node dist/scraper.js concat:clothes --mode=singleplayer > ./results/parser/concat/clothes-singleplayer.json",
+    "parse:concat:multiplayer": "tsc && node dist/scraper.js concat:clothes --mode=multiplayer > ./results/parser/concat/clothes-multiplayer.json",
+    "parse:concat:build": "npm run parse:concat:singleplayer && npm run parse:concat:multiplayer && copy .\\results\\parser\\concat\\clothes-singleplayer.json .\\results\\scraper\\singleplayer\\a0f21ff8-clothing.json && copy .\\results\\parser\\concat\\clothes-multiplayer.json .\\results\\scraper\\multiplayer\\a0f21ff8-clothing.json"
   },
   "repository": {
     "type": "git",
