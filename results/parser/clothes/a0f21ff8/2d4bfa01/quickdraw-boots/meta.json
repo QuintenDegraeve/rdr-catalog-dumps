@@ -1,0 +1,214 @@
+{
+    "id": "a86f392c",
+    "name": "Quickdraw Boots",
+    "brand": "e28b46eb",
+    "categories": [
+        "a0f21ff8/2d4bfa01"
+    ],
+    "description": "Hand tooled and custom stitched Quickdraw Boots. We cannot hesitate to warrant this boot to satisfy in the way that only a good pair of boots can.  ",
+    "variations": [
+        {
+            "itemId": "0568e734",
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 2250,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ]
+        },
+        {
+            "itemId": "59e0293b",
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 2250,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ]
+        },
+        {
+            "itemId": "d3ae03bf",
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 2250,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ]
+        },
+        {
+            "itemId": "6743aae8",
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 2250,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ]
+        },
+        {
+            "itemId": "4a61f125",
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 2250,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ]
+        },
+        {
+            "itemId": "cb92738c",
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 2250,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ]
+        },
+        {
+            "itemId": "af27bab7",
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 2250,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ]
+        }
+    ],
+    "clothingVariations": [
+        {
+            "twHex": "5fe31e18",
+            "itemId": "0568e734",
+            "enumHash": 1608719896,
+            "thumbnailUrl": "/global/catalog/rdr2/7b057d60/891820a9027277ea2cd031ed1f2724c887be843f.png",
+            "requirements": [],
+            "tags": [
+                192212755,
+                -1686717438,
+                -1529356747
+            ]
+        },
+        {
+            "twHex": "cdd9aee4",
+            "itemId": "59e0293b",
+            "enumHash": -841371932,
+            "thumbnailUrl": "/global/catalog/rdr2/3d383457/90cc5eeb19836fc49ef4fbc87f43838e20b27908.png",
+            "requirements": [],
+            "tags": [
+                192212755,
+                1211062975,
+                -1529356747
+            ]
+        },
+        {
+            "twHex": "4e607b13",
+            "itemId": "d3ae03bf",
+            "enumHash": 1314945811,
+            "thumbnailUrl": "/global/catalog/rdr2/6a6ddc2d/2fbfd969931e3a5bdbf1b0b045e6613332237a6c.png",
+            "requirements": [],
+            "tags": [
+                192212755,
+                -1686717438,
+                -1529356747
+            ]
+        },
+        {
+            "twHex": "a14ca0ea",
+            "itemId": "6743aae8",
+            "enumHash": -1588813590,
+            "thumbnailUrl": "/global/catalog/rdr2/05e99326/1f8a0b0e071b69af1833685903e6a1984249f691.png",
+            "requirements": [],
+            "tags": [
+                192212755,
+                -1686717438,
+                -1529356747
+            ]
+        },
+        {
+            "twHex": "8599e985",
+            "itemId": "4a61f125",
+            "enumHash": -2053510779,
+            "thumbnailUrl": "/global/catalog/rdr2/336a6e27/588ca90822ae5c5aa8837b6bba12564ac11c4d47.png",
+            "requirements": [],
+            "tags": [
+                192212755,
+                1211062975,
+                -1529356747
+            ]
+        },
+        {
+            "twHex": "0ab3f3bf",
+            "itemId": "cb92738c",
+            "enumHash": 179565503,
+            "thumbnailUrl": "/global/catalog/rdr2/bcfe8151/8f1a203362a3b2d49cc75f5b70d9e642004902fd.png",
+            "requirements": [],
+            "tags": [
+                192212755,
+                1211062975,
+                -1529356747
+            ]
+        },
+        {
+            "twHex": "ed163884",
+            "itemId": "af27bab7",
+            "enumHash": -317310844,
+            "thumbnailUrl": "/global/catalog/rdr2/e87c584c/ab3d26166614c4ff711bd15c4d873a99496e9cf0.png",
+            "requirements": [],
+            "tags": [
+                192212755,
+                1211062975,
+                -1529356747
+            ]
+        }
+    ],
+    "group": "CLOTHING",
+    "images": [
+        {
+            "type": 0,
+            "url": "/global/catalog/rdr2/db32545d/bf11611295c20ec70bc1eeb957bf39af04df1f73.png",
+            "altText": ""
+        },
+        {
+            "type": 1,
+            "url": "/global/catalog/rdr2/db32545d/ccd9e61f3aef417118a8cb0ce7e795d49825443d.png",
+            "altText": ""
+        }
+    ],
+    "slots": [
+        {
+            "hash": -673000374,
+            "quantity": 1
+        }
+    ]
+}

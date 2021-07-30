@@ -1,0 +1,168 @@
+{
+    "id": "da8e1e81",
+    "name": "Sleeked Riding Boots",
+    "brand": "e28b46eb",
+    "categories": [
+        "a0f21ff8/2d4bfa01"
+    ],
+    "description": "Men’s Riding Boots. Sleeked calfskin. Fowler shaped toe, stovepipe shaft. Solid counters and inner soles. A first-class calf boot at low class prices. ",
+    "variations": [
+        {
+            "itemId": "491fd55d",
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 1475,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ]
+        },
+        {
+            "itemId": "0696d048",
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 1475,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ]
+        },
+        {
+            "itemId": "3c593bcc",
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 1475,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ]
+        },
+        {
+            "itemId": "17b67287",
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 1475,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ]
+        },
+        {
+            "itemId": "d1af667a",
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 1475,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ]
+        }
+    ],
+    "clothingVariations": [
+        {
+            "twHex": "88aa25ab",
+            "itemId": "491fd55d",
+            "enumHash": -2002115157,
+            "thumbnailUrl": "/global/catalog/rdr2/727e7821/4d72aef4660c46227a39d31e7248f2207013f9ba.png",
+            "requirements": [
+                {
+                    "type": -253134813,
+                    "value": "-1130204298"
+                }
+            ],
+            "tags": [
+                1379565118,
+                2128990911,
+                1211062975,
+                -1529356747
+            ]
+        },
+        {
+            "twHex": "d67d414c",
+            "itemId": "0696d048",
+            "enumHash": -696434356,
+            "thumbnailUrl": "/global/catalog/rdr2/5db4ce92/08caaac0c18522e9be05f075f9ebd473e66b76c2.png",
+            "requirements": [],
+            "tags": [
+                2128990911,
+                -1686717438,
+                -1529356747
+            ]
+        },
+        {
+            "twHex": "39fd0852",
+            "itemId": "3c593bcc",
+            "enumHash": 972884050,
+            "thumbnailUrl": "/global/catalog/rdr2/7f021130/f1b41d721cecb767833becd660ca2b9eb9d40cea.png",
+            "requirements": [],
+            "tags": [
+                2128990911,
+                -1686717438,
+                -1529356747
+            ]
+        },
+        {
+            "twHex": "9f3252bb",
+            "itemId": "17b67287",
+            "enumHash": -1624091973,
+            "thumbnailUrl": "/global/catalog/rdr2/a09f546a/ec73ffc3f7695b805f550428ba8fde8b53ca5fae.png",
+            "requirements": [],
+            "tags": [
+                2128990911,
+                1211062975,
+                -1529356747
+            ]
+        },
+        {
+            "twHex": "51c337de",
+            "itemId": "d1af667a",
+            "enumHash": 1371748318,
+            "thumbnailUrl": "/global/catalog/rdr2/d276b818/7417024176635c059d3df5a86161de8ab7aae408.png",
+            "requirements": [],
+            "tags": [
+                2128990911,
+                1211062975,
+                -1529356747
+            ]
+        }
+    ],
+    "group": "CLOTHING",
+    "images": [
+        {
+            "type": 0,
+            "url": "/global/catalog/rdr2/b3c0ea93/a2bd909c88c592f70ec1b26c20ece6fe9121e5d0.png",
+            "altText": ""
+        },
+        {
+            "type": 1,
+            "url": "/global/catalog/rdr2/b3c0ea93/c0e6edfe4cb787b8c601610b9b9bf521d68e1b69.png",
+            "altText": ""
+        }
+    ],
+    "slots": [
+        {
+            "hash": -673000374,
+            "quantity": 1
+        }
+    ]
+}

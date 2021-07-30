@@ -1,0 +1,473 @@
+{
+    "id": "60b8240e",
+    "name": "Reaves Top Hat",
+    "brand": "e28b46eb",
+    "categories": [
+        "a0f21ff8/0d073718",
+        "a0f21ff8/b2f9966d"
+    ],
+    "description": "A relaxed top hat, unstructured and finished with a thin tie brim. Fully warranted.",
+    "variations": [
+        {
+            "itemId": "15835724",
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 19525,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                },
+                {
+                    "currencyHash": 773203532,
+                    "nameHash": -570078785,
+                    "isFromPrice": false,
+                    "price": 800,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                },
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": 1070046552,
+                    "offerEnumHash": -701318511,
+                    "isFromPrice": false,
+                    "price": 9762,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                },
+                {
+                    "currencyHash": 0,
+                    "nameHash": 205718222,
+                    "rewardEnumHash": -1768487879,
+                    "isFromPrice": false,
+                    "price": 0,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ]
+        },
+        {
+            "itemId": "434232a1",
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 19525,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                },
+                {
+                    "currencyHash": 773203532,
+                    "nameHash": -570078785,
+                    "isFromPrice": false,
+                    "price": 800,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                },
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": 1070046552,
+                    "offerEnumHash": -701318511,
+                    "isFromPrice": false,
+                    "price": 9762,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                },
+                {
+                    "currencyHash": 0,
+                    "nameHash": 205718222,
+                    "rewardEnumHash": -1768487879,
+                    "isFromPrice": false,
+                    "price": 0,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ]
+        },
+        {
+            "itemId": "f9fd2018",
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 19525,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                },
+                {
+                    "currencyHash": 773203532,
+                    "nameHash": -570078785,
+                    "isFromPrice": false,
+                    "price": 800,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                },
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": 1070046552,
+                    "offerEnumHash": -701318511,
+                    "isFromPrice": false,
+                    "price": 9762,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                },
+                {
+                    "currencyHash": 0,
+                    "nameHash": 205718222,
+                    "rewardEnumHash": -1768487879,
+                    "isFromPrice": false,
+                    "price": 0,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ]
+        },
+        {
+            "itemId": "27c67baa",
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 19525,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                },
+                {
+                    "currencyHash": 773203532,
+                    "nameHash": -570078785,
+                    "isFromPrice": false,
+                    "price": 800,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                },
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": 1070046552,
+                    "offerEnumHash": -701318511,
+                    "isFromPrice": false,
+                    "price": 9762,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                },
+                {
+                    "currencyHash": 0,
+                    "nameHash": 205718222,
+                    "rewardEnumHash": -1768487879,
+                    "isFromPrice": false,
+                    "price": 0,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ]
+        },
+        {
+            "itemId": "6796fb1a",
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 19525,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                },
+                {
+                    "currencyHash": 773203532,
+                    "nameHash": -570078785,
+                    "isFromPrice": false,
+                    "price": 800,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                },
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": 1070046552,
+                    "offerEnumHash": -701318511,
+                    "isFromPrice": false,
+                    "price": 9762,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                },
+                {
+                    "currencyHash": 0,
+                    "nameHash": 205718222,
+                    "rewardEnumHash": -1768487879,
+                    "isFromPrice": false,
+                    "price": 0,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ]
+        },
+        {
+            "itemId": "3a4da088",
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 19525,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                },
+                {
+                    "currencyHash": 773203532,
+                    "nameHash": -570078785,
+                    "isFromPrice": false,
+                    "price": 800,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                },
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": 1070046552,
+                    "offerEnumHash": -701318511,
+                    "isFromPrice": false,
+                    "price": 9762,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                },
+                {
+                    "currencyHash": 0,
+                    "nameHash": 205718222,
+                    "rewardEnumHash": -1768487879,
+                    "isFromPrice": false,
+                    "price": 0,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ]
+        },
+        {
+            "itemId": "0381b2f1",
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 19525,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                },
+                {
+                    "currencyHash": 773203532,
+                    "nameHash": -570078785,
+                    "isFromPrice": false,
+                    "price": 800,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                },
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": 1070046552,
+                    "offerEnumHash": -701318511,
+                    "isFromPrice": false,
+                    "price": 9762,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                },
+                {
+                    "currencyHash": 0,
+                    "nameHash": 205718222,
+                    "rewardEnumHash": -1768487879,
+                    "isFromPrice": false,
+                    "price": 0,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ]
+        },
+        {
+            "itemId": "55d3d794",
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 19525,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                },
+                {
+                    "currencyHash": 773203532,
+                    "nameHash": -570078785,
+                    "isFromPrice": false,
+                    "price": 800,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                },
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": 1070046552,
+                    "offerEnumHash": -701318511,
+                    "isFromPrice": false,
+                    "price": 9762,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                },
+                {
+                    "currencyHash": 0,
+                    "nameHash": 205718222,
+                    "rewardEnumHash": -1768487879,
+                    "isFromPrice": false,
+                    "price": 0,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ]
+        }
+    ],
+    "clothingVariations": [
+        {
+            "twHex": "8c52d1b6",
+            "itemId": "15835724",
+            "enumHash": -1940729418,
+            "thumbnailUrl": "/global/catalog/rdr2/48cc7b83/c5fb87376ea4b5b48db198d03a34a42a0730135b.png",
+            "unlockRank": 1,
+            "requirements": [],
+            "tags": [
+                -287432114,
+                -259742182
+            ]
+        },
+        {
+            "twHex": "9e25755b",
+            "itemId": "434232a1",
+            "enumHash": -1641712293,
+            "thumbnailUrl": "/global/catalog/rdr2/d6949715/9e39e4708cad04c8ea0a7be558c5aa19cedb9464.png",
+            "unlockRank": 1,
+            "requirements": [],
+            "tags": [
+                -287432114,
+                -259742182
+            ]
+        },
+        {
+            "twHex": "da7bee17",
+            "itemId": "f9fd2018",
+            "enumHash": -629412329,
+            "thumbnailUrl": "/global/catalog/rdr2/51248c2f/8da61f13f3a7a9447f22e349358afd8e887dd01b.png",
+            "unlockRank": 1,
+            "requirements": [],
+            "tags": [
+                -287432114,
+                -259742182
+            ]
+        },
+        {
+            "twHex": "7c3a3185",
+            "itemId": "27c67baa",
+            "enumHash": 2084188549,
+            "thumbnailUrl": "/global/catalog/rdr2/62632eac/2edef9221b1dd99d26bd59cac1ad43932f34ff84.png",
+            "unlockRank": 1,
+            "requirements": [],
+            "tags": [
+                -287432114,
+                -259742182
+            ]
+        },
+        {
+            "twHex": "b706272c",
+            "itemId": "6796fb1a",
+            "enumHash": -1224333524,
+            "thumbnailUrl": "/global/catalog/rdr2/6d8144e8/9a1f85d1dfafee8bfab89e4b8876f5b669de9d1e.png",
+            "unlockRank": 1,
+            "requirements": [],
+            "tags": [
+                -287432114,
+                -259742182
+            ]
+        },
+        {
+            "twHex": "c9344b88",
+            "itemId": "3a4da088",
+            "enumHash": -919319672,
+            "thumbnailUrl": "/global/catalog/rdr2/7bd8e197/1a0094e78c4acb35d2fd091bce9f2b122a212b64.png",
+            "unlockRank": 1,
+            "requirements": [],
+            "tags": [
+                -287432114,
+                -259742182
+            ]
+        },
+        {
+            "twHex": "152de37a",
+            "itemId": "0381b2f1",
+            "enumHash": 355328890,
+            "thumbnailUrl": "/global/catalog/rdr2/9d0ea406/e023de57e9aba2fccc4803770841453bf1e8803c.png",
+            "unlockRank": 1,
+            "requirements": [],
+            "tags": [
+                -287432114,
+                -259742182
+            ]
+        },
+        {
+            "twHex": "a75f87df",
+            "itemId": "55d3d794",
+            "enumHash": -1486911521,
+            "thumbnailUrl": "/global/catalog/rdr2/ab564095/43dd10f575a6c411390e60b0e1233a9dcaea7695.png",
+            "unlockRank": 1,
+            "requirements": [],
+            "tags": [
+                -287432114,
+                -259742182
+            ]
+        }
+    ],
+    "group": "CLOTHING",
+    "images": [
+        {
+            "type": 0,
+            "url": "/global/catalog/rdr2/b28d1f02/4702ecb2385eb88ece17724c0cebc6aeb06ffc89.png",
+            "altText": ""
+        },
+        {
+            "type": 1,
+            "url": "/global/catalog/rdr2/b28d1f02/1c243d08b8ef9b928544b3824c018077a14e2b3a.png",
+            "altText": ""
+        }
+    ],
+    "slots": [
+        {
+            "hash": -673000374,
+            "quantity": 1
+        }
+    ]
+}

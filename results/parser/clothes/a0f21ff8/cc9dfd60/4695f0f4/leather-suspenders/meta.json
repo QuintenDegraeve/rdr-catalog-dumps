@@ -1,0 +1,275 @@
+{
+    "id": "f50be59a",
+    "name": "Leather Suspenders",
+    "brand": "e28b46eb",
+    "categories": [
+        "a0f21ff8/cc9dfd60/4695f0f4"
+    ],
+    "description": "Men's Leather Suspenders. Split front Y back. These are the finest sanitary suspenders in the world.",
+    "variations": [
+        {
+            "itemId": "e317764d",
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 300,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ]
+        },
+        {
+            "itemId": "bfb34dbc",
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 300,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ]
+        },
+        {
+            "itemId": "b039aec9",
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 300,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ]
+        },
+        {
+            "itemId": "2aa1a3a3",
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 300,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ]
+        },
+        {
+            "itemId": "1eef8c3f",
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 300,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ]
+        },
+        {
+            "itemId": "66419ae2",
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 300,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ]
+        },
+        {
+            "itemId": "3c704740",
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 300,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ]
+        },
+        {
+            "itemId": "f1ac31b5",
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 300,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ]
+        },
+        {
+            "itemId": "e1e59228",
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 300,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ]
+        }
+    ],
+    "clothingVariations": [
+        {
+            "twHex": "374f306d",
+            "itemId": "e317764d",
+            "enumHash": 927936621,
+            "thumbnailUrl": "/global/catalog/rdr2/eed20c7d/6697c00e028fe805b1baf3e37aaf3c30fa2b17af.png",
+            "requirements": [],
+            "tags": [
+                -374818990,
+                1211062975
+            ]
+        },
+        {
+            "twHex": "a5220311",
+            "itemId": "bfb34dbc",
+            "enumHash": -1524497647,
+            "thumbnailUrl": "/global/catalog/rdr2/70127186/83b42e95757cef32721c678437a82d981e168482.png",
+            "requirements": [
+                {
+                    "type": -253134813,
+                    "value": "-1130204298"
+                }
+            ],
+            "tags": [
+                1690224211,
+                -374818990,
+                -1686717438
+            ]
+        },
+        {
+            "twHex": "178467d4",
+            "itemId": "b039aec9",
+            "enumHash": 394553300,
+            "thumbnailUrl": "/global/catalog/rdr2/80f01341/1cb745622684a36b479c97eeb7adb189d895b5b2.png",
+            "requirements": [],
+            "tags": [
+                -374818990,
+                -1686717438
+            ]
+        },
+        {
+            "twHex": "cfddd888",
+            "itemId": "2aa1a3a3",
+            "enumHash": -807544696,
+            "thumbnailUrl": "/global/catalog/rdr2/93b638cd/beac90c747b4c6022565a0dbe11c4e83c47e2b0c.png",
+            "requirements": [],
+            "tags": [
+                -374818990,
+                -1686717438
+            ]
+        },
+        {
+            "twHex": "c1283b1d",
+            "itemId": "1eef8c3f",
+            "enumHash": -1054328035,
+            "thumbnailUrl": "/global/catalog/rdr2/14c1baea/f396e07937984fa2af6cdd6f10ccd188d7e599b5.png",
+            "requirements": [
+                {
+                    "type": -253134813,
+                    "value": "-1130204298"
+                }
+            ],
+            "tags": [
+                1713246822,
+                -374818990,
+                -1686717438
+            ]
+        },
+        {
+            "twHex": "6c38913f",
+            "itemId": "66419ae2",
+            "enumHash": 1815646527,
+            "thumbnailUrl": "/global/catalog/rdr2/1a0ac57c/180985589e413d31f1f2a1167c06426726a83d3c.png",
+            "requirements": [],
+            "tags": [
+                -374818990,
+                1211062975
+            ]
+        },
+        {
+            "twHex": "ddbef44a",
+            "itemId": "3c704740",
+            "enumHash": -574688182,
+            "thumbnailUrl": "/global/catalog/rdr2/293663d3/36a499a7f36814026510fb6efdc60367ccab1d74.png",
+            "requirements": [],
+            "tags": [
+                -374818990,
+                1211062975
+            ]
+        },
+        {
+            "twHex": "7700a6cb",
+            "itemId": "f1ac31b5",
+            "enumHash": 1996531403,
+            "thumbnailUrl": "/global/catalog/rdr2/3e5a8e17/6c2efbe7e5a3393dadbe063b893fcc5e1def7ec8.png",
+            "requirements": [],
+            "tags": [
+                -374818990,
+                1211062975
+            ]
+        },
+        {
+            "twHex": "684e8967",
+            "itemId": "e1e59228",
+            "enumHash": 1749977447,
+            "thumbnailUrl": "/global/catalog/rdr2/bef80f58/6c2efbe7e5a3393dadbe063b893fcc5e1def7ec8.png",
+            "requirements": [
+                {
+                    "type": -253134813,
+                    "value": "-1130204298"
+                }
+            ],
+            "tags": [
+                1379565118,
+                -374818990,
+                1211062975
+            ]
+        }
+    ],
+    "group": "CLOTHING",
+    "images": [
+        {
+            "type": 0,
+            "url": "/global/catalog/rdr2/70146693/c8d48e1635d17e8cf822fc38382371388d2b0d7d.png",
+            "altText": ""
+        },
+        {
+            "type": 1,
+            "url": "/global/catalog/rdr2/70146693/4378bacb4f3e501a251d77a15b0ecee123cf7f1e.png",
+            "altText": ""
+        }
+    ],
+    "slots": [
+        {
+            "hash": -673000374,
+            "quantity": 0
+        }
+    ]
+}

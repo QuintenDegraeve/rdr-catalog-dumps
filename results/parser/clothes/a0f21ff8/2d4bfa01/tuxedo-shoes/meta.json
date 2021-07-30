@@ -1,0 +1,90 @@
+{
+    "id": "9e1248ed",
+    "name": "Tuxedo Shoes",
+    "brand": "e28b46eb",
+    "categories": [
+        "a0f21ff8/2d4bfa01"
+    ],
+    "description": "Our most stylish gentleman’s ankle boot with fold over studded front and handstitched trim. Machine polished for an unearthly shine.",
+    "variations": [
+        {
+            "itemId": "1d5d36a6",
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 3175,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                },
+                {
+                    "currencyHash": 773203532,
+                    "nameHash": -570078785,
+                    "isFromPrice": false,
+                    "price": 200,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                },
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": 75922725,
+                    "offerEnumHash": -339828109,
+                    "isFromPrice": false,
+                    "price": 1587,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                },
+                {
+                    "currencyHash": 0,
+                    "nameHash": 866168015,
+                    "rewardEnumHash": -146027,
+                    "isFromPrice": false,
+                    "price": 0,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ]
+        }
+    ],
+    "clothingVariations": [
+        {
+            "twHex": "ec428525",
+            "itemId": "1d5d36a6",
+            "enumHash": -331184859,
+            "thumbnailUrl": "/global/catalog/rdr2/fce7337a/f9abf8461701974375c7830036e28baa0c07a5f2.png",
+            "unlockRank": 19,
+            "requirements": [],
+            "tags": [
+                -287432114,
+                813132419,
+                -1278198125,
+                821125322,
+                -1529356747
+            ]
+        }
+    ],
+    "group": "CLOTHING",
+    "images": [
+        {
+            "type": 0,
+            "url": "/global/catalog/rdr2/fcd2518c/6ae31b3731fdd58c94b10da7727409914bae6b16.png",
+            "altText": ""
+        },
+        {
+            "type": 1,
+            "url": "/global/catalog/rdr2/fcd2518c/5e1fc70e93033172614b2417d6a2d1be70151d25.png",
+            "altText": ""
+        }
+    ],
+    "slots": [
+        {
+            "hash": -673000374,
+            "quantity": 1
+        }
+    ]
+}

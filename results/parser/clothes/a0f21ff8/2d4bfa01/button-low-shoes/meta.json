@@ -1,0 +1,232 @@
+{
+    "id": "9fa928b8",
+    "name": "Button Low Shoes",
+    "brand": "e28b46eb",
+    "categories": [
+        "a0f21ff8/2d4bfa01"
+    ],
+    "description": "Men’s machine sewed calf Button Low Shoes. High quality, oiled leather, rubber welt. All solid.",
+    "variations": [
+        {
+            "itemId": "82540535",
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 1575,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ]
+        },
+        {
+            "itemId": "188284fb",
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 1575,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ]
+        },
+        {
+            "itemId": "8db79c20",
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 1575,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ]
+        },
+        {
+            "itemId": "989eb1ee",
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 1575,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ]
+        },
+        {
+            "itemId": "aa55555b",
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 1575,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ]
+        },
+        {
+            "itemId": "bb33f718",
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 1575,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ]
+        },
+        {
+            "itemId": "d46d296a",
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 1575,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ]
+        },
+        {
+            "itemId": "e796cfbd",
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 1575,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ]
+        }
+    ],
+    "clothingVariations": [
+        {
+            "twHex": "a5e419ed",
+            "itemId": "82540535",
+            "enumHash": -1511777811,
+            "thumbnailUrl": "/global/catalog/rdr2/c021acc8/e1bafac0c0336c26f5cac9d461bb24b7377933c1.png",
+            "requirements": [],
+            "tags": [
+                -1920503794,
+                -1529356747
+            ]
+        },
+        {
+            "twHex": "4ca21d9a",
+            "itemId": "188284fb",
+            "enumHash": 1285692826,
+            "thumbnailUrl": "/global/catalog/rdr2/f2dba955/83d2ee92e8479461610752ce93ea6d278cd33506.png",
+            "requirements": [],
+            "tags": [
+                -1920503794,
+                -1529356747
+            ]
+        },
+        {
+            "twHex": "c10ad03a",
+            "itemId": "8db79c20",
+            "enumHash": -1056255942,
+            "thumbnailUrl": "/global/catalog/rdr2/0bd9c43b/7cf946f80b7bfb28832dfd1df4c373c1aceca9bb.png",
+            "requirements": [],
+            "tags": [
+                -1920503794,
+                -1529356747
+            ]
+        },
+        {
+            "twHex": "cfc7edb4",
+            "itemId": "989eb1ee",
+            "enumHash": -808981068,
+            "thumbnailUrl": "/global/catalog/rdr2/3a13a0ae/d0fb0bf26daac12b2471590d68f4c26c0b37ddd7.png",
+            "requirements": [],
+            "tags": [
+                -1920503794,
+                -1529356747
+            ]
+        },
+        {
+            "twHex": "be854b2b",
+            "itemId": "aa55555b",
+            "enumHash": -1098560725,
+            "thumbnailUrl": "/global/catalog/rdr2/f34d9323/a540edec61a6d3ea069a295e57018c3c80af0194.png",
+            "requirements": [],
+            "tags": [
+                -1920503794,
+                -1529356747
+            ]
+        },
+        {
+            "twHex": "cb4364a7",
+            "itemId": "bb33f718",
+            "enumHash": -884775769,
+            "thumbnailUrl": "/global/catalog/rdr2/298fffa7/d15cbc7eb644b888f663d7a7fe41238980e44ce4.png",
+            "requirements": [],
+            "tags": [
+                -1920503794,
+                -1529356747
+            ]
+        },
+        {
+            "twHex": "da200264",
+            "itemId": "d46d296a",
+            "enumHash": -635436444,
+            "thumbnailUrl": "/global/catalog/rdr2/e08aedaa/17853fd14dbd27f45a9b0f14d2bea325618b76e4.png",
+            "requirements": [],
+            "tags": [
+                -1920503794,
+                -1529356747
+            ]
+        },
+        {
+            "twHex": "08e15fe6",
+            "itemId": "e796cfbd",
+            "enumHash": 148987878,
+            "thumbnailUrl": "/global/catalog/rdr2/a9cc802e/dc95f34014f86edd80026b71c75857043fec01c6.png",
+            "requirements": [],
+            "tags": [
+                -1920503794,
+                -1529356747
+            ]
+        }
+    ],
+    "group": "CLOTHING",
+    "images": [
+        {
+            "type": 0,
+            "url": "/global/catalog/rdr2/6b035919/0acf50a8161a70724501bdaef2391effabf1dc64.png",
+            "altText": ""
+        },
+        {
+            "type": 1,
+            "url": "/global/catalog/rdr2/6b035919/6767c785c7e777f5e1e10a29d9312f317dbca9c5.png",
+            "altText": ""
+        }
+    ],
+    "slots": [
+        {
+            "hash": -673000374,
+            "quantity": 1
+        }
+    ]
+}

@@ -1,0 +1,157 @@
+{
+    "id": "806b3e4c",
+    "name": "Estate Boss Hat ",
+    "brand": "e28b46eb",
+    "categories": [
+        "a0f21ff8/0d073718"
+    ],
+    "description": "The Estate Boss Hat with an open crown. The essential headwear for riding the outskirts of an estate and heaping abuse on hourly workers. ",
+    "variations": [
+        {
+            "itemId": "d7ccd52d",
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 1800,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ]
+        },
+        {
+            "itemId": "9a99dad0",
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 1800,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ]
+        },
+        {
+            "itemId": "5324cbdb",
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 1800,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ]
+        },
+        {
+            "itemId": "087e368f",
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 1800,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ]
+        },
+        {
+            "itemId": "33978cc1",
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 1800,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ]
+        }
+    ],
+    "clothingVariations": [
+        {
+            "twHex": "74454e7b",
+            "itemId": "d7ccd52d",
+            "enumHash": 1950699131,
+            "thumbnailUrl": "/global/catalog/rdr2/9c00cc21/e3774bee38d65a2a99dd128ab97e71caff91bfee.png",
+            "requirements": [],
+            "tags": [
+                207952927,
+                -1686717438
+            ]
+        },
+        {
+            "twHex": "3b0ddc0d",
+            "itemId": "9a99dad0",
+            "enumHash": 990764045,
+            "thumbnailUrl": "/global/catalog/rdr2/a4c65d70/be78127c204192df892ac8eec3e70f4cb0a2359e.png",
+            "requirements": [],
+            "tags": [
+                207952927,
+                -1686717438
+            ]
+        },
+        {
+            "twHex": "4c2f7e50",
+            "itemId": "5324cbdb",
+            "enumHash": 1278180944,
+            "thumbnailUrl": "/global/catalog/rdr2/d2fa39d7/0cbd8afe336f1214f294f7f695b1ce2bd98269c7.png",
+            "requirements": [],
+            "tags": [
+                207952927,
+                1211062975
+            ]
+        },
+        {
+            "twHex": "1a549a9b",
+            "itemId": "087e368f",
+            "enumHash": 441752219,
+            "thumbnailUrl": "/global/catalog/rdr2/8944a66d/e328709776e8e757b442628db4301958a6729ecd.png",
+            "requirements": [],
+            "tags": [
+                207952927,
+                1211062975
+            ]
+        },
+        {
+            "twHex": "82d3eb8c",
+            "itemId": "33978cc1",
+            "enumHash": -2100040820,
+            "thumbnailUrl": "/global/catalog/rdr2/77a90336/ea89d3c7c9b8167158f6e70f53ff5c39ece2c8f2.png",
+            "requirements": [],
+            "tags": [
+                207952927,
+                1211062975
+            ]
+        }
+    ],
+    "group": "CLOTHING",
+    "images": [
+        {
+            "type": 0,
+            "url": "/global/catalog/rdr2/29fa674d/144917a8e50c84853c2280540de1eb52d37e3701.png",
+            "altText": ""
+        },
+        {
+            "type": 1,
+            "url": "/global/catalog/rdr2/29fa674d/bcd268273ffd3dc76b3970a38647a0d6afa470c6.png",
+            "altText": ""
+        }
+    ],
+    "slots": [
+        {
+            "hash": -673000374,
+            "quantity": 0
+        }
+    ]
+}

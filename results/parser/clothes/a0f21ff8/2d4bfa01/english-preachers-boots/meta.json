@@ -1,0 +1,116 @@
+{
+    "id": "e10fb564",
+    "name": "English Preacher's Boots",
+    "brand": "e28b46eb",
+    "categories": [
+        "a0f21ff8/2d4bfa01"
+    ],
+    "description": "English Preacher's Boots. Oak English grain leather. Fowler shaped toe. Durable, fine for all occasions, especially revivals.",
+    "variations": [
+        {
+            "itemId": "82442063",
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 1500,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ]
+        },
+        {
+            "itemId": "4cd53586",
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 1500,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ]
+        },
+        {
+            "itemId": "c59026f2",
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 1500,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ]
+        }
+    ],
+    "clothingVariations": [
+        {
+            "twHex": "07134084",
+            "itemId": "82442063",
+            "enumHash": 118702212,
+            "thumbnailUrl": "/global/catalog/rdr2/184b1501/18100151d300cc5afecc93fe8ef53881d51bb597.png",
+            "requirements": [],
+            "tags": [
+                953207834,
+                1211062975,
+                -1529356747
+            ]
+        },
+        {
+            "twHex": "19c0e5df",
+            "itemId": "4cd53586",
+            "enumHash": 432072159,
+            "thumbnailUrl": "/global/catalog/rdr2/2901b66e/986c7a390e49b2287035eeaf364fa5d01b3b264e.png",
+            "requirements": [
+                {
+                    "type": -253134813,
+                    "value": "-1130204298"
+                }
+            ],
+            "tags": [
+                219566086,
+                953207834,
+                -1686717438,
+                -1529356747
+            ]
+        },
+        {
+            "twHex": "5f157083",
+            "itemId": "c59026f2",
+            "enumHash": 1595240579,
+            "thumbnailUrl": "/global/catalog/rdr2/fa76d959/74485f7aa64650d029c9996a503b17a6866fbf58.png",
+            "requirements": [],
+            "tags": [
+                953207834,
+                1211062975,
+                -1529356747
+            ]
+        }
+    ],
+    "group": "CLOTHING",
+    "images": [
+        {
+            "type": 0,
+            "url": "/global/catalog/rdr2/1728ceb5/4303040f7d7ebfc2cb3cb03521020bfa23e09c6c.png",
+            "altText": ""
+        },
+        {
+            "type": 1,
+            "url": "/global/catalog/rdr2/1728ceb5/0f7eadd94b38d458295834a2b500038d6edfe16f.png",
+            "altText": ""
+        }
+    ],
+    "slots": [
+        {
+            "hash": -673000374,
+            "quantity": 1
+        }
+    ]
+}

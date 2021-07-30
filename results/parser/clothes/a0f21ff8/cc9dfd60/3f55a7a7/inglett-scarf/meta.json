@@ -1,0 +1,221 @@
+{
+    "id": "cb92dff5",
+    "name": "Inglett Scarf",
+    "brand": "e28b46eb",
+    "categories": [
+        "a0f21ff8/cc9dfd60/3f55a7a7"
+    ],
+    "description": "A soft scarf with fringed ends available in a variety of dyed fur. Highly recommended.",
+    "variations": [
+        {
+            "itemId": "ebd485f2",
+            "costs": [
+                {
+                    "currencyHash": 773203532,
+                    "nameHash": -570078785,
+                    "isFromPrice": false,
+                    "price": 200,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ]
+        },
+        {
+            "itemId": "1603da50",
+            "costs": [
+                {
+                    "currencyHash": 773203532,
+                    "nameHash": -570078785,
+                    "isFromPrice": false,
+                    "price": 200,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ]
+        },
+        {
+            "itemId": "27317cab",
+            "costs": [
+                {
+                    "currencyHash": 773203532,
+                    "nameHash": -570078785,
+                    "isFromPrice": false,
+                    "price": 200,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ]
+        },
+        {
+            "itemId": "3179913f",
+            "costs": [
+                {
+                    "currencyHash": 773203532,
+                    "nameHash": -570078785,
+                    "isFromPrice": false,
+                    "price": 200,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ]
+        },
+        {
+            "itemId": "44ca37e0",
+            "costs": [
+                {
+                    "currencyHash": 773203532,
+                    "nameHash": -570078785,
+                    "isFromPrice": false,
+                    "price": 200,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ]
+        },
+        {
+            "itemId": "5d54e8f5",
+            "costs": [
+                {
+                    "currencyHash": 773203532,
+                    "nameHash": -570078785,
+                    "isFromPrice": false,
+                    "price": 200,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ]
+        },
+        {
+            "itemId": "6f028c50",
+            "costs": [
+                {
+                    "currencyHash": 773203532,
+                    "nameHash": -570078785,
+                    "isFromPrice": false,
+                    "price": 200,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ]
+        }
+    ],
+    "clothingVariations": [
+        {
+            "twHex": "a3f217fc",
+            "itemId": "ebd485f2",
+            "enumHash": -1544415236,
+            "thumbnailUrl": "/global/catalog/rdr2/569f35cf/1e75f6fadbf3c19d30ed2b6deac5eb475475b1f5.png",
+            "unlockRank": 1,
+            "requirements": [],
+            "tags": [
+                -133342564,
+                1911666637,
+                -1938332139
+            ]
+        },
+        {
+            "twHex": "9133727b",
+            "itemId": "1603da50",
+            "enumHash": -1858899333,
+            "thumbnailUrl": "/global/catalog/rdr2/a7bcd80d/2c01e8b159580dabba34ab37f527c35605cd7e50.png",
+            "unlockRank": 1,
+            "requirements": [],
+            "tags": [
+                -133342564,
+                1911666637,
+                -1938332139
+            ]
+        },
+        {
+            "twHex": "0d1d6a51",
+            "itemId": "27317cab",
+            "enumHash": 220031569,
+            "thumbnailUrl": "/global/catalog/rdr2/ba267ce0/bdb9d3606df5dbf6807909b88c57ef1136179ab2.png",
+            "unlockRank": 1,
+            "requirements": [],
+            "tags": [
+                -133342564,
+                1911666637,
+                -1938332139
+            ]
+        },
+        {
+            "twHex": "fb5a46cb",
+            "itemId": "3179913f",
+            "enumHash": -77969717,
+            "thumbnailUrl": "/global/catalog/rdr2/743af10a/7dd10fc5141a60568599b49db290e8795fb176d2.png",
+            "unlockRank": 1,
+            "requirements": [],
+            "tags": [
+                -133342564,
+                1911666637,
+                -1938332139
+            ]
+        },
+        {
+            "twHex": "e89ba14e",
+            "itemId": "44ca37e0",
+            "enumHash": -392453810,
+            "thumbnailUrl": "/global/catalog/rdr2/069495bf/16b087eebee684ab9fde6e98fb0c4b0030c3f9c0.png",
+            "unlockRank": 1,
+            "requirements": [],
+            "tags": [
+                -133342564,
+                1911666637,
+                -1938332139
+            ]
+        },
+        {
+            "twHex": "521a7446",
+            "itemId": "5d54e8f5",
+            "enumHash": 1377465414,
+            "thumbnailUrl": "/global/catalog/rdr2/69c1dc18/03f8eeb91515da25164bffcd53f59ebfaa4acec1.png",
+            "unlockRank": 1,
+            "requirements": [],
+            "tags": [
+                -133342564,
+                1911666637,
+                -1938332139
+            ]
+        },
+        {
+            "twHex": "42cd55ac",
+            "itemId": "6f028c50",
+            "enumHash": 1120753068,
+            "thumbnailUrl": "/global/catalog/rdr2/c2d30e39/90227c692918bef684c48f6e83807a7328073842.png",
+            "unlockRank": 1,
+            "requirements": [],
+            "tags": [
+                -133342564,
+                1911666637,
+                -1938332139
+            ]
+        }
+    ],
+    "group": "CLOTHING",
+    "images": [
+        {
+            "type": 0,
+            "url": "/global/catalog/rdr2/fa185112/4c0a45b25369f08b23b5b2bfb542e352ec0b0d0b.png",
+            "altText": ""
+        },
+        {
+            "type": 1,
+            "url": "/global/catalog/rdr2/fa185112/b7d5266255b0755083b5483312b3271fddeb7979.png",
+            "altText": ""
+        }
+    ],
+    "slots": [
+        {
+            "hash": -673000374,
+            "quantity": 1
+        }
+    ]
+}

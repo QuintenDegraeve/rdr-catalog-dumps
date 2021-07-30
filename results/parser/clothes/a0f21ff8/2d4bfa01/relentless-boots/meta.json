@@ -1,0 +1,188 @@
+{
+    "id": "4aaf89d2",
+    "name": "Relentless Boots",
+    "brand": "e28b46eb",
+    "categories": [
+        "a0f21ff8/2d4bfa01"
+    ],
+    "description": "Relentless Boots. Square shaped toe featuring hand tooled and stitched. Alligator skin and premium French calf leather.",
+    "variations": [
+        {
+            "itemId": "4ad1dc3c",
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 2625,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ]
+        },
+        {
+            "itemId": "94a12391",
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 2625,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ]
+        },
+        {
+            "itemId": "3518b0ca",
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 2625,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ]
+        },
+        {
+            "itemId": "45a951ef",
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 2625,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ]
+        },
+        {
+            "itemId": "83fece99",
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 2625,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ]
+        },
+        {
+            "itemId": "5dc50226",
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 2625,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ]
+        }
+    ],
+    "clothingVariations": [
+        {
+            "twHex": "5411f92c",
+            "itemId": "4ad1dc3c",
+            "enumHash": 1410464044,
+            "thumbnailUrl": "/global/catalog/rdr2/bee31e44/33a225faf352e8560f50889875afb9078b3488cf.png",
+            "requirements": [],
+            "tags": [
+                1971929670,
+                -1686717438,
+                -1529356747
+            ]
+        },
+        {
+            "twHex": "8dfe747f",
+            "itemId": "94a12391",
+            "enumHash": -1912703873,
+            "thumbnailUrl": "/global/catalog/rdr2/a327caf6/95723b0f2d5d4ab8c25dd7c4ff9db2068cab4ce0.png",
+            "requirements": [],
+            "tags": [
+                1971929670,
+                1211062975,
+                -1529356747
+            ]
+        },
+        {
+            "twHex": "65c69c99",
+            "itemId": "3518b0ca",
+            "enumHash": 1707515033,
+            "thumbnailUrl": "/global/catalog/rdr2/f260853e/143983aa91abe10908be10bf91809aabea034a38.png",
+            "requirements": [],
+            "tags": [
+                1971929670,
+                -1686717438,
+                -1529356747
+            ]
+        },
+        {
+            "twHex": "e7621fce",
+            "itemId": "45a951ef",
+            "enumHash": -412999730,
+            "thumbnailUrl": "/global/catalog/rdr2/dd1a5ab2/111313909fd5f8327c8333dbaf768b2ca3e3073d.png",
+            "requirements": [],
+            "tags": [
+                1971929670,
+                -1686717438,
+                -1529356747
+            ]
+        },
+        {
+            "twHex": "0cb0ea6b",
+            "itemId": "83fece99",
+            "enumHash": 212920939,
+            "thumbnailUrl": "/global/catalog/rdr2/df9bdf99/ef7d274011568d6901ed08fb58439ad45ddfa9dd.png",
+            "requirements": [],
+            "tags": [
+                1971929670,
+                1211062975,
+                -1529356747
+            ]
+        },
+        {
+            "twHex": "d061f1ce",
+            "itemId": "5dc50226",
+            "enumHash": -798887474,
+            "thumbnailUrl": "/global/catalog/rdr2/0237a4d0/7443095c3ff69797f1ffe8af668d18bf5e8df6e4.png",
+            "requirements": [],
+            "tags": [
+                1971929670,
+                1211062975,
+                -1529356747
+            ]
+        }
+    ],
+    "group": "CLOTHING",
+    "images": [
+        {
+            "type": 0,
+            "url": "/global/catalog/rdr2/fba81894/2c4646d6cc749930e64f79f7f8de6e2f1694c7d5.png",
+            "altText": ""
+        },
+        {
+            "type": 1,
+            "url": "/global/catalog/rdr2/fba81894/80f535d382f4bcb68f8f64985d155b46ef398e88.png",
+            "altText": ""
+        }
+    ],
+    "slots": [
+        {
+            "hash": -673000374,
+            "quantity": 1
+        }
+    ]
+}

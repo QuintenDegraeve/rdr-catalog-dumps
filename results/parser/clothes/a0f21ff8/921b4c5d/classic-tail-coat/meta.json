@@ -1,0 +1,113 @@
+{
+    "id": "1e82693c",
+    "name": "Classic Tail Coat",
+    "brand": "e28b46eb",
+    "categories": [
+        "a0f21ff8/921b4c5d"
+    ],
+    "description": "Double breasted Classic Tail Coat. High waisted. Features a long notched fall collar. Suitable for opera attire and duels.",
+    "variations": [
+        {
+            "itemId": "32dc6564",
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 1050,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ]
+        },
+        {
+            "itemId": "d64cac46",
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 1050,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ]
+        },
+        {
+            "itemId": "c11e81ea",
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 1050,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ]
+        }
+    ],
+    "clothingVariations": [
+        {
+            "twHex": "fa28cab2",
+            "itemId": "32dc6564",
+            "enumHash": -97989966,
+            "thumbnailUrl": "/global/catalog/rdr2/cec1b867/321149e21ebc94e72b22770b5954f64f98cc6db9.png",
+            "requirements": [],
+            "tags": [
+                -1079964825,
+                -1938332139
+            ]
+        },
+        {
+            "twHex": "a7d22606",
+            "itemId": "d64cac46",
+            "enumHash": -1479399930,
+            "thumbnailUrl": "/global/catalog/rdr2/bd6095a5/7e3a7bda853bdfe466b10bf457379d7452b0babc.png",
+            "requirements": [],
+            "tags": [
+                -1079964825,
+                -1938332139
+            ]
+        },
+        {
+            "twHex": "97cb85f9",
+            "itemId": "c11e81ea",
+            "enumHash": -1748269575,
+            "thumbnailUrl": "/global/catalog/rdr2/28446b83/c14ffc89312e40a7a897d926deb2cacd6f4db635.png",
+            "requirements": [
+                {
+                    "type": -253134813,
+                    "value": "-1130204298"
+                }
+            ],
+            "tags": [
+                1690224211,
+                -1079964825,
+                -1938332139
+            ]
+        }
+    ],
+    "group": "CLOTHING",
+    "images": [
+        {
+            "type": 0,
+            "url": "/global/catalog/rdr2/4fe45941/1219c3203cb83f01985f4df7412acaf31aeff04f.png",
+            "altText": ""
+        },
+        {
+            "type": 1,
+            "url": "/global/catalog/rdr2/4fe45941/f46253a3c2bcf58f66d6d6b0135802b0a49b80e7.png",
+            "altText": ""
+        }
+    ],
+    "slots": [
+        {
+            "hash": -673000374,
+            "quantity": 1
+        }
+    ]
+}

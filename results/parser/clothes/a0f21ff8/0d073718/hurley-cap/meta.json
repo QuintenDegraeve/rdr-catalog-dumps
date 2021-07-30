@@ -1,0 +1,240 @@
+{
+    "id": "3de732a6",
+    "name": "Hurley Cap",
+    "brand": "e28b46eb",
+    "categories": [
+        "a0f21ff8/0d073718"
+    ],
+    "description": "Protect your eyes with the Hurley Cap, featuring our patented reinforced visor. A truly practical piece. ",
+    "variations": [
+        {
+            "itemId": "fbc67422",
+            "costs": [
+                {
+                    "currencyHash": 773203532,
+                    "nameHash": -570078785,
+                    "isFromPrice": false,
+                    "price": 300,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ]
+        },
+        {
+            "itemId": "eadcd24f",
+            "costs": [
+                {
+                    "currencyHash": 773203532,
+                    "nameHash": -570078785,
+                    "isFromPrice": false,
+                    "price": 300,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ]
+        },
+        {
+            "itemId": "20aa3de9",
+            "costs": [
+                {
+                    "currencyHash": 773203532,
+                    "nameHash": -570078785,
+                    "isFromPrice": false,
+                    "price": 300,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ]
+        },
+        {
+            "itemId": "950626a3",
+            "costs": [
+                {
+                    "currencyHash": 773203532,
+                    "nameHash": -570078785,
+                    "isFromPrice": false,
+                    "price": 300,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ]
+        },
+        {
+            "itemId": "82f08278",
+            "costs": [
+                {
+                    "currencyHash": 773203532,
+                    "nameHash": -570078785,
+                    "isFromPrice": false,
+                    "price": 300,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ]
+        },
+        {
+            "itemId": "b9a2efdc",
+            "costs": [
+                {
+                    "currencyHash": 773203532,
+                    "nameHash": -570078785,
+                    "isFromPrice": false,
+                    "price": 300,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ]
+        },
+        {
+            "itemId": "a7464b23",
+            "costs": [
+                {
+                    "currencyHash": 773203532,
+                    "nameHash": -570078785,
+                    "isFromPrice": false,
+                    "price": 300,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ]
+        },
+        {
+            "itemId": "485f0d52",
+            "costs": [
+                {
+                    "currencyHash": 773203532,
+                    "nameHash": -570078785,
+                    "isFromPrice": false,
+                    "price": 300,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ]
+        }
+    ],
+    "clothingVariations": [
+        {
+            "twHex": "c2a28224",
+            "itemId": "fbc67422",
+            "enumHash": -1029537244,
+            "thumbnailUrl": "/global/catalog/rdr2/765100c3/177fd623b27a45b9dec1747d05d06975ed911f0a.png",
+            "unlockRank": 1,
+            "requirements": [],
+            "tags": [
+                -133342564,
+                1960391745
+            ]
+        },
+        {
+            "twHex": "f4d8668f",
+            "itemId": "eadcd24f",
+            "enumHash": -187144561,
+            "thumbnailUrl": "/global/catalog/rdr2/59f2c823/b7577707d866c41214af80108235ac3ee8ecda39.png",
+            "unlockRank": 1,
+            "requirements": [],
+            "tags": [
+                -133342564,
+                1960391745
+            ]
+        },
+        {
+            "twHex": "690fcf40",
+            "itemId": "20aa3de9",
+            "enumHash": 1762643776,
+            "thumbnailUrl": "/global/catalog/rdr2/6c456cc8/e69f266817673043aec97ef8e57e5454d08c884f.png",
+            "unlockRank": 1,
+            "requirements": [],
+            "tags": [
+                -133342564,
+                1960391745
+            ]
+        },
+        {
+            "twHex": "9bb3b447",
+            "itemId": "950626a3",
+            "enumHash": -1682721721,
+            "thumbnailUrl": "/global/catalog/rdr2/3f90135e/15a8e97c563d8c26bd4d502e7600065c25ac8a7f.png",
+            "unlockRank": 1,
+            "requirements": [],
+            "tags": [
+                -133342564,
+                1960391745
+            ]
+        },
+        {
+            "twHex": "8e8599eb",
+            "itemId": "82f08278",
+            "enumHash": -1903846933,
+            "thumbnailUrl": "/global/catalog/rdr2/51d9b7f1/373002df6679790066f4968023bb68b25aed6d33.png",
+            "unlockRank": 1,
+            "requirements": [],
+            "tags": [
+                -133342564,
+                1960391745
+            ]
+        },
+        {
+            "twHex": "c02c7d38",
+            "itemId": "b9a2efdc",
+            "enumHash": -1070826184,
+            "thumbnailUrl": "/global/catalog/rdr2/d1e237e8/dc8f453c0c6e4d13542cc8737e704d5bd547e556.png",
+            "unlockRank": 1,
+            "requirements": [],
+            "tags": [
+                -133342564,
+                1960391745
+            ]
+        },
+        {
+            "twHex": "3247e1b1",
+            "itemId": "a7464b23",
+            "enumHash": 843571633,
+            "thumbnailUrl": "/global/catalog/rdr2/23d7dbd2/edb09250b59e1da0c9d2e07fde16d2af11ae051f.png",
+            "unlockRank": 1,
+            "requirements": [],
+            "tags": [
+                -133342564,
+                1960391745
+            ]
+        },
+        {
+            "twHex": "3075de0d",
+            "itemId": "485f0d52",
+            "enumHash": 813030925,
+            "thumbnailUrl": "/global/catalog/rdr2/359e7f5f/c457b4c0e11c73970b1d98343934d98044ac9138.png",
+            "unlockRank": 1,
+            "requirements": [],
+            "tags": [
+                -133342564,
+                1960391745
+            ]
+        }
+    ],
+    "group": "CLOTHING",
+    "images": [
+        {
+            "type": 0,
+            "url": "/global/catalog/rdr2/eed6e98f/9ff268db7dd5311cbf9f475d4bab1ce15004772b.png",
+            "altText": ""
+        },
+        {
+            "type": 1,
+            "url": "/global/catalog/rdr2/eed6e98f/bc79aa1fb973db2307ed2e4614da1094a14d7a22.png",
+            "altText": ""
+        }
+    ],
+    "slots": [
+        {
+            "hash": -673000374,
+            "quantity": 1
+        }
+    ]
+}

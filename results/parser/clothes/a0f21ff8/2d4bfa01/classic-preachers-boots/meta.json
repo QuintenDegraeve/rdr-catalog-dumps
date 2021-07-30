@@ -1,0 +1,142 @@
+{
+    "id": "bbb76ab4",
+    "name": "Classic Preacher's Boots",
+    "brand": "e28b46eb",
+    "categories": [
+        "a0f21ff8/2d4bfa01"
+    ],
+    "description": "Classic Preacher's Boots. Tan grain leather. Hand stitched fancy leg uppers. Fowler shaped toe. As near to waterproof as can be obtained.",
+    "variations": [
+        {
+            "itemId": "a3758a62",
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 2075,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ]
+        },
+        {
+            "itemId": "4769521b",
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 2075,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ]
+        },
+        {
+            "itemId": "6a8e1894",
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 2075,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ]
+        },
+        {
+            "itemId": "90d46520",
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 2075,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ]
+        }
+    ],
+    "clothingVariations": [
+        {
+            "twHex": "fc629968",
+            "itemId": "a3758a62",
+            "enumHash": -60647064,
+            "thumbnailUrl": "/global/catalog/rdr2/33a1e6b8/103d3423705d3518de8d4992857f3cd901246cb5.png",
+            "requirements": [],
+            "tags": [
+                -415586065,
+                -1686717438,
+                -1529356747
+            ]
+        },
+        {
+            "twHex": "8f28befe",
+            "itemId": "4769521b",
+            "enumHash": -1893155074,
+            "thumbnailUrl": "/global/catalog/rdr2/68525018/46a4419e8e33ccd72b283ce723e3997b1379055b.png",
+            "requirements": [],
+            "tags": [
+                -415586065,
+                -1686717438,
+                -1529356747
+            ]
+        },
+        {
+            "twHex": "b3c90836",
+            "itemId": "6a8e1894",
+            "enumHash": -1278670794,
+            "thumbnailUrl": "/global/catalog/rdr2/4cf79963/aded8f70277678d657c9236561fd4857bbc0662f.png",
+            "requirements": [
+                {
+                    "type": -253134813,
+                    "value": "-1130204298"
+                }
+            ],
+            "tags": [
+                -529275668,
+                -415586065,
+                1211062975,
+                -1529356747
+            ]
+        },
+        {
+            "twHex": "501340d4",
+            "itemId": "90d46520",
+            "enumHash": 1343439060,
+            "thumbnailUrl": "/global/catalog/rdr2/5f2d3dce/46cfc15842d930e5aa4d3a42533e64bd9a6c7199.png",
+            "requirements": [],
+            "tags": [
+                -415586065,
+                1211062975,
+                -1529356747
+            ]
+        }
+    ],
+    "group": "CLOTHING",
+    "images": [
+        {
+            "type": 0,
+            "url": "/global/catalog/rdr2/016fa343/0746d1d9c079465a172184849dfeeb6226ab1c4a.png",
+            "altText": ""
+        },
+        {
+            "type": 1,
+            "url": "/global/catalog/rdr2/016fa343/a9245e0bfbb4432c010b1731df879e053da294c2.png",
+            "altText": ""
+        }
+    ],
+    "slots": [
+        {
+            "hash": -673000374,
+            "quantity": 1
+        }
+    ]
+}

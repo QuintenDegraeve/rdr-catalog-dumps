@@ -1,0 +1,213 @@
+{
+    "id": "dfa4fa6e",
+    "name": "Bulldogger Hat",
+    "brand": "e28b46eb",
+    "categories": [
+        "a0f21ff8/0d073718"
+    ],
+    "description": "The Bulldogger Hat with a double pinch and a leather band. For steer wrestling and other rodeo events.  ",
+    "variations": [
+        {
+            "itemId": "8f79a951",
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 950,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ]
+        },
+        {
+            "itemId": "4d18248b",
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 950,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ]
+        },
+        {
+            "itemId": "b785f969",
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 950,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ]
+        },
+        {
+            "itemId": "72cceff4",
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 950,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ]
+        },
+        {
+            "itemId": "1650b6fd",
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 950,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ]
+        },
+        {
+            "itemId": "60904b7b",
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 950,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ]
+        },
+        {
+            "itemId": "3377f14b",
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 950,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ]
+        }
+    ],
+    "clothingVariations": [
+        {
+            "twHex": "1af154a8",
+            "itemId": "8f79a951",
+            "enumHash": 452023464,
+            "thumbnailUrl": "/global/catalog/rdr2/913532bd/a97cfb7323fd39812c782ed2bb092af7059d67ae.png",
+            "requirements": [],
+            "tags": [
+                -1859707031,
+                -1686717438
+            ]
+        },
+        {
+            "twHex": "18244f12",
+            "itemId": "4d18248b",
+            "enumHash": 405032722,
+            "thumbnailUrl": "/global/catalog/rdr2/5ea3cd9b/4909d9c531f173028d576189703d3c388044b8a0.png",
+            "requirements": [
+                {
+                    "type": -253134813,
+                    "value": "-1130204298"
+                }
+            ],
+            "tags": [
+                219566086,
+                -1859707031,
+                -1686717438
+            ]
+        },
+        {
+            "twHex": "0693abf1",
+            "itemId": "b785f969",
+            "enumHash": 110341105,
+            "thumbnailUrl": "/global/catalog/rdr2/6caa69a8/6c1a43c554c1fbf08b798c84f4ce6ed736aed731.png",
+            "requirements": [],
+            "tags": [
+                -1859707031,
+                -1686717438
+            ]
+        },
+        {
+            "twHex": "f3d1866d",
+            "itemId": "72cceff4",
+            "enumHash": -204372371,
+            "thumbnailUrl": "/global/catalog/rdr2/3a6c052c/f7538ca5c67356322488dd7aef57ff4d5afcc1d6.png",
+            "requirements": [],
+            "tags": [
+                -1859707031,
+                -1686717438
+            ]
+        },
+        {
+            "twHex": "d1de4287",
+            "itemId": "1650b6fd",
+            "enumHash": -773963129,
+            "thumbnailUrl": "/global/catalog/rdr2/eccee9f3/441f4dbe453d44597e2912e7faba2c893b919e1e.png",
+            "requirements": [],
+            "tags": [
+                -1859707031,
+                1211062975
+            ]
+        },
+        {
+            "twHex": "cdcdba66",
+            "itemId": "60904b7b",
+            "enumHash": -842155418,
+            "thumbnailUrl": "/global/catalog/rdr2/028f1573/8667f677891fc427e0f9b0ab9b2b1722bb1471f5.png",
+            "requirements": [],
+            "tags": [
+                -1859707031,
+                1211062975
+            ]
+        },
+        {
+            "twHex": "bc8f97ea",
+            "itemId": "3377f14b",
+            "enumHash": -1131440150,
+            "thumbnailUrl": "/global/catalog/rdr2/c84b20ec/9545588ec8c5b4f9b1f9b40a72af8122620e5d67.png",
+            "requirements": [],
+            "tags": [
+                -1859707031,
+                1211062975
+            ]
+        }
+    ],
+    "group": "CLOTHING",
+    "images": [
+        {
+            "type": 0,
+            "url": "/global/catalog/rdr2/ef8354c8/7439493510e90558bc71559d097a9abdfe149d3b.png",
+            "altText": ""
+        },
+        {
+            "type": 1,
+            "url": "/global/catalog/rdr2/ef8354c8/053c456b5efeb87e5e3ae2416d8b7f669631368c.png",
+            "altText": ""
+        }
+    ],
+    "slots": [
+        {
+            "hash": -673000374,
+            "quantity": 0
+        }
+    ]
+}

@@ -1,0 +1,219 @@
+{
+    "id": "ceeadb4a",
+    "name": "Worn Gambler's Hat",
+    "brand": "e28b46eb",
+    "categories": [
+        "a0f21ff8/0d073718"
+    ],
+    "description": "The western Gambler's Hat with a telescoped crown. Being firmly convinced that no more rugged hat exists, we implore you to try it while enjoying chewing tobacco.",
+    "variations": [
+        {
+            "itemId": "0e56176e",
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 1300,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ]
+        },
+        {
+            "itemId": "00bf36bd",
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 1300,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ]
+        },
+        {
+            "itemId": "ee889250",
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 1300,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ]
+        },
+        {
+            "itemId": "791d2743",
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 1300,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ]
+        },
+        {
+            "itemId": "677a83fe",
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 1300,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ]
+        },
+        {
+            "itemId": "f3639bd2",
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 1300,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ]
+        },
+        {
+            "itemId": "1f9df446",
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 1300,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ]
+        }
+    ],
+    "clothingVariations": [
+        {
+            "twHex": "9afe4be4",
+            "itemId": "0e56176e",
+            "enumHash": -1694610460,
+            "thumbnailUrl": "/global/catalog/rdr2/2e9c68b8/b38777eff4170ed00fbad7fffb03fb88a6803584.png",
+            "requirements": [
+                {
+                    "type": -253134813,
+                    "value": "-1130204298"
+                }
+            ],
+            "tags": [
+                1690224211,
+                148870416,
+                1211062975
+            ]
+        },
+        {
+            "twHex": "b2548361",
+            "itemId": "00bf36bd",
+            "enumHash": -1303084191,
+            "thumbnailUrl": "/global/catalog/rdr2/67a24f86/20723e015284c65be7c37fedbc5302a3d3b46395.png",
+            "requirements": [],
+            "tags": [
+                148870416,
+                -1686717438
+            ]
+        },
+        {
+            "twHex": "37fb8ea9",
+            "itemId": "ee889250",
+            "enumHash": 939232937,
+            "thumbnailUrl": "/global/catalog/rdr2/50f82232/e0492cf8b8cdd456b3071796403334ca38e2d2c1.png",
+            "requirements": [],
+            "tags": [
+                148870416,
+                -1686717438
+            ]
+        },
+        {
+            "twHex": "6832ef17",
+            "itemId": "791d2743",
+            "enumHash": 1748168471,
+            "thumbnailUrl": "/global/catalog/rdr2/18cd31dd/c092a0db996156e9b4e3670aec6be1f88be2d580.png",
+            "requirements": [
+                {
+                    "type": -253134813,
+                    "value": "-1130204298"
+                }
+            ],
+            "tags": [
+                2002319763,
+                148870416,
+                -1686717438
+            ]
+        },
+        {
+            "twHex": "0667ab86",
+            "itemId": "677a83fe",
+            "enumHash": 107457414,
+            "thumbnailUrl": "/global/catalog/rdr2/0a2e94a0/7ac4c4c611b6af7a85d1fed1be84bace9392a69e.png",
+            "requirements": [],
+            "tags": [
+                148870416,
+                1211062975
+            ]
+        },
+        {
+            "twHex": "2abff436",
+            "itemId": "f3639bd2",
+            "enumHash": 717222966,
+            "thumbnailUrl": "/global/catalog/rdr2/f59a6b78/ad0a39c3b4a7b4e9ab4a13c52b81841a86fcd0b4.png",
+            "requirements": [],
+            "tags": [
+                148870416,
+                1211062975
+            ]
+        },
+        {
+            "twHex": "39569163",
+            "itemId": "1f9df446",
+            "enumHash": 961974627,
+            "thumbnailUrl": "/global/catalog/rdr2/c32a069c/0d6ce0d0bdfeef5a9ba9bc9baa19dbb27232ed87.png",
+            "requirements": [],
+            "tags": [
+                148870416,
+                1211062975
+            ]
+        }
+    ],
+    "group": "CLOTHING",
+    "images": [
+        {
+            "type": 0,
+            "url": "/global/catalog/rdr2/bb8a0a6a/71939f6e8fbee1fb04fec610596b191ba8c65856.png",
+            "altText": ""
+        },
+        {
+            "type": 1,
+            "url": "/global/catalog/rdr2/bb8a0a6a/71b298d5b49a397882ddb26423b8c05bba80efec.png",
+            "altText": ""
+        }
+    ],
+    "slots": [
+        {
+            "hash": -673000374,
+            "quantity": 0
+        }
+    ]
+}

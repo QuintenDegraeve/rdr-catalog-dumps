@@ -1,0 +1,148 @@
+{
+    "id": "0d940885",
+    "name": "Hathaway Court Boots",
+    "brand": "e28b46eb",
+    "categories": [
+        "a0f21ff8/2d4bfa01"
+    ],
+    "description": "We call special attention to this desirable boot. It is extra high cut with an elegant rounded toe and louis heel. A best seller.",
+    "variations": [
+        {
+            "itemId": "723db700",
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 3175,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                },
+                {
+                    "currencyHash": 773203532,
+                    "nameHash": -570078785,
+                    "isFromPrice": false,
+                    "price": 200,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                },
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": 75922725,
+                    "offerEnumHash": -339828109,
+                    "isFromPrice": false,
+                    "price": 1587,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                },
+                {
+                    "currencyHash": 0,
+                    "nameHash": 866168015,
+                    "rewardEnumHash": -146027,
+                    "isFromPrice": false,
+                    "price": 0,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ]
+        },
+        {
+            "itemId": "8beeea62",
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 3175,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                },
+                {
+                    "currencyHash": 773203532,
+                    "nameHash": -570078785,
+                    "isFromPrice": false,
+                    "price": 200,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                },
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": 75922725,
+                    "offerEnumHash": -339828109,
+                    "isFromPrice": false,
+                    "price": 1587,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                },
+                {
+                    "currencyHash": 0,
+                    "nameHash": 866168015,
+                    "rewardEnumHash": -146027,
+                    "isFromPrice": false,
+                    "price": 0,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ]
+        }
+    ],
+    "clothingVariations": [
+        {
+            "twHex": "e95df433",
+            "itemId": "723db700",
+            "enumHash": -379718605,
+            "thumbnailUrl": "/global/catalog/rdr2/4ae9abe5/a5824921f9d4be9601551bdbee47271f3d280d85.png",
+            "unlockRank": 19,
+            "requirements": [],
+            "tags": [
+                -133342564,
+                813132419,
+                -1278198125,
+                1731872684,
+                -1529356747
+            ]
+        },
+        {
+            "twHex": "f7e09138",
+            "itemId": "8beeea62",
+            "enumHash": -136277704,
+            "thumbnailUrl": "/global/catalog/rdr2/5552c10f/f711f04a7c3c8c70f54233c8c5a521f468d99605.png",
+            "unlockRank": 19,
+            "requirements": [],
+            "tags": [
+                -133342564,
+                813132419,
+                -1278198125,
+                1731872684,
+                -1529356747
+            ]
+        }
+    ],
+    "group": "CLOTHING",
+    "images": [
+        {
+            "type": 0,
+            "url": "/global/catalog/rdr2/c37bb1f9/6858b810d2fb5bbd0fc2979b3f44375738ba54be.png",
+            "altText": ""
+        },
+        {
+            "type": 1,
+            "url": "/global/catalog/rdr2/c37bb1f9/d61b16c84f9b3a75e738b5ba131d14b526eff358.png",
+            "altText": ""
+        }
+    ],
+    "slots": [
+        {
+            "hash": -673000374,
+            "quantity": 1
+        }
+    ]
+}

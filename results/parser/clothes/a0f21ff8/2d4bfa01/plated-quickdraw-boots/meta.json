@@ -1,0 +1,136 @@
+{
+    "id": "03eb7023",
+    "name": "Plated Quickdraw Boots",
+    "brand": "e28b46eb",
+    "categories": [
+        "a0f21ff8/2d4bfa01"
+    ],
+    "description": "Double Stitched Plated Quickdraw Boots. A roper shaped toe. Hand tooled scalloped and nickel silver plated shaft boots. Exquisitely detailed for exquisite men.",
+    "variations": [
+        {
+            "itemId": "fde3f40a",
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 2575,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ]
+        },
+        {
+            "itemId": "bac66e0c",
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 2575,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ]
+        },
+        {
+            "itemId": "117b9b39",
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 2575,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ]
+        },
+        {
+            "itemId": "83ccffda",
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 2575,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ]
+        }
+    ],
+    "clothingVariations": [
+        {
+            "twHex": "b6453a65",
+            "itemId": "fde3f40a",
+            "enumHash": -1236977051,
+            "thumbnailUrl": "/global/catalog/rdr2/1b09a0bc/82268aaf7405b8d0ce6c709e80f51113f93d09a0.png",
+            "requirements": [],
+            "tags": [
+                -426662579,
+                -1686717438,
+                -1529356747
+            ]
+        },
+        {
+            "twHex": "544e7651",
+            "itemId": "bac66e0c",
+            "enumHash": 1414428241,
+            "thumbnailUrl": "/global/catalog/rdr2/65a3b5f3/384539107f3314e46e355455299ca5890f7c99ef.png",
+            "requirements": [],
+            "tags": [
+                -426662579,
+                -1686717438,
+                -1529356747
+            ]
+        },
+        {
+            "twHex": "65379827",
+            "itemId": "117b9b39",
+            "enumHash": 1698142247,
+            "thumbnailUrl": "/global/catalog/rdr2/9a811fad/0f8c309e79b4c35e87a2bb43a34527bd8964e772.png",
+            "requirements": [],
+            "tags": [
+                -426662579,
+                1211062975,
+                -1529356747
+            ]
+        },
+        {
+            "twHex": "0ab16318",
+            "itemId": "83ccffda",
+            "enumHash": 179397400,
+            "thumbnailUrl": "/global/catalog/rdr2/a8a9bbfe/b8437ac671118cc45a6164ef410db5289cf99d8a.png",
+            "requirements": [],
+            "tags": [
+                -426662579,
+                1211062975,
+                -1529356747
+            ]
+        }
+    ],
+    "group": "CLOTHING",
+    "images": [
+        {
+            "type": 0,
+            "url": "/global/catalog/rdr2/711f8039/9966823cb3070aa999b51da94294d82bf58d7aa7.png",
+            "altText": ""
+        },
+        {
+            "type": 1,
+            "url": "/global/catalog/rdr2/711f8039/e784807fb705bd016df54cf67b4f8589d0461e1e.png",
+            "altText": ""
+        }
+    ],
+    "slots": [
+        {
+            "hash": -673000374,
+            "quantity": 1
+        }
+    ]
+}

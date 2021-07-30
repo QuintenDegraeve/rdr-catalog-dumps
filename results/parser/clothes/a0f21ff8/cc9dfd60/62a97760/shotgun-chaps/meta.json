@@ -1,0 +1,159 @@
+{
+    "id": "ca8c7727",
+    "name": "Shotgun Chaps",
+    "brand": "e28b46eb",
+    "categories": [
+        "a0f21ff8/cc9dfd60/62a97760"
+    ],
+    "description": "Sleeked leather Shotgun Chaps. These men's chaparajos, 'chaps', or riding pants are made from heavy oiled leather stock. Two front pockets, solid leather waistband, adjustable rear cinch strap. Made for service.",
+    "variations": [
+        {
+            "itemId": "76a79586",
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 1325,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ]
+        },
+        {
+            "itemId": "8921ba7a",
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 1325,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ]
+        },
+        {
+            "itemId": "7cffa232",
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 1325,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ]
+        },
+        {
+            "itemId": "8f3a46a7",
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 1325,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ]
+        },
+        {
+            "itemId": "300a0848",
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 1325,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ]
+        }
+    ],
+    "clothingVariations": [
+        {
+            "twHex": "3b2c8c3c",
+            "itemId": "76a79586",
+            "enumHash": 992775228,
+            "thumbnailUrl": "/global/catalog/rdr2/f157aaf1/cc4afe727ce266db92b3399a4cd1b544a2fb241c.png",
+            "requirements": [],
+            "tags": [
+                1379565118,
+                -204983672
+            ]
+        },
+        {
+            "twHex": "6ee3f3aa",
+            "itemId": "8921ba7a",
+            "enumHash": 1860432810,
+            "thumbnailUrl": "/global/catalog/rdr2/07a2d787/cc15bf5831fac8aaa4ecd27eba5db5b9e0ef5aea.png",
+            "requirements": [],
+            "tags": [
+                -204983672
+            ]
+        },
+        {
+            "twHex": "ee8472e5",
+            "itemId": "7cffa232",
+            "enumHash": -293309723,
+            "thumbnailUrl": "/global/catalog/rdr2/8bb4dfad/1b59e45b0c3f67e973c115a78dfef2ac374b1187.png",
+            "requirements": [],
+            "tags": [
+                -204983672
+            ]
+        },
+        {
+            "twHex": "e0ddd798",
+            "itemId": "8f3a46a7",
+            "enumHash": -522332264,
+            "thumbnailUrl": "/global/catalog/rdr2/99767b30/c5be88d84a05e3cdf2200134724d4479928de7b3.png",
+            "requirements": [],
+            "tags": [
+                -204983672
+            ]
+        },
+        {
+            "twHex": "844a9e73",
+            "itemId": "300a0848",
+            "enumHash": -2075484557,
+            "thumbnailUrl": "/global/catalog/rdr2/3c184071/09476fb03e6cb797c3182a0862c3e9d109b3426b.png",
+            "requirements": [],
+            "tags": [
+                1168524201,
+                -204983672
+            ]
+        }
+    ],
+    "group": "CLOTHING",
+    "images": [
+        {
+            "type": 0,
+            "url": "/global/catalog/rdr2/8d201eb5/35cb0223f976a8ad52c6d36bf2d80b4967578b66.png",
+            "altText": ""
+        },
+        {
+            "type": 1,
+            "url": "/global/catalog/rdr2/8d201eb5/f7e9606ace5a3d48f5c3b63b0725039968726c60.png",
+            "altText": ""
+        },
+        {
+            "type": 7,
+            "url": "/global/catalog/rdr2/8d201eb5/fdf9dcc84b34e9af91e22dead9876ff18c6daf66.jpg",
+            "altText": ""
+        }
+    ],
+    "slots": [
+        {
+            "hash": -673000374,
+            "quantity": 1
+        }
+    ]
+}

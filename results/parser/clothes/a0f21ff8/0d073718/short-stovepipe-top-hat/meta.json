@@ -1,0 +1,221 @@
+{
+    "id": "fbcf4528",
+    "name": "Short Stovepipe Top Hat",
+    "brand": "e28b46eb",
+    "categories": [
+        "a0f21ff8/0d073718"
+    ],
+    "description": "The Stovepipe Top Hat with satin band. The latest style that prevails in large cities. ",
+    "variations": [
+        {
+            "itemId": "71cb8583",
+            "costs": [
+                {
+                    "currencyHash": 773203532,
+                    "nameHash": -570078785,
+                    "isFromPrice": false,
+                    "price": 700,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ]
+        },
+        {
+            "itemId": "80f923de",
+            "costs": [
+                {
+                    "currencyHash": 773203532,
+                    "nameHash": -570078785,
+                    "isFromPrice": false,
+                    "price": 700,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ]
+        },
+        {
+            "itemId": "ae497e7e",
+            "costs": [
+                {
+                    "currencyHash": 773203532,
+                    "nameHash": -570078785,
+                    "isFromPrice": false,
+                    "price": 700,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ]
+        },
+        {
+            "itemId": "38101215",
+            "costs": [
+                {
+                    "currencyHash": 773203532,
+                    "nameHash": -570078785,
+                    "isFromPrice": false,
+                    "price": 700,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ]
+        },
+        {
+            "itemId": "47e9b1c8",
+            "costs": [
+                {
+                    "currencyHash": 773203532,
+                    "nameHash": -570078785,
+                    "isFromPrice": false,
+                    "price": 700,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ]
+        },
+        {
+            "itemId": "559bcd2c",
+            "costs": [
+                {
+                    "currencyHash": 773203532,
+                    "nameHash": -570078785,
+                    "isFromPrice": false,
+                    "price": 700,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ]
+        },
+        {
+            "itemId": "b124843c",
+            "costs": [
+                {
+                    "currencyHash": 773203532,
+                    "nameHash": -570078785,
+                    "isFromPrice": false,
+                    "price": 700,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ]
+        }
+    ],
+    "clothingVariations": [
+        {
+            "twHex": "353bbf58",
+            "itemId": "71cb8583",
+            "enumHash": 893108056,
+            "thumbnailUrl": "/global/catalog/rdr2/42f9de30/6dcadcafa31a7758064de51cb601a6e2110740a5.png",
+            "unlockRank": 50,
+            "requirements": [],
+            "tags": [
+                -287432114,
+                -1130142368,
+                -1529356747
+            ]
+        },
+        {
+            "twHex": "8385dbef",
+            "itemId": "80f923de",
+            "enumHash": -2088379409,
+            "thumbnailUrl": "/global/catalog/rdr2/31343aa5/76aadfc88c40b4d68e9931e677bb3f8eb0c6a3d5.png",
+            "unlockRank": 50,
+            "requirements": [],
+            "tags": [
+                -287432114,
+                -1130142368,
+                -1529356747
+            ]
+        },
+        {
+            "twHex": "9a6489ac",
+            "itemId": "ae497e7e",
+            "enumHash": -1704687188,
+            "thumbnailUrl": "/global/catalog/rdr2/e46fa11d/db3591fd11546fd900e6f67dd9947c5d789e301c.png",
+            "unlockRank": 50,
+            "requirements": [],
+            "tags": [
+                -287432114,
+                -1130142368,
+                -1529356747
+            ]
+        },
+        {
+            "twHex": "6ef4b2cd",
+            "itemId": "38101215",
+            "enumHash": 1861530317,
+            "thumbnailUrl": "/global/catalog/rdr2/07e26802/fe7c672998a2ac9930e0a04067d2c176104fa124.png",
+            "unlockRank": 50,
+            "requirements": [],
+            "tags": [
+                -287432114,
+                -1130142368,
+                -1529356747
+            ]
+        },
+        {
+            "twHex": "cc3d6d5d",
+            "itemId": "47e9b1c8",
+            "enumHash": -868389539,
+            "thumbnailUrl": "/global/catalog/rdr2/f630449e/34af8db2310ba104643e2d773b365a69522fdf2e.png",
+            "unlockRank": 50,
+            "requirements": [],
+            "tags": [
+                -287432114,
+                -1130142368,
+                -1529356747
+            ]
+        },
+        {
+            "twHex": "e3861bfa",
+            "itemId": "559bcd2c",
+            "enumHash": -477750278,
+            "thumbnailUrl": "/global/catalog/rdr2/0d80f333/12b97eb075e517e3e2c3c9972cb544da82ac4b22.png",
+            "unlockRank": 50,
+            "requirements": [],
+            "tags": [
+                -287432114,
+                -1130142368,
+                -1529356747
+            ]
+        },
+        {
+            "twHex": "f1453778",
+            "itemId": "b124843c",
+            "enumHash": -247122056,
+            "thumbnailUrl": "/global/catalog/rdr2/fb2dce8d/7768eca41df1b226f7750873ac42bdda7c8822ae.png",
+            "unlockRank": 50,
+            "requirements": [],
+            "tags": [
+                -287432114,
+                -1130142368,
+                -1529356747
+            ]
+        }
+    ],
+    "group": "CLOTHING",
+    "images": [
+        {
+            "type": 0,
+            "url": "/global/catalog/rdr2/2109eb4a/4e7cc6f5500eedb092344bf5931b1f2349a3a12f.png",
+            "altText": ""
+        },
+        {
+            "type": 1,
+            "url": "/global/catalog/rdr2/2109eb4a/ac538db19e7d56699c2d11257b3581112d529a59.png",
+            "altText": ""
+        }
+    ],
+    "slots": [
+        {
+            "hash": -673000374,
+            "quantity": 1
+        }
+    ]
+}

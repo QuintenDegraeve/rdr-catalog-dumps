@@ -1,0 +1,110 @@
+{
+    "id": "5ff5b45e",
+    "name": "Old West Boots",
+    "brand": "e28b46eb",
+    "categories": [
+        "a0f21ff8/2d4bfa01"
+    ],
+    "description": "Stitched pointed and scalloped Old West Boots. Genuine calf skin. Point shaped toe, pull-up bootstraps useful for similes, metaphors and generational comparisons.  ",
+    "variations": [
+        {
+            "itemId": "7dc487fe",
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 2025,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ]
+        },
+        {
+            "itemId": "8b672343",
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 2025,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ]
+        },
+        {
+            "itemId": "a83bdce8",
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 2025,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ]
+        }
+    ],
+    "clothingVariations": [
+        {
+            "twHex": "f8e22baf",
+            "itemId": "7dc487fe",
+            "enumHash": -119395409,
+            "thumbnailUrl": "/global/catalog/rdr2/b2fe5f98/9ce986d32b5b50c77327493c657239a86c227be9.png",
+            "requirements": [],
+            "tags": [
+                -1903365031,
+                -1686717438,
+                -1529356747
+            ]
+        },
+        {
+            "twHex": "0691470d",
+            "itemId": "8b672343",
+            "enumHash": 110184205,
+            "thumbnailUrl": "/global/catalog/rdr2/a0bbbb13/0679de6859be47143366a6c48c426997c6e7c530.png",
+            "requirements": [],
+            "tags": [
+                -1903365031,
+                -1686717438,
+                -1529356747
+            ]
+        },
+        {
+            "twHex": "db6df0c7",
+            "itemId": "a83bdce8",
+            "enumHash": -613551929,
+            "thumbnailUrl": "/global/catalog/rdr2/ce2395e2/b03fe450cfc7115607e90e9980136a5f436117cb.png",
+            "requirements": [],
+            "tags": [
+                -1903365031,
+                1211062975,
+                -1529356747
+            ]
+        }
+    ],
+    "group": "CLOTHING",
+    "images": [
+        {
+            "type": 0,
+            "url": "/global/catalog/rdr2/c9e8b51e/50b01204a9b89e09178f83a0340e2faa54eba75e.png",
+            "altText": ""
+        },
+        {
+            "type": 1,
+            "url": "/global/catalog/rdr2/c9e8b51e/365aed4d95376198d23d910dd5e92021ccf9a5e9.png",
+            "altText": ""
+        }
+    ],
+    "slots": [
+        {
+            "hash": -673000374,
+            "quantity": 1
+        }
+    ]
+}

@@ -1,0 +1,82 @@
+{
+    "id": "ae7ccca5",
+    "name": "Kneller Spurs ",
+    "brand": "e28b46eb",
+    "categories": [
+        "a0f21ff8/cc9dfd60/dc72dd86"
+    ],
+    "description": "Kneller Spurs. Polished steel heel band, shank and 10 point rowels.",
+    "variations": [
+        {
+            "itemId": "1fc45682",
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 850,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ]
+        },
+        {
+            "itemId": "320a7b0e",
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 850,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ]
+        }
+    ],
+    "clothingVariations": [
+        {
+            "twHex": "25f04ae8",
+            "itemId": "1fc45682",
+            "enumHash": 636504808,
+            "thumbnailUrl": "/global/catalog/rdr2/005d2f57/ed9bc4a3203cf9a71bf5e1bce17248ff4ce324e4.png",
+            "requirements": [],
+            "tags": [
+                -1994209391,
+                -1686717438
+            ]
+        },
+        {
+            "twHex": "088e1024",
+            "itemId": "320a7b0e",
+            "enumHash": 143527972,
+            "thumbnailUrl": "/global/catalog/rdr2/e9640165/afe8bd2fecf93d34ba33b404eb2fc0da02cbb1fe.png",
+            "requirements": [],
+            "tags": [
+                -1994209391,
+                -1686717438
+            ]
+        }
+    ],
+    "group": "CLOTHING",
+    "images": [
+        {
+            "type": 0,
+            "url": "/global/catalog/rdr2/9d8aa1c3/49d2c9f61955e0447510e0000d8ab971e1ddbbe0.png",
+            "altText": ""
+        },
+        {
+            "type": 1,
+            "url": "/global/catalog/rdr2/9d8aa1c3/591798af4870076f705ef726fd0a4ab0d090cdb2.png",
+            "altText": ""
+        }
+    ],
+    "slots": [
+        {
+            "hash": -673000374,
+            "quantity": 1
+        }
+    ]
+}

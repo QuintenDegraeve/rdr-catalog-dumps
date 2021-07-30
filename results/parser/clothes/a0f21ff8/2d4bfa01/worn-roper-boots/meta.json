@@ -1,0 +1,194 @@
+{
+    "id": "203fa9eb",
+    "name": "Worn Roper Boots",
+    "brand": "e28b46eb",
+    "categories": [
+        "a0f21ff8/2d4bfa01"
+    ],
+    "description": "Men's weathered Ropers Boots. Made from calfskin, pegged, half double sole, warrantied.",
+    "variations": [
+        {
+            "itemId": "197d7bf6",
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 1375,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ]
+        },
+        {
+            "itemId": "500ecfc8",
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 1375,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ]
+        },
+        {
+            "itemId": "5db46b13",
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 1375,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ]
+        },
+        {
+            "itemId": "2b8606b7",
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 1375,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ]
+        },
+        {
+            "itemId": "394ea248",
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 1375,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ]
+        },
+        {
+            "itemId": "5e076bbd",
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 1375,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ]
+        }
+    ],
+    "clothingVariations": [
+        {
+            "twHex": "df063937",
+            "itemId": "197d7bf6",
+            "enumHash": -553240265,
+            "thumbnailUrl": "/global/catalog/rdr2/cf14fb52/d857e1d7e8919c55b6fb3954571af44aa833ea5a.png",
+            "requirements": [],
+            "tags": [
+                -976396147,
+                -1961347773,
+                1211062975,
+                -1529356747
+            ]
+        },
+        {
+            "twHex": "c9b70445",
+            "itemId": "500ecfc8",
+            "enumHash": -910752699,
+            "thumbnailUrl": "/global/catalog/rdr2/87a381bf/2a099f46faa78cf3a9ca1bb058af7e3196e54317.png",
+            "requirements": [],
+            "tags": [
+                -976396147,
+                -1961347773,
+                -1686717438,
+                -1529356747
+            ]
+        },
+        {
+            "twHex": "e7623f9b",
+            "itemId": "5db46b13",
+            "enumHash": -412991589,
+            "thumbnailUrl": "/global/catalog/rdr2/4fe89246/95e8482412c55346e24defc0272e3eb90d75e0ab.png",
+            "requirements": [],
+            "tags": [
+                -976396147,
+                -1961347773,
+                -1686717438,
+                -1529356747
+            ]
+        },
+        {
+            "twHex": "f522db1c",
+            "itemId": "2b8606b7",
+            "enumHash": -182265060,
+            "thumbnailUrl": "/global/catalog/rdr2/863efef2/6a04f7c6d771d7cf64ebf93c988a9f4708550daf.png",
+            "requirements": [],
+            "tags": [
+                -976396147,
+                -1961347773,
+                -1686717438,
+                -1529356747
+            ]
+        },
+        {
+            "twHex": "996f23ba",
+            "itemId": "394ea248",
+            "enumHash": -1720769606,
+            "thumbnailUrl": "/global/catalog/rdr2/bd01ec77/c5ea97f6a1406105b1ee0ff9eacc9273628460a4.png",
+            "requirements": [],
+            "tags": [
+                -976396147,
+                -1961347773,
+                -1686717438,
+                -1529356747
+            ]
+        },
+        {
+            "twHex": "506791a8",
+            "itemId": "5e076bbd",
+            "enumHash": 1348964776,
+            "thumbnailUrl": "/global/catalog/rdr2/05e77e41/5c6339dc1ed9682d5bcb3ff3fe68614c74bd184d.png",
+            "requirements": [],
+            "tags": [
+                -976396147,
+                -1961347773,
+                1211062975,
+                -1529356747
+            ]
+        }
+    ],
+    "group": "CLOTHING",
+    "images": [
+        {
+            "type": 0,
+            "url": "/global/catalog/rdr2/caaa1869/48893845b3afda1de5ddd4d4088abaebb1b6ab0d.png",
+            "altText": ""
+        },
+        {
+            "type": 1,
+            "url": "/global/catalog/rdr2/caaa1869/45b96737622aebcb0106a73519146f5318d15c66.png",
+            "altText": ""
+        }
+    ],
+    "slots": [
+        {
+            "hash": -673000374,
+            "quantity": 1
+        }
+    ]
+}

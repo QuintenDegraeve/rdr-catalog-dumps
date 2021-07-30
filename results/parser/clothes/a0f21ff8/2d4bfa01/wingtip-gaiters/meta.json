@@ -1,0 +1,266 @@
+{
+    "id": "fc2761b3",
+    "name": "Wingtip Gaiters",
+    "brand": "e28b46eb",
+    "categories": [
+        "a0f21ff8/2d4bfa01"
+    ],
+    "description": "Men’s Wingtip Gaiters. Double stitched, wingtip congress, oil grain, machine sewed. Made form solid leather. Will give excellent wear.    ",
+    "variations": [
+        {
+            "itemId": "ed61f745",
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 1900,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ]
+        },
+        {
+            "itemId": "90ee8c97",
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 1900,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ]
+        },
+        {
+            "itemId": "64fe6680",
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 1900,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ]
+        },
+        {
+            "itemId": "52c4c20d",
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 1900,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ]
+        },
+        {
+            "itemId": "89642f4b",
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 1900,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ]
+        },
+        {
+            "itemId": "78218cc6",
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 1900,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ]
+        },
+        {
+            "itemId": "2c3cf516",
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 1900,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ]
+        },
+        {
+            "itemId": "1a7f519b",
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 1900,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ]
+        },
+        {
+            "itemId": "509cbdbd",
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 1900,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ]
+        }
+    ],
+    "clothingVariations": [
+        {
+            "twHex": "0629b194",
+            "itemId": "ed61f745",
+            "enumHash": 103395732,
+            "thumbnailUrl": "/global/catalog/rdr2/8be6b6d4/fe43d4e4e6ffcd2bde4189c9253ec0b3befb7af7.png",
+            "requirements": [],
+            "tags": [
+                841234757,
+                -1686717438,
+                -1529356747
+            ]
+        },
+        {
+            "twHex": "04d1ed42",
+            "itemId": "90ee8c97",
+            "enumHash": 80866626,
+            "thumbnailUrl": "/global/catalog/rdr2/4de745be/8233bedf5f641c20b4833f9db342eaafa4e558e1.png",
+            "requirements": [],
+            "tags": [
+                841234757,
+                1211062975,
+                -1529356747
+            ]
+        },
+        {
+            "twHex": "f81c1579",
+            "itemId": "64fe6680",
+            "enumHash": -132377223,
+            "thumbnailUrl": "/global/catalog/rdr2/7e419b8a/d283b3f86f4884b397b9273aecfcf35eae3ed0d3.png",
+            "requirements": [],
+            "tags": [
+                841234757,
+                -1686717438,
+                -1529356747
+            ]
+        },
+        {
+            "twHex": "78971675",
+            "itemId": "52c4c20d",
+            "enumHash": 2023167605,
+            "thumbnailUrl": "/global/catalog/rdr2/700bff1f/6630345fb15332da7f50304e3306880b55a5fb59.png",
+            "requirements": [],
+            "tags": [
+                841234757,
+                -1686717438,
+                -1529356747
+            ]
+        },
+        {
+            "twHex": "92c04ac7",
+            "itemId": "89642f4b",
+            "enumHash": -1832891705,
+            "thumbnailUrl": "/global/catalog/rdr2/600e5f24/c5259d6c210d11cc0ab2be8d57c72bd51861506a.png",
+            "requirements": [],
+            "tags": [
+                841234757,
+                -1686717438,
+                -1529356747
+            ]
+        },
+        {
+            "twHex": "44042d50",
+            "itemId": "78218cc6",
+            "enumHash": 1141124432,
+            "thumbnailUrl": "/global/catalog/rdr2/42cd24a2/7fecdc68b755a833a6f8fc851073555b44dcd7d2.png",
+            "requirements": [],
+            "tags": [
+                841234757,
+                -1686717438,
+                -1529356747
+            ]
+        },
+        {
+            "twHex": "2e4201cc",
+            "itemId": "2c3cf516",
+            "enumHash": 776077772,
+            "thumbnailUrl": "/global/catalog/rdr2/34ba087c/7d9fd8a2d6c27a5fd4dc6da39e03b53760f7f00b.png",
+            "requirements": [],
+            "tags": [
+                841234757,
+                1211062975,
+                -1529356747
+            ]
+        },
+        {
+            "twHex": "184a55b9",
+            "itemId": "1a7f519b",
+            "enumHash": 407524793,
+            "thumbnailUrl": "/global/catalog/rdr2/27446d89/bb2e9afc05b14ab3fb784e38a461ae43af868cb8.png",
+            "requirements": [],
+            "tags": [
+                841234757,
+                1211062975,
+                -1529356747
+            ]
+        },
+        {
+            "twHex": "29907845",
+            "itemId": "509cbdbd",
+            "enumHash": 697333829,
+            "thumbnailUrl": "/global/catalog/rdr2/f306852a/84c1c2b4302f23db5052357fd1b005b8b56b4944.png",
+            "requirements": [],
+            "tags": [
+                841234757,
+                1211062975,
+                -1529356747
+            ]
+        }
+    ],
+    "group": "CLOTHING",
+    "images": [
+        {
+            "type": 0,
+            "url": "/global/catalog/rdr2/74fd6d09/d159cc79a260dfecd50371cc75b502e9a0312f6a.png",
+            "altText": ""
+        },
+        {
+            "type": 1,
+            "url": "/global/catalog/rdr2/74fd6d09/36b83da16740dd319837b0c9976bfd397d83e366.png",
+            "altText": ""
+        }
+    ],
+    "slots": [
+        {
+            "hash": -673000374,
+            "quantity": 1
+        }
+    ]
+}

@@ -1,0 +1,110 @@
+{
+    "id": "e45abd26",
+    "name": "Grinder Boots",
+    "brand": "e28b46eb",
+    "categories": [
+        "a0f21ff8/2d4bfa01"
+    ],
+    "description": "Studded genuine calf skin Grinder Boots. Premium point shaped toe, scalloped shaft boots featuring custom stitching and studding. Not clumsy in appearance. Conveys a certain stature.",
+    "variations": [
+        {
+            "itemId": "5d653160",
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 2825,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ]
+        },
+        {
+            "itemId": "ae054ec2",
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 2825,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ]
+        },
+        {
+            "itemId": "80c8f827",
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 2825,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ]
+        }
+    ],
+    "clothingVariations": [
+        {
+            "twHex": "c179b830",
+            "itemId": "5d653160",
+            "enumHash": -1048987600,
+            "thumbnailUrl": "/global/catalog/rdr2/076e99d4/7fbef8c133f87fae1b36b82793d892928317e392.png",
+            "requirements": [],
+            "tags": [
+                -2130978505,
+                -1686717438,
+                -1529356747
+            ]
+        },
+        {
+            "twHex": "cc129ca9",
+            "itemId": "ae054ec2",
+            "enumHash": -871195479,
+            "thumbnailUrl": "/global/catalog/rdr2/de57a0d0/e456cb0380a308696f28e7eb2a499759fa8c3d1c.png",
+            "requirements": [],
+            "tags": [
+                -2130978505,
+                1211062975,
+                -1529356747
+            ]
+        },
+        {
+            "twHex": "24fd7f3a",
+            "itemId": "80c8f827",
+            "enumHash": 620592954,
+            "thumbnailUrl": "/global/catalog/rdr2/263e5773/dfb712cb5724ae4378c7639856ef0e40fec8f14d.png",
+            "requirements": [],
+            "tags": [
+                -2130978505,
+                -1686717438,
+                -1529356747
+            ]
+        }
+    ],
+    "group": "CLOTHING",
+    "images": [
+        {
+            "type": 0,
+            "url": "/global/catalog/rdr2/d8a7529b/262de1ee98fbb2dd47fc8300a17a8ab603e049ef.png",
+            "altText": ""
+        },
+        {
+            "type": 1,
+            "url": "/global/catalog/rdr2/d8a7529b/e64e7914337ecc51f1de7fbbb00381ed71a2c91f.png",
+            "altText": ""
+        }
+    ],
+    "slots": [
+        {
+            "hash": -673000374,
+            "quantity": 1
+        }
+    ]
+}

@@ -1,0 +1,207 @@
+{
+    "id": "395f5fed",
+    "name": "Panama Hat",
+    "brand": "e28b46eb",
+    "categories": [
+        "a0f21ff8/0d073718"
+    ],
+    "description": "The Panama Hat with a pinched front crown and leather band. The classic design pioneered in Ecuador.    ",
+    "variations": [
+        {
+            "itemId": "e075c5a6",
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 1250,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ]
+        },
+        {
+            "itemId": "bc2568b5",
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 1250,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ]
+        },
+        {
+            "itemId": "b1df687a",
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 1250,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ]
+        },
+        {
+            "itemId": "f72e731b",
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 1250,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ]
+        },
+        {
+            "itemId": "c9649788",
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 1250,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ]
+        },
+        {
+            "itemId": "908ba5d7",
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 1250,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ]
+        },
+        {
+            "itemId": "03e10c80",
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 1250,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ]
+        }
+    ],
+    "clothingVariations": [
+        {
+            "twHex": "f218aa69",
+            "itemId": "e075c5a6",
+            "enumHash": -233264535,
+            "thumbnailUrl": "/global/catalog/rdr2/1592176c/6f573b6431bd32224df21e559c50ffbb1878d8e4.png",
+            "requirements": [],
+            "tags": [
+                827711708,
+                -1686717438
+            ]
+        },
+        {
+            "twHex": "0c978766",
+            "itemId": "bc2568b5",
+            "enumHash": 211257190,
+            "thumbnailUrl": "/global/catalog/rdr2/e57f3655/cbd5b22a1ef32108ad734a5e4a5e56976fe91d3e.png",
+            "requirements": [],
+            "tags": [
+                827711708,
+                1211062975
+            ]
+        },
+        {
+            "twHex": "9d9c8102",
+            "itemId": "b1df687a",
+            "enumHash": -1650687742,
+            "thumbnailUrl": "/global/catalog/rdr2/3ec969da/cb5da7c150a4303446692454c528c93f5fe709cf.png",
+            "requirements": [],
+            "tags": [
+                827711708,
+                -1686717438
+            ]
+        },
+        {
+            "twHex": "c0f9c7bc",
+            "itemId": "f72e731b",
+            "enumHash": -1057372228,
+            "thumbnailUrl": "/global/catalog/rdr2/b0334cac/ca9c3320aba452ef1ce852c0121e05e2b4611465.png",
+            "requirements": [],
+            "tags": [
+                827711708,
+                -1686717438
+            ]
+        },
+        {
+            "twHex": "ceb56333",
+            "itemId": "c9649788",
+            "enumHash": -826973389,
+            "thumbnailUrl": "/global/catalog/rdr2/da90a166/924e3f763f80442c87e07e62a9a2c56153f236e4.png",
+            "requirements": [],
+            "tags": [
+                827711708,
+                -1686717438
+            ]
+        },
+        {
+            "twHex": "64768eb7",
+            "itemId": "908ba5d7",
+            "enumHash": 1685491383,
+            "thumbnailUrl": "/global/catalog/rdr2/075ffb04/5a81884e3b24851f3e7ebf4c9e8907a5ecd997a1.png",
+            "requirements": [],
+            "tags": [
+                827711708,
+                1211062975
+            ]
+        },
+        {
+            "twHex": "6d6aa10b",
+            "itemId": "03e10c80",
+            "enumHash": 1835704587,
+            "thumbnailUrl": "/global/catalog/rdr2/47477ae6/a9fa82a2aa8471c5d4f925908caaedc68394dc52.png",
+            "requirements": [],
+            "tags": [
+                827711708,
+                1211062975
+            ]
+        }
+    ],
+    "group": "CLOTHING",
+    "images": [
+        {
+            "type": 0,
+            "url": "/global/catalog/rdr2/517d351e/d2e17611c5919c9ef60c2f37350ad0eadeb10060.png",
+            "altText": ""
+        },
+        {
+            "type": 1,
+            "url": "/global/catalog/rdr2/517d351e/e2cdfb06eb893b7aa6455b8caaf9f8d62767abd3.png",
+            "altText": ""
+        }
+    ],
+    "slots": [
+        {
+            "hash": -673000374,
+            "quantity": 0
+        }
+    ]
+}

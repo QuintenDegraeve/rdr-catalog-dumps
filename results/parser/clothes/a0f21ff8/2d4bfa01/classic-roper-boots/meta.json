@@ -1,0 +1,65 @@
+{
+    "id": "cf2a1199",
+    "name": "Classic Roper Boots",
+    "brand": "e28b46eb",
+    "categories": [
+        "a0f21ff8/2d4bfa01"
+    ],
+    "description": "Classic Roper Boots with a roper shaped toe, scalloped shaft. Whole stock, close fitting and unclumsy. A thoroughly reliable boot for little money.",
+    "variations": [
+        {
+            "itemId": "5658b260",
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 1600,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ]
+        }
+    ],
+    "clothingVariations": [
+        {
+            "twHex": "afd21bba",
+            "itemId": "5658b260",
+            "enumHash": -1345184838,
+            "thumbnailUrl": "/global/catalog/rdr2/35223547/e4d941735210f6997cc796e3c1367b21d4fac1c1.png",
+            "requirements": [
+                {
+                    "type": -253134813,
+                    "value": "-1130204298"
+                }
+            ],
+            "tags": [
+                -534068000,
+                1168524201,
+                1653317527,
+                -1686717438,
+                -1529356747
+            ]
+        }
+    ],
+    "group": "CLOTHING",
+    "images": [
+        {
+            "type": 0,
+            "url": "/global/catalog/rdr2/e37e6769/4d1f82c6b623cc6ba716407744c1331f1f02a0fe.png",
+            "altText": ""
+        },
+        {
+            "type": 1,
+            "url": "/global/catalog/rdr2/e37e6769/a38e5d8571af94649365990e9516158a35099b1c.png",
+            "altText": ""
+        }
+    ],
+    "slots": [
+        {
+            "hash": -673000374,
+            "quantity": 1
+        }
+    ]
+}

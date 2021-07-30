@@ -1,0 +1,194 @@
+{
+    "id": "74a5f70d",
+    "name": "Denim Jeans",
+    "brand": "e28b46eb",
+    "categories": [
+        "a0f21ff8/c11e9ba4"
+    ],
+    "description": "Denim Jeans. Reinforced with rivets. All of our garments are built to last. We cannot begin to mention one half of the accolades we receive about these jeans.",
+    "variations": [
+        {
+            "itemId": "4aff776e",
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 700,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ]
+        },
+        {
+            "itemId": "23a928c2",
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 700,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ]
+        },
+        {
+            "itemId": "a69eaeab",
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 700,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ]
+        },
+        {
+            "itemId": "1cae9cd9",
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 700,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ]
+        },
+        {
+            "itemId": "9a8d1890",
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 700,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ]
+        },
+        {
+            "itemId": "b57b4e6c",
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 700,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ]
+        }
+    ],
+    "clothingVariations": [
+        {
+            "twHex": "d9b51108",
+            "itemId": "4aff776e",
+            "enumHash": -642445048,
+            "thumbnailUrl": "/global/catalog/rdr2/5889159a/60e68035ee4704977339a4f3590ca92cdf381508.png",
+            "requirements": [],
+            "tags": [
+                -489111889,
+                -512874806,
+                -1686717438
+            ]
+        },
+        {
+            "twHex": "150807ad",
+            "itemId": "23a928c2",
+            "enumHash": 352847789,
+            "thumbnailUrl": "/global/catalog/rdr2/85cbf01f/f44b7cbda33e6a233977e0e02f3aaa81631f9957.png",
+            "requirements": [],
+            "tags": [
+                -489111889,
+                -512874806,
+                -1686717438
+            ]
+        },
+        {
+            "twHex": "fec8db2f",
+            "itemId": "a69eaeab",
+            "enumHash": -20391121,
+            "thumbnailUrl": "/global/catalog/rdr2/0b0ffaa5/da94301e20804e4243614b0b7cfc0aa040d1ad8e.png",
+            "requirements": [],
+            "tags": [
+                -489111889,
+                -512874806,
+                -1686717438
+            ]
+        },
+        {
+            "twHex": "ae58bc70",
+            "itemId": "1cae9cd9",
+            "enumHash": -1369916304,
+            "thumbnailUrl": "/global/catalog/rdr2/161817a5/820cc1e969ad445e7b2e70588a2fc1e53865f16e.png",
+            "requirements": [],
+            "tags": [
+                -489111889,
+                -512874806,
+                1211062975
+            ]
+        },
+        {
+            "twHex": "bc9b58f5",
+            "itemId": "9a8d1890",
+            "enumHash": -1130669835,
+            "thumbnailUrl": "/global/catalog/rdr2/9e652845/c2109ac9060197017a24d2bdac98324c73309f5e.png",
+            "requirements": [],
+            "tags": [
+                -489111889,
+                -512874806,
+                1211062975
+            ]
+        },
+        {
+            "twHex": "e0a32124",
+            "itemId": "b57b4e6c",
+            "enumHash": -526180060,
+            "thumbnailUrl": "/global/catalog/rdr2/fb1c61ae/c47ef02f6f1ccd459a3c318fb02315099d2977d7.png",
+            "requirements": [
+                {
+                    "type": -253134813,
+                    "value": "-1130204298"
+                }
+            ],
+            "tags": [
+                1690224211,
+                -489111889,
+                -512874806,
+                1211062975
+            ]
+        }
+    ],
+    "group": "CLOTHING",
+    "images": [
+        {
+            "type": 0,
+            "url": "/global/catalog/rdr2/7707aa7f/15f8f4287b2b80704b682a85cd42a2eb6d7c90ba.png",
+            "altText": ""
+        },
+        {
+            "type": 1,
+            "url": "/global/catalog/rdr2/7707aa7f/69c5c4f57d68b088a1bf67080effb6f20320a400.png",
+            "altText": ""
+        }
+    ],
+    "slots": [
+        {
+            "hash": -673000374,
+            "quantity": 1
+        }
+    ]
+}

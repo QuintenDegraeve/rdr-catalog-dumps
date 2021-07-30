@@ -1,0 +1,113 @@
+{
+    "id": "7f6c721b",
+    "name": "Hunting Fowler Boots",
+    "brand": "e28b46eb",
+    "categories": [
+        "a0f21ff8/2d4bfa01"
+    ],
+    "description": "Men's Hunting Fowler Boots. Made from an extra fine selection of premium calfskin. Fowler shaped toe, wide stovepipe shaft. Warrantied.",
+    "variations": [
+        {
+            "itemId": "6c8300a7",
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 1750,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ]
+        },
+        {
+            "itemId": "d020c7e9",
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 1750,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ]
+        },
+        {
+            "itemId": "065a345b",
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 1750,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ]
+        }
+    ],
+    "clothingVariations": [
+        {
+            "twHex": "6ca642d0",
+            "itemId": "6c8300a7",
+            "enumHash": 1822835408,
+            "thumbnailUrl": "/global/catalog/rdr2/4f0da5c0/6a993c62a1c8d9d8e66cd2aba7f4ee774c1028aa.png",
+            "requirements": [
+                {
+                    "type": -253134813,
+                    "value": "-1130204298"
+                }
+            ],
+            "tags": [
+                -2109582276,
+                621585554,
+                -1529356747
+            ]
+        },
+        {
+            "twHex": "27ae38fd",
+            "itemId": "d020c7e9",
+            "enumHash": 665729277,
+            "thumbnailUrl": "/global/catalog/rdr2/aa62dc69/7509abb3276dea6842e6e51c84bd00dc3baf006d.png",
+            "requirements": [],
+            "tags": [
+                621585554,
+                -1529356747
+            ]
+        },
+        {
+            "twHex": "e290aec3",
+            "itemId": "065a345b",
+            "enumHash": -493834557,
+            "thumbnailUrl": "/global/catalog/rdr2/a8aad905/b5c272e44d1781a06e5465d9a21925d869936e4b.png",
+            "requirements": [],
+            "tags": [
+                621585554,
+                -1529356747
+            ]
+        }
+    ],
+    "group": "CLOTHING",
+    "images": [
+        {
+            "type": 0,
+            "url": "/global/catalog/rdr2/be919d90/db16c61ca2946b5d1c356919ab3d06a5fd1da3d2.png",
+            "altText": ""
+        },
+        {
+            "type": 1,
+            "url": "/global/catalog/rdr2/be919d90/22e1d7f6cb61499b578f099328a6d1bdfd5c8a24.png",
+            "altText": ""
+        }
+    ],
+    "slots": [
+        {
+            "hash": -673000374,
+            "quantity": 1
+        }
+    ]
+}

@@ -1,0 +1,313 @@
+{
+    "id": "90b005c5",
+    "name": "Plata Pants",
+    "brand": "e28b46eb",
+    "categories": [
+        "a0f21ff8/c11e9ba4",
+        "a0f21ff8/b2f9966d"
+    ],
+    "description": "Classic straight-legged trousers with a unique draped front and back. Machine sewn.",
+    "variations": [
+        {
+            "itemId": "ee32c1be",
+            "costs": [
+                {
+                    "currencyHash": 773203532,
+                    "nameHash": -570078785,
+                    "isFromPrice": false,
+                    "price": 500,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ]
+        },
+        {
+            "itemId": "c6bef2d7",
+            "costs": [
+                {
+                    "currencyHash": 773203532,
+                    "nameHash": -570078785,
+                    "isFromPrice": false,
+                    "price": 500,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ]
+        },
+        {
+            "itemId": "9d0c9f73",
+            "costs": [
+                {
+                    "currencyHash": 773203532,
+                    "nameHash": -570078785,
+                    "isFromPrice": false,
+                    "price": 500,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ]
+        },
+        {
+            "itemId": "e352abfe",
+            "costs": [
+                {
+                    "currencyHash": 773203532,
+                    "nameHash": -570078785,
+                    "isFromPrice": false,
+                    "price": 500,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ]
+        },
+        {
+            "itemId": "4786746c",
+            "costs": [
+                {
+                    "currencyHash": 773203532,
+                    "nameHash": -570078785,
+                    "isFromPrice": false,
+                    "price": 500,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ]
+        },
+        {
+            "itemId": "fdb060b9",
+            "costs": [
+                {
+                    "currencyHash": 773203532,
+                    "nameHash": -570078785,
+                    "isFromPrice": false,
+                    "price": 500,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ]
+        },
+        {
+            "itemId": "d36a0c2d",
+            "costs": [
+                {
+                    "currencyHash": 773203532,
+                    "nameHash": -570078785,
+                    "isFromPrice": false,
+                    "price": 500,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ]
+        },
+        {
+            "itemId": "1c7c1e54",
+            "costs": [
+                {
+                    "currencyHash": 773203532,
+                    "nameHash": -570078785,
+                    "isFromPrice": false,
+                    "price": 500,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ]
+        },
+        {
+            "itemId": "204725ea",
+            "costs": [
+                {
+                    "currencyHash": 773203532,
+                    "nameHash": -570078785,
+                    "isFromPrice": false,
+                    "price": 500,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ]
+        },
+        {
+            "itemId": "73a15265",
+            "costs": [
+                {
+                    "currencyHash": 773203532,
+                    "nameHash": -570078785,
+                    "isFromPrice": false,
+                    "price": 500,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ]
+        }
+    ],
+    "clothingVariations": [
+        {
+            "twHex": "89fab8e1",
+            "itemId": "ee32c1be",
+            "enumHash": -1980057375,
+            "thumbnailUrl": "/global/catalog/rdr2/69693177/162ece4e4667336f30667654ff9ffb9ee7d83caf.png",
+            "unlockRank": 1,
+            "requirements": [],
+            "tags": [
+                -287432114,
+                -1016441646,
+                -1251919646,
+                1226997360
+            ]
+        },
+        {
+            "twHex": "7b411b6e",
+            "itemId": "c6bef2d7",
+            "enumHash": 2067864430,
+            "thumbnailUrl": "/global/catalog/rdr2/78d6d052/c3f781c66110659f1deace8c070766a3bf1d36d0.png",
+            "unlockRank": 1,
+            "requirements": [],
+            "tags": [
+                -287432114,
+                -1016441646,
+                -1251919646,
+                1226997360
+            ]
+        },
+        {
+            "twHex": "e65ff1aa",
+            "itemId": "9d0c9f73",
+            "enumHash": -429919830,
+            "thumbnailUrl": "/global/catalog/rdr2/8f23fcec/d8f8c0db47c7913fe06d0e43bec811a6b9e722ab.png",
+            "unlockRank": 1,
+            "requirements": [],
+            "tags": [
+                -287432114,
+                -1016441646,
+                -1251919646,
+                1226997360
+            ]
+        },
+        {
+            "twHex": "d7bf5469",
+            "itemId": "e352abfe",
+            "enumHash": -675326871,
+            "thumbnailUrl": "/global/catalog/rdr2/952f08ba/e75d8e721ecb90d5cdfc0514fc15af9d0abd4b0a.png",
+            "unlockRank": 1,
+            "requirements": [],
+            "tags": [
+                -287432114,
+                -1016441646,
+                -1251919646,
+                1226997360
+            ]
+        },
+        {
+            "twHex": "bbf91ce9",
+            "itemId": "4786746c",
+            "enumHash": -1141302039,
+            "thumbnailUrl": "/global/catalog/rdr2/a696ab89/8c7ed01270aad65a33f8f6bb1ac1355d6fb32523.png",
+            "unlockRank": 1,
+            "requirements": [],
+            "tags": [
+                -287432114,
+                -1016441646,
+                -1251919646,
+                1226997360
+            ]
+        },
+        {
+            "twHex": "df33635d",
+            "itemId": "fdb060b9",
+            "enumHash": -550280355,
+            "thumbnailUrl": "/global/catalog/rdr2/b7c04ddc/2ff6556bd640a23b17361a43109b6a09b8da6d78.png",
+            "unlockRank": 1,
+            "requirements": [],
+            "tags": [
+                -287432114,
+                -1016441646,
+                -1251919646,
+                1226997360
+            ]
+        },
+        {
+            "twHex": "185655a2",
+            "itemId": "d36a0c2d",
+            "enumHash": 408311202,
+            "thumbnailUrl": "/global/catalog/rdr2/c1fb6252/178aa075f6fe58e75e169d58245efa348f4f0e9e.png",
+            "unlockRank": 1,
+            "requirements": [],
+            "tags": [
+                -287432114,
+                -1016441646,
+                -1251919646,
+                1226997360
+            ]
+        },
+        {
+            "twHex": "c984b800",
+            "itemId": "1c7c1e54",
+            "enumHash": -914049024,
+            "thumbnailUrl": "/global/catalog/rdr2/d32e04b7/f99787679a66fec226c27095e2b7cef287ab3130.png",
+            "unlockRank": 1,
+            "requirements": [],
+            "tags": [
+                -287432114,
+                -1016441646,
+                -1251919646,
+                1226997360
+            ]
+        },
+        {
+            "twHex": "02c2aa7b",
+            "itemId": "204725ea",
+            "enumHash": 46312059,
+            "thumbnailUrl": "/global/catalog/rdr2/fd6c5933/5568274fddd6417586d71302f2150b4a59809976.png",
+            "unlockRank": 1,
+            "requirements": [],
+            "tags": [
+                -287432114,
+                -1016441646,
+                -1251919646,
+                1226997360
+            ]
+        },
+        {
+            "twHex": "41de8dbd",
+            "itemId": "73a15265",
+            "enumHash": 1105104317,
+            "thumbnailUrl": "/global/catalog/rdr2/377cd0c3/41674c285f0d955306cf17d81b8005197439985c.png",
+            "unlockRank": 1,
+            "requirements": [],
+            "tags": [
+                -287432114,
+                -1016441646,
+                -1251919646,
+                1226997360
+            ]
+        }
+    ],
+    "group": "CLOTHING",
+    "images": [
+        {
+            "type": 0,
+            "url": "/global/catalog/rdr2/a4b2e0dc/91becbc79f992ca87f4c3aebf42a73e8e41927bb.png",
+            "altText": ""
+        },
+        {
+            "type": 1,
+            "url": "/global/catalog/rdr2/a4b2e0dc/89582ef583700d121ac197279c22a1f5425dafb1.png",
+            "altText": ""
+        }
+    ],
+    "slots": [
+        {
+            "hash": -673000374,
+            "quantity": 1
+        }
+    ]
+}

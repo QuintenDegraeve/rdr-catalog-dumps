@@ -1,0 +1,144 @@
+{
+    "id": "177b9d75",
+    "name": "Western Deluxe Spurs ",
+    "brand": "e28b46eb",
+    "categories": [
+        "a0f21ff8/cc9dfd60/dc72dd86"
+    ],
+    "description": "Western Deluxe Spurs. Sleeked hand stitched studded leather boot straps with engraved steel buckles, conchos and heel band, shank and 8 point rowels.",
+    "variations": [
+        {
+            "itemId": "4d29e456",
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 1625,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ]
+        },
+        {
+            "itemId": "16ee77e0",
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 1625,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ]
+        },
+        {
+            "itemId": "e3af1162",
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 1625,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ]
+        },
+        {
+            "itemId": "7cc1c391",
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 1625,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ]
+        }
+    ],
+    "clothingVariations": [
+        {
+            "twHex": "633b2062",
+            "itemId": "4d29e456",
+            "enumHash": 1664819298,
+            "thumbnailUrl": "/global/catalog/rdr2/0540bb0c/948ef4c30b62b7bbdcc83b68d7b09e71af3f89a5.png",
+            "requirements": [],
+            "tags": [
+                1473170870,
+                -1686717438
+            ]
+        },
+        {
+            "twHex": "ac74b2d4",
+            "itemId": "16ee77e0",
+            "enumHash": -1401638188,
+            "thumbnailUrl": "/global/catalog/rdr2/bc9729ba/d0c9ec252773cc90f369e5f2a4d7902465ed9592.png",
+            "requirements": [
+                {
+                    "type": -253134813,
+                    "value": "-1130204298"
+                }
+            ],
+            "tags": [
+                1690224211,
+                1473170870,
+                -1686717438
+            ]
+        },
+        {
+            "twHex": "9e371659",
+            "itemId": "e3af1162",
+            "enumHash": -1640556967,
+            "thumbnailUrl": "/global/catalog/rdr2/c7d7403e/f656acc35b6294cab515ff9e13241372d5b3fd5d.png",
+            "requirements": [
+                {
+                    "type": -253134813,
+                    "value": "-1130204298"
+                }
+            ],
+            "tags": [
+                644529763,
+                1473170870,
+                1211062975
+            ]
+        },
+        {
+            "twHex": "f06d3af0",
+            "itemId": "7cc1c391",
+            "enumHash": -261276944,
+            "thumbnailUrl": "/global/catalog/rdr2/bf9c2fc8/190424e8b8f1110d77ca0ff6db2ef201b09a24ea.png",
+            "requirements": [],
+            "tags": [
+                1473170870,
+                1211062975
+            ]
+        }
+    ],
+    "group": "CLOTHING",
+    "images": [
+        {
+            "type": 0,
+            "url": "/global/catalog/rdr2/8e4e846b/73656faf59a44058eb4f4ce440b490bc374643a5.png",
+            "altText": ""
+        },
+        {
+            "type": 1,
+            "url": "/global/catalog/rdr2/8e4e846b/d17ca188646fd09e3dbffcc09c097baf43b355f5.png",
+            "altText": ""
+        }
+    ],
+    "slots": [
+        {
+            "hash": -673000374,
+            "quantity": 1
+        }
+    ]
+}

@@ -1,0 +1,172 @@
+{
+    "id": "67c8d864",
+    "name": "Embossed Horsemanship Gun Belt",
+    "brand": "e28b46eb",
+    "categories": [
+        "85306e52/dd31f1a0"
+    ],
+    "description": "Neatly finished, 2 1/2\" blackened leather Gun Belt, fully embossed and sporting bronze horseshoe buckles.",
+    "variations": [
+        {
+            "itemId": "700848b8",
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 6250,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                },
+                {
+                    "currencyHash": 773203532,
+                    "nameHash": -570078785,
+                    "isFromPrice": false,
+                    "price": 300,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ]
+        },
+        {
+            "itemId": "81c7ec37",
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 6250,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                },
+                {
+                    "currencyHash": 773203532,
+                    "nameHash": -570078785,
+                    "isFromPrice": false,
+                    "price": 300,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ]
+        },
+        {
+            "itemId": "082578ec",
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 6250,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                },
+                {
+                    "currencyHash": 773203532,
+                    "nameHash": -570078785,
+                    "isFromPrice": false,
+                    "price": 300,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ]
+        },
+        {
+            "itemId": "99bc1c1f",
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 6250,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                },
+                {
+                    "currencyHash": 773203532,
+                    "nameHash": -570078785,
+                    "isFromPrice": false,
+                    "price": 300,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ]
+        }
+    ],
+    "clothingVariations": [
+        {
+            "twHex": "0a0e0f5a",
+            "itemId": "700848b8",
+            "enumHash": 168693594,
+            "thumbnailUrl": "/global/catalog/rdr2/e67ffe19/4182e70834bab71f24129cbf39a0c75bf4013f73.png",
+            "unlockRank": 94,
+            "requirements": [],
+            "tags": [
+                -133342564,
+                -329392121
+            ]
+        },
+        {
+            "twHex": "2a845046",
+            "itemId": "81c7ec37",
+            "enumHash": 713314374,
+            "thumbnailUrl": "/global/catalog/rdr2/e7cc00b1/561f3e1525da7f1f6dc7a347072c6c8a91190a2d.png",
+            "unlockRank": 94,
+            "requirements": [],
+            "tags": [
+                -133342564,
+                -329392121
+            ]
+        },
+        {
+            "twHex": "668fc85c",
+            "itemId": "082578ec",
+            "enumHash": 1720698972,
+            "thumbnailUrl": "/global/catalog/rdr2/faa1a65c/d72d4aa22daa84e9705b9ba178e648ca21536504.png",
+            "unlockRank": 94,
+            "requirements": [],
+            "tags": [
+                -133342564,
+                -329392121
+            ]
+        },
+        {
+            "twHex": "18fead3b",
+            "itemId": "99bc1c1f",
+            "enumHash": 419343675,
+            "thumbnailUrl": "/global/catalog/rdr2/0d48cbaa/063c72dd653463461eb0a6da1962cf14cb58d6d7.png",
+            "unlockRank": 94,
+            "requirements": [],
+            "tags": [
+                -133342564,
+                -329392121
+            ]
+        }
+    ],
+    "group": "CLOTHING",
+    "images": [
+        {
+            "type": 0,
+            "url": "/global/catalog/rdr2/44900732/4978c8a161bbd00b42836fa7a8e24d78f567b4ba.png",
+            "altText": ""
+        },
+        {
+            "type": 1,
+            "url": "/global/catalog/rdr2/44900732/a32cb85a33f3201c034afe72e0e5a7529cde1b6c.png",
+            "altText": ""
+        }
+    ],
+    "slots": [
+        {
+            "hash": -673000374,
+            "quantity": 1
+        }
+    ]
+}

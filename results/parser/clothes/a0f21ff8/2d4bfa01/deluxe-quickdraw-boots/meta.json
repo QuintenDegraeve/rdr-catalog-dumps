@@ -1,0 +1,162 @@
+{
+    "id": "9ab19db1",
+    "name": "Deluxe Quickdraw Boots",
+    "brand": "e28b46eb",
+    "categories": [
+        "a0f21ff8/2d4bfa01"
+    ],
+    "description": "Hand tooled Deluxe Quickdraw Boots. The choicest stock, assembled by craftsmen boot makers. Roper shaped toe. This is a strictly solid pair of boots with nothing shoddy used in the making.",
+    "variations": [
+        {
+            "itemId": "d09bb9b5",
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 2450,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ]
+        },
+        {
+            "itemId": "7b370eed",
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 2450,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ]
+        },
+        {
+            "itemId": "9f8ad794",
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 2450,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ]
+        },
+        {
+            "itemId": "b38cff98",
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 2450,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ]
+        },
+        {
+            "itemId": "422d9cdb",
+            "costs": [
+                {
+                    "currencyHash": 2084597891,
+                    "nameHash": -915411861,
+                    "isFromPrice": false,
+                    "price": 2450,
+                    "quantity": 1,
+                    "unlockEnums": [],
+                    "unlockIds": []
+                }
+            ]
+        }
+    ],
+    "clothingVariations": [
+        {
+            "twHex": "257d9ce3",
+            "itemId": "d09bb9b5",
+            "enumHash": 628989155,
+            "thumbnailUrl": "/global/catalog/rdr2/4af81c85/1f8a0b0e071b69af1833685903e6a1984249f691.png",
+            "requirements": [],
+            "tags": [
+                -731709200,
+                1211062975,
+                -1529356747
+            ]
+        },
+        {
+            "twHex": "7bc2496b",
+            "itemId": "7b370eed",
+            "enumHash": 2076330347,
+            "thumbnailUrl": "/global/catalog/rdr2/5fa1c5d8/44b0a1db5bd0b754fef538e0a5a88f085576f927.png",
+            "requirements": [],
+            "tags": [
+                -731709200,
+                -1686717438,
+                -1529356747
+            ]
+        },
+        {
+            "twHex": "5e570e95",
+            "itemId": "9f8ad794",
+            "enumHash": 1582763669,
+            "thumbnailUrl": "/global/catalog/rdr2/03ce8e33/e7f8f0816373540ce740a620f17bc664fb643fef.png",
+            "requirements": [],
+            "tags": [
+                -731709200,
+                -1686717438,
+                -1529356747
+            ]
+        },
+        {
+            "twHex": "508df303",
+            "itemId": "b38cff98",
+            "enumHash": 1351480067,
+            "thumbnailUrl": "/global/catalog/rdr2/6d526139/6f204f6da9663270b5d342aef335585b5b58a175.png",
+            "requirements": [],
+            "tags": [
+                -731709200,
+                -1686717438,
+                -1529356747
+            ]
+        },
+        {
+            "twHex": "d4cbfb79",
+            "itemId": "422d9cdb",
+            "enumHash": -724829319,
+            "thumbnailUrl": "/global/catalog/rdr2/38a677e2/066177c73c9e084a2cd9f4e72002bb7788267363.png",
+            "requirements": [],
+            "tags": [
+                -731709200,
+                1211062975,
+                -1529356747
+            ]
+        }
+    ],
+    "group": "CLOTHING",
+    "images": [
+        {
+            "type": 0,
+            "url": "/global/catalog/rdr2/0d33b867/18fb493a835f35df3658dda5cf71ed48b8e2799b.png",
+            "altText": ""
+        },
+        {
+            "type": 1,
+            "url": "/global/catalog/rdr2/0d33b867/ab3dfc7ccbd03f01c7e682eaf369990d409eec80.png",
+            "altText": ""
+        }
+    ],
+    "slots": [
+        {
+            "hash": -673000374,
+            "quantity": 1
+        }
+    ]
+}
