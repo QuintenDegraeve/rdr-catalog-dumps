@@ -1,14 +1,62 @@
 import fs, { PathLike } from 'fs';
+import http from 'http';
+import path from 'path';
 
 import glob from 'glob';
 import arg from 'arg';
 import to from 'await-to-js';
+import async from 'async';
+
+const download = (object: { url: string, destination: string }, callback?: Function) => {
+    const { url, destination } = object;
+    const file: any = fs.createWriteStream(destination);
+    const request = http.get(url, function (response) {
+        fs.mkdir(path.parse(destination).dir, { recursive: true }, (err) => {
+            if (err) throw err;
+
+            response.pipe(file);
+            file.on('finish', function () {
+                file.close(callback);  
+            });
+        });
+    }).on('error', function (err) { 
+        if (callback) callback(err.message);
+    });
+};
+
+const writeObjectToFile = (data: any, destination: string) => {
+    fs.mkdir(path.parse(destination).dir, { recursive: true }, (err) => {
+        if (err) throw err;
+
+        fs.writeFile(destination, JSON.stringify(data, null, 4), (e) => console.log('writeFile::', e));
+    });
+};
+
+const slufigy = (str) => {
+    str = str.replace(/^\s+|\s+$/g, ''); // trim
+    str = str.toLowerCase();
+
+    // remove accents, swap ñ for n, etc
+    var from = "àáãäâèéëêìíïîòóöôùúüûñç·/_,:;";
+    var to   = "aaaaaeeeeiiiioooouuuunc------";
+
+    for (var i=0, l=from.length ; i<l ; i++) {
+        str = str.replace(new RegExp(from.charAt(i), 'g'), to.charAt(i));
+    }
+
+    str = str.replace(/[^a-z0-9 -]/g, '') // remove invalid chars
+        .replace(/\s+/g, '-') // collapse whitespace and replace by -
+        .replace(/-+/g, '-'); // collapse dashes
+
+    return str;
+}
 
 const {_, ...args} = arg({
     // 'raw'
     // 'minified
     // 'concat' 
-    '--mode': String
+    '--mode': String,
+    '--download': Boolean
 });
 
 
@@ -140,6 +188,7 @@ if (_.includes('minified') || _.includes('raw')) glob('results/scraper/{singlepl
                 id: item.id,
                 name: item.englishName || item.name,
                 brand: item.brand,
+                categories: item.categories,
                 description: item.description || item.webDescription1,
                 variations: item.variations,
                 clothingVariations: item.clothingVariations.map((variant: any) => ({ twHex: toTwosComplementHex(variant.enumHash), ...variant })),
@@ -149,7 +198,30 @@ if (_.includes('minified') || _.includes('raw')) glob('results/scraper/{singlepl
             }))
         };
 
-        return (_.includes('minified')) ? stripped : full;
+        const result = (_.includes('minified')) ? stripped : full;
+        const queue = async.queue(download, 1);
+
+        if (args['--download']) {
+            full.items.forEach(item => {
+                const { clothingVariations, brand, name, categories } = item;
+                const isClothing = clothingVariations.length >= 1;
+                const folder = (categories) ? categories[0] : 'nan';
+                
+
+                if (isClothing) {
+                    writeObjectToFile(item, `./results/parser/clothes/${folder}/${slufigy(name)}/meta.json`);
+
+                    clothingVariations.forEach(variation => {
+                        const { thumbnailUrl, twHex } = variation;
+                        queue.push({url: `http://prod.cloud.rockstargames.com${thumbnailUrl}`, destination: `./results/parser/clothes/${folder}/${slufigy(name)}/0x${twHex}.png`}, () => console.log('download called'));
+                    });
+                }
+            });
+            
+
+        }
+
+        return result;
     });
 
     (async () => {
